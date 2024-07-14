@@ -1,0 +1,143 @@
+[
+    {
+        "_id": "66942b7845a462962e4d61b2",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22549769629569838492850401",
+                    "std_value": 22549769.62956984
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58483759313765090243592",
+                    "std_value": 58483.759313765084
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-07-14 19:48:08.140000"
+    },
+    {
+        "_id": "66942b8d6366cba7261803c9",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22549769629569838492850401",
+                    "std_value": 22549769.62956984
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58483759583062047743592",
+                    "std_value": 58483.75958306204
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-07-14 19:48:29.667000"
+    },
+    {
+        "_id": "66943c970c053307911e595b",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22549836706051012927141468",
+                    "std_value": 22549836.706051014
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58483784764347948393549",
+                    "std_value": 58483.784764347954
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-07-14 21:01:11.539000"
+    }
+]
