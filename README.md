@@ -57,7 +57,6 @@ git clone git@github.com:DaniMarques1/gov_treasury_hackaton.git
 
 2 - Access the Frontend Streamlit Local folder:
 ```bash
-cd gov_treasury_hackaton
 cd frontend
 cd streamlit
 ```
