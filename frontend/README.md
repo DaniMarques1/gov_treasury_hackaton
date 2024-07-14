@@ -11,13 +11,14 @@ git clone git@github.com:DaniMarques1/gov_treasury_hackaton.git
 
 2 - Access the Frontend Streamlit Local folder:
 ```bash
+cd gov_treasury_hackaton
 cd frontend
 cd streamlit
 ```
 
 3 - Install the requirements:
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 4 - Get the server page running:
