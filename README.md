@@ -74,5 +74,5 @@ streamlit run Homepage.py
 
 ### Online app:
 
-It is also possible to use the Frontend via the link.
-https://.../
+It is also possible to see the app MVP via the link.
+(https://govhackaton.streamlit.app/)
