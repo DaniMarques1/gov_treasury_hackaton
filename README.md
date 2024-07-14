@@ -48,8 +48,6 @@ For the most impact, we encourage participants to do both tracks and include int
 
 This app shows data tracked from the Axie Gov Treasury, utilizing charts for a visual analysis.
 
-### How to use
-
 1 - Copy the git repository:
 ```bash
 git clone git@github.com:DaniMarques1/gov_treasury_hackaton.git
