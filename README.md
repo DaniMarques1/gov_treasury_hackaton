@@ -40,7 +40,6 @@ For the most impact, we encourage participants to do both tracks and include int
 
 - Python
 - Streamlit
-- CSS
 - HTML
 
 ----------------------------------------------------------
