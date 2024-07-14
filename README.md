@@ -47,8 +47,6 @@ For the most impact, we encourage participants to do both tracks and include int
 
 ### How to Use
 
-# Full Stack APP for Axie Gov Treasury Data Hackathon - Daniboo
-
 This app shows data tracked from the Axie Gov Treasury, utilizing charts for a visual analysis.
 
 ### How to use
