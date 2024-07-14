@@ -1,6 +1,0 @@
-pymongo
-requests
-bson
-streamlit
-pandas
-altair
