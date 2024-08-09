@@ -1,4 +1,5 @@
 import pandas as pd
+from datetime import datetime
 import streamlit as st
 import altair as alt
 import json
@@ -71,13 +72,17 @@ filtered_df['weth_marketplace'] = filtered_df['weth_marketplace'].round(2)
 filtered_df['cumulative_weth_marketplace'] = filtered_df['cumulative_weth_marketplace'].round(2)
 
 # Fetch WETH price from the latest document in the "currency" collection
+currency_df = currency_df.sort_values(by='timestamp', ascending=False)
 latest_weth_price = currency_df['weth_price'].iloc[0]
+latest_timestamp = currency_df['timestamp'].iloc[0]  # Fetch the corresponding timestamp
 
 # Calculate total value in USD
 total_weth_marketplace = filtered_df['weth_marketplace'].sum()
 total_value_usd = total_weth_marketplace * latest_weth_price
 
 st.markdown(f"<h3 style='text-align: center;'>Total WETH: {total_weth_marketplace:,.2f} (${total_value_usd:,.2f})</h3>", unsafe_allow_html=True)
+formatted_timestamp = pd.to_datetime(latest_timestamp).strftime('%Y-%m-%d')
+st.markdown(f"<p style='text-align: center; color: grey;'>WETH price: ${latest_weth_price:,.2f} ({formatted_timestamp})</p>", unsafe_allow_html=True)
 
 # Define a selection interval for zooming and panning
 selection = alt.selection_interval(bind='scales')

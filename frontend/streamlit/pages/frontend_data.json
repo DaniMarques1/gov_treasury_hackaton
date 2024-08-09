@@ -1,6 +1,6 @@
 [
     {
-        "_id": "66943b13a9dd2e5698bf5623",
+        "_id": "66b60a5bb80e57a1c1cfd757",
         "timestamp": "2024-01-01 00:00:00",
         "axs_ascending": 60.35875605254503,
         "axs_breeding": 145.5,
@@ -9,7 +9,7 @@
         "weth_marketplace": 1.0198947699123397
     },
     {
-        "_id": "66943b13a9dd2e5698bf5625",
+        "_id": "66b60a5bb80e57a1c1cfd759",
         "timestamp": "2024-01-02 00:00:00",
         "axs_ascending": 83.52943091055288,
         "axs_breeding": 351.5,
@@ -18,7 +18,7 @@
         "weth_marketplace": 1.4743871884235367
     },
     {
-        "_id": "66943b13a9dd2e5698bf5627",
+        "_id": "66b60a5bb80e57a1c1cfd75b",
         "timestamp": "2024-01-03 00:00:00",
         "axs_ascending": 112.89682425504742,
         "axs_breeding": 422.5,
@@ -27,7 +27,7 @@
         "weth_marketplace": 1.7876092671651342
     },
     {
-        "_id": "66943b13a9dd2e5698bf5629",
+        "_id": "66b60a5bb80e57a1c1cfd75d",
         "timestamp": "2024-01-04 00:00:00",
         "axs_ascending": 104.70312454622973,
         "axs_breeding": 509.0,
@@ -36,7 +36,7 @@
         "weth_marketplace": 1.5708860869653785
     },
     {
-        "_id": "66943b13a9dd2e5698bf562b",
+        "_id": "66b60a5bb80e57a1c1cfd75f",
         "timestamp": "2024-01-05 00:00:00",
         "axs_ascending": 103.61726827841053,
         "axs_breeding": 277.0,
@@ -45,7 +45,7 @@
         "weth_marketplace": 1.6475925026573865
     },
     {
-        "_id": "66943b13a9dd2e5698bf562d",
+        "_id": "66b60a5bb80e57a1c1cfd761",
         "timestamp": "2024-01-06 00:00:00",
         "axs_ascending": 94.3371128127329,
         "axs_breeding": 264.0,
@@ -54,7 +54,7 @@
         "weth_marketplace": 1.5690399245570799
     },
     {
-        "_id": "66943b13a9dd2e5698bf562f",
+        "_id": "66b60a5bb80e57a1c1cfd763",
         "timestamp": "2024-01-07 00:00:00",
         "axs_ascending": 93.6930599393254,
         "axs_breeding": 339.5,
@@ -63,7 +63,7 @@
         "weth_marketplace": 1.4510493666054838
     },
     {
-        "_id": "66943b13a9dd2e5698bf5631",
+        "_id": "66b60a5bb80e57a1c1cfd765",
         "timestamp": "2024-01-08 00:00:00",
         "axs_ascending": 92.62188486933121,
         "axs_breeding": 352.5,
@@ -72,7 +72,7 @@
         "weth_marketplace": 1.3102647764750526
     },
     {
-        "_id": "66943b13a9dd2e5698bf5633",
+        "_id": "66b60a5bb80e57a1c1cfd767",
         "timestamp": "2024-01-09 00:00:00",
         "axs_ascending": 85.61422326518823,
         "axs_breeding": 530.0,
@@ -81,7 +81,7 @@
         "weth_marketplace": 1.2163710926006406
     },
     {
-        "_id": "66943b13a9dd2e5698bf5635",
+        "_id": "66b60a5bb80e57a1c1cfd769",
         "timestamp": "2024-01-10 00:00:00",
         "axs_ascending": 93.26954692846174,
         "axs_breeding": 312.5,
@@ -90,7 +90,7 @@
         "weth_marketplace": 1.8496262489938775
     },
     {
-        "_id": "66943b13a9dd2e5698bf5637",
+        "_id": "66b60a5bb80e57a1c1cfd76b",
         "timestamp": "2024-01-11 00:00:00",
         "axs_ascending": 92.86024451093395,
         "axs_breeding": 319.5,
@@ -99,7 +99,7 @@
         "weth_marketplace": 0.936172817480887
     },
     {
-        "_id": "66943b13a9dd2e5698bf5639",
+        "_id": "66b60a5bb80e57a1c1cfd76d",
         "timestamp": "2024-01-12 00:00:00",
         "axs_ascending": 93.97680177250236,
         "axs_breeding": 410.0,
@@ -108,7 +108,7 @@
         "weth_marketplace": 0.988889825702323
     },
     {
-        "_id": "66943b13a9dd2e5698bf563b",
+        "_id": "66b60a5bb80e57a1c1cfd76f",
         "timestamp": "2024-01-13 00:00:00",
         "axs_ascending": 93.33018138305322,
         "axs_breeding": 274.5,
@@ -117,7 +117,7 @@
         "weth_marketplace": 1.214084779350259
     },
     {
-        "_id": "66943b13a9dd2e5698bf563d",
+        "_id": "66b60a5bb80e57a1c1cfd771",
         "timestamp": "2024-01-14 00:00:00",
         "axs_ascending": 92.48648075026532,
         "axs_breeding": 469.0,
@@ -126,7 +126,7 @@
         "weth_marketplace": 1.3007992470108163
     },
     {
-        "_id": "66943b13a9dd2e5698bf563f",
+        "_id": "66b60a5bb80e57a1c1cfd773",
         "timestamp": "2024-01-15 00:00:00",
         "axs_ascending": 92.39051599670891,
         "axs_breeding": 396.0,
@@ -135,7 +135,7 @@
         "weth_marketplace": 1.1442215469830668
     },
     {
-        "_id": "66943b13a9dd2e5698bf5641",
+        "_id": "66b60a5bb80e57a1c1cfd775",
         "timestamp": "2024-01-16 00:00:00",
         "axs_ascending": 90.89979050680888,
         "axs_breeding": 338.5,
@@ -144,7 +144,7 @@
         "weth_marketplace": 1.0399156396561837
     },
     {
-        "_id": "66943b13a9dd2e5698bf5643",
+        "_id": "66b60a5bb80e57a1c1cfd777",
         "timestamp": "2024-01-17 00:00:00",
         "axs_ascending": 181.28706727380512,
         "axs_breeding": 557.0,
@@ -153,7 +153,7 @@
         "weth_marketplace": 1.5344712137650889
     },
     {
-        "_id": "66943b13a9dd2e5698bf5645",
+        "_id": "66b60a5bb80e57a1c1cfd779",
         "timestamp": "2024-01-18 00:00:00",
         "axs_ascending": 197.4973316302215,
         "axs_breeding": 457.5,
@@ -162,7 +162,7 @@
         "weth_marketplace": 1.5145143266560979
     },
     {
-        "_id": "66943b13a9dd2e5698bf5647",
+        "_id": "66b60a5bb80e57a1c1cfd77b",
         "timestamp": "2024-01-19 00:00:00",
         "axs_ascending": 204.4476546336728,
         "axs_breeding": 500.0,
@@ -171,7 +171,7 @@
         "weth_marketplace": 1.4041799084419706
     },
     {
-        "_id": "66943b13a9dd2e5698bf5649",
+        "_id": "66b60a5bb80e57a1c1cfd77d",
         "timestamp": "2024-01-20 00:00:00",
         "axs_ascending": 203.56403233082216,
         "axs_breeding": 419.5,
@@ -180,7 +180,7 @@
         "weth_marketplace": 1.7203629078155196
     },
     {
-        "_id": "66943b13a9dd2e5698bf564b",
+        "_id": "66b60a5bb80e57a1c1cfd77f",
         "timestamp": "2024-01-21 00:00:00",
         "axs_ascending": 207.0960390773854,
         "axs_breeding": 446.5,
@@ -189,7 +189,7 @@
         "weth_marketplace": 1.580556728711866
     },
     {
-        "_id": "66943b13a9dd2e5698bf564d",
+        "_id": "66b60a5bb80e57a1c1cfd781",
         "timestamp": "2024-01-22 00:00:00",
         "axs_ascending": 204.35241545009205,
         "axs_breeding": 525.0,
@@ -198,7 +198,7 @@
         "weth_marketplace": 1.8143347679098307
     },
     {
-        "_id": "66943b13a9dd2e5698bf564f",
+        "_id": "66b60a5bb80e57a1c1cfd783",
         "timestamp": "2024-01-23 00:00:00",
         "axs_ascending": 209.3165536127226,
         "axs_breeding": 365.5,
@@ -207,7 +207,7 @@
         "weth_marketplace": 1.7291115009280638
     },
     {
-        "_id": "66943b13a9dd2e5698bf5651",
+        "_id": "66b60a5bb80e57a1c1cfd785",
         "timestamp": "2024-01-24 00:00:00",
         "axs_ascending": 204.04661023949848,
         "axs_breeding": 551.5,
@@ -216,7 +216,7 @@
         "weth_marketplace": 5.043102617433195
     },
     {
-        "_id": "66943b13a9dd2e5698bf5653",
+        "_id": "66b60a5bb80e57a1c1cfd787",
         "timestamp": "2024-01-25 00:00:00",
         "axs_ascending": 213.84206437380303,
         "axs_breeding": 486.5,
@@ -225,7 +225,7 @@
         "weth_marketplace": 14.055093867450267
     },
     {
-        "_id": "66943b13a9dd2e5698bf5655",
+        "_id": "66b60a5bb80e57a1c1cfd789",
         "timestamp": "2024-01-26 00:00:00",
         "axs_ascending": 197.5253128631929,
         "axs_breeding": 467.0,
@@ -234,7 +234,7 @@
         "weth_marketplace": 3.074005957791747
     },
     {
-        "_id": "66943b13a9dd2e5698bf5657",
+        "_id": "66b60a5bb80e57a1c1cfd78b",
         "timestamp": "2024-01-27 00:00:00",
         "axs_ascending": 194.41339825722252,
         "axs_breeding": 386.0,
@@ -243,7 +243,7 @@
         "weth_marketplace": 4.140104674159789
     },
     {
-        "_id": "66943b13a9dd2e5698bf5659",
+        "_id": "66b60a5bb80e57a1c1cfd78d",
         "timestamp": "2024-01-28 00:00:00",
         "axs_ascending": 209.18367371674924,
         "axs_breeding": 408.0,
@@ -252,7 +252,7 @@
         "weth_marketplace": 2.0852018265150383
     },
     {
-        "_id": "66943b13a9dd2e5698bf565b",
+        "_id": "66b60a5bb80e57a1c1cfd78f",
         "timestamp": "2024-01-29 00:00:00",
         "axs_ascending": 188.2437433373656,
         "axs_breeding": 471.0,
@@ -261,7 +261,7 @@
         "weth_marketplace": 2.5697090300128234
     },
     {
-        "_id": "66943b13a9dd2e5698bf565d",
+        "_id": "66b60a5bb80e57a1c1cfd791",
         "timestamp": "2024-01-30 00:00:00",
         "axs_ascending": 183.9445872750977,
         "axs_breeding": 496.5,
@@ -270,7 +270,7 @@
         "weth_marketplace": 1.7106163273704746
     },
     {
-        "_id": "66943b13a9dd2e5698bf565f",
+        "_id": "66b60a5bb80e57a1c1cfd793",
         "timestamp": "2024-01-31 00:00:00",
         "axs_ascending": 186.08848040444008,
         "axs_breeding": 485.0,
@@ -279,7 +279,7 @@
         "weth_marketplace": 5.737239182557041
     },
     {
-        "_id": "66943b13a9dd2e5698bf5661",
+        "_id": "66b60a5bb80e57a1c1cfd795",
         "timestamp": "2024-02-01 00:00:00",
         "axs_ascending": 219.4039855235212,
         "axs_breeding": 353.5,
@@ -288,7 +288,7 @@
         "weth_marketplace": 2.940452495128848
     },
     {
-        "_id": "66943b13a9dd2e5698bf5663",
+        "_id": "66b60a5bb80e57a1c1cfd797",
         "timestamp": "2024-02-02 00:00:00",
         "axs_ascending": 219.6584034074691,
         "axs_breeding": 420.0,
@@ -297,7 +297,7 @@
         "weth_marketplace": 2.217079269338023
     },
     {
-        "_id": "66943b13a9dd2e5698bf5665",
+        "_id": "66b60a5bb80e57a1c1cfd799",
         "timestamp": "2024-02-03 00:00:00",
         "axs_ascending": 245.82975935049555,
         "axs_breeding": 477.5,
@@ -306,7 +306,7 @@
         "weth_marketplace": 2.3973247476703654
     },
     {
-        "_id": "66943b13a9dd2e5698bf5667",
+        "_id": "66b60a5bb80e57a1c1cfd79b",
         "timestamp": "2024-02-04 00:00:00",
         "axs_ascending": 250.21454157130339,
         "axs_breeding": 482.0,
@@ -315,7 +315,7 @@
         "weth_marketplace": 2.2992381081954356
     },
     {
-        "_id": "66943b13a9dd2e5698bf5669",
+        "_id": "66b60a5bb80e57a1c1cfd79d",
         "timestamp": "2024-02-05 00:00:00",
         "axs_ascending": 232.30688470906182,
         "axs_breeding": 393.5,
@@ -324,7 +324,7 @@
         "weth_marketplace": 2.28756585159566
     },
     {
-        "_id": "66943b13a9dd2e5698bf566b",
+        "_id": "66b60a5bb80e57a1c1cfd79f",
         "timestamp": "2024-02-06 00:00:00",
         "axs_ascending": 219.8580012225386,
         "axs_breeding": 401.5,
@@ -333,7 +333,7 @@
         "weth_marketplace": 1.642850477138162
     },
     {
-        "_id": "66943b13a9dd2e5698bf566d",
+        "_id": "66b60a5bb80e57a1c1cfd7a1",
         "timestamp": "2024-02-07 00:00:00",
         "axs_ascending": 208.2925014442692,
         "axs_breeding": 359.5,
@@ -342,7 +342,7 @@
         "weth_marketplace": 1.2553660054736206
     },
     {
-        "_id": "66943b13a9dd2e5698bf566f",
+        "_id": "66b60a5bb80e57a1c1cfd7a3",
         "timestamp": "2024-02-08 00:00:00",
         "axs_ascending": 211.92797198450907,
         "axs_breeding": 362.0,
@@ -351,7 +351,7 @@
         "weth_marketplace": 1.5658012582730398
     },
     {
-        "_id": "66943b13a9dd2e5698bf5671",
+        "_id": "66b60a5bb80e57a1c1cfd7a5",
         "timestamp": "2024-02-09 00:00:00",
         "axs_ascending": 191.29870258846256,
         "axs_breeding": 389.0,
@@ -360,7 +360,7 @@
         "weth_marketplace": 1.1091126168723542
     },
     {
-        "_id": "66943b13a9dd2e5698bf5673",
+        "_id": "66b60a5bb80e57a1c1cfd7a7",
         "timestamp": "2024-02-10 00:00:00",
         "axs_ascending": 187.78250430651926,
         "axs_breeding": 288.5,
@@ -369,7 +369,7 @@
         "weth_marketplace": 1.1563137182601158
     },
     {
-        "_id": "66943b13a9dd2e5698bf5675",
+        "_id": "66b60a5bb80e57a1c1cfd7a9",
         "timestamp": "2024-02-11 00:00:00",
         "axs_ascending": 182.02726797659062,
         "axs_breeding": 263.5,
@@ -378,7 +378,7 @@
         "weth_marketplace": 1.2933765210962218
     },
     {
-        "_id": "66943b13a9dd2e5698bf5677",
+        "_id": "66b60a5bb80e57a1c1cfd7ab",
         "timestamp": "2024-02-12 00:00:00",
         "axs_ascending": 164.16292396268085,
         "axs_breeding": 353.0,
@@ -387,7 +387,7 @@
         "weth_marketplace": 0.9905821715985168
     },
     {
-        "_id": "66943b13a9dd2e5698bf5679",
+        "_id": "66b60a5bb80e57a1c1cfd7ad",
         "timestamp": "2024-02-13 00:00:00",
         "axs_ascending": 165.86341975552068,
         "axs_breeding": 361.5,
@@ -396,7 +396,7 @@
         "weth_marketplace": 1.2108863097101514
     },
     {
-        "_id": "66943b13a9dd2e5698bf567b",
+        "_id": "66b60a5bb80e57a1c1cfd7af",
         "timestamp": "2024-02-14 00:00:00",
         "axs_ascending": 163.8963985160795,
         "axs_breeding": 178.5,
@@ -405,7 +405,7 @@
         "weth_marketplace": 1.0094518905960994
     },
     {
-        "_id": "66943b13a9dd2e5698bf567d",
+        "_id": "66b60a5bb80e57a1c1cfd7b1",
         "timestamp": "2024-02-15 00:00:00",
         "axs_ascending": 150.16603242957288,
         "axs_breeding": 258.5,
@@ -414,7 +414,7 @@
         "weth_marketplace": 0.8772639104134224
     },
     {
-        "_id": "66943b13a9dd2e5698bf567f",
+        "_id": "66b60a5bb80e57a1c1cfd7b3",
         "timestamp": "2024-02-16 00:00:00",
         "axs_ascending": 154.21820648110366,
         "axs_breeding": 132.5,
@@ -423,7 +423,7 @@
         "weth_marketplace": 0.9651383488143824
     },
     {
-        "_id": "66943b13a9dd2e5698bf5681",
+        "_id": "66b60a5bb80e57a1c1cfd7b5",
         "timestamp": "2024-02-17 00:00:00",
         "axs_ascending": 159.827212898399,
         "axs_breeding": 256.5,
@@ -432,7 +432,7 @@
         "weth_marketplace": 1.4849221151738599
     },
     {
-        "_id": "66943b13a9dd2e5698bf5683",
+        "_id": "66b60a5bb80e57a1c1cfd7b7",
         "timestamp": "2024-02-18 00:00:00",
         "axs_ascending": 160.5779720931382,
         "axs_breeding": 287.0,
@@ -441,7 +441,7 @@
         "weth_marketplace": 1.848124825799745
     },
     {
-        "_id": "66943b13a9dd2e5698bf5685",
+        "_id": "66b60a5bb80e57a1c1cfd7b9",
         "timestamp": "2024-02-19 00:00:00",
         "axs_ascending": 144.85280224212912,
         "axs_breeding": 269.5,
@@ -450,7 +450,7 @@
         "weth_marketplace": 1.3662660550984553
     },
     {
-        "_id": "66943b13a9dd2e5698bf5687",
+        "_id": "66b60a5bb80e57a1c1cfd7bb",
         "timestamp": "2024-02-20 00:00:00",
         "axs_ascending": 137.36393132294432,
         "axs_breeding": 228.0,
@@ -459,7 +459,7 @@
         "weth_marketplace": 12.23922167848158
     },
     {
-        "_id": "66943b13a9dd2e5698bf5689",
+        "_id": "66b60a5bb80e57a1c1cfd7bd",
         "timestamp": "2024-02-21 00:00:00",
         "axs_ascending": 144.87296378146075,
         "axs_breeding": 178.5,
@@ -468,7 +468,7 @@
         "weth_marketplace": 1.1906986349324369
     },
     {
-        "_id": "66943b13a9dd2e5698bf568b",
+        "_id": "66b60a5bb80e57a1c1cfd7bf",
         "timestamp": "2024-02-22 00:00:00",
         "axs_ascending": 136.22767649802145,
         "axs_breeding": 178.0,
@@ -477,7 +477,7 @@
         "weth_marketplace": 1.052397308963001
     },
     {
-        "_id": "66943b13a9dd2e5698bf568d",
+        "_id": "66b60a5bb80e57a1c1cfd7c1",
         "timestamp": "2024-02-23 00:00:00",
         "axs_ascending": 125.5836716325675,
         "axs_breeding": 157.5,
@@ -486,7 +486,7 @@
         "weth_marketplace": 1.028944131187356
     },
     {
-        "_id": "66943b13a9dd2e5698bf568f",
+        "_id": "66b60a5bb80e57a1c1cfd7c3",
         "timestamp": "2024-02-24 00:00:00",
         "axs_ascending": 130.28738424561652,
         "axs_breeding": 101.5,
@@ -495,7 +495,7 @@
         "weth_marketplace": 0.8844494911301144
     },
     {
-        "_id": "66943b13a9dd2e5698bf5691",
+        "_id": "66b60a5bb80e57a1c1cfd7c5",
         "timestamp": "2024-02-25 00:00:00",
         "axs_ascending": 120.07459288378583,
         "axs_breeding": 224.5,
@@ -504,7 +504,7 @@
         "weth_marketplace": 0.9616259263868101
     },
     {
-        "_id": "66943b13a9dd2e5698bf5693",
+        "_id": "66b60a5bb80e57a1c1cfd7c7",
         "timestamp": "2024-02-26 00:00:00",
         "axs_ascending": 118.60008506811685,
         "axs_breeding": 140.5,
@@ -513,7 +513,7 @@
         "weth_marketplace": 0.7669733712489198
     },
     {
-        "_id": "66943b13a9dd2e5698bf5695",
+        "_id": "66b60a5bb80e57a1c1cfd7c9",
         "timestamp": "2024-02-27 00:00:00",
         "axs_ascending": 104.80796845934908,
         "axs_breeding": 76.0,
@@ -522,7 +522,7 @@
         "weth_marketplace": 0.9333133152854132
     },
     {
-        "_id": "66943b13a9dd2e5698bf5697",
+        "_id": "66b60a5bb80e57a1c1cfd7cb",
         "timestamp": "2024-02-28 00:00:00",
         "axs_ascending": 104.91107830503952,
         "axs_breeding": 75.5,
@@ -531,7 +531,7 @@
         "weth_marketplace": 1.1063330494024533
     },
     {
-        "_id": "66943b13a9dd2e5698bf5699",
+        "_id": "66b60a5bb80e57a1c1cfd7cd",
         "timestamp": "2024-02-29 00:00:00",
         "axs_ascending": 117.30059957661123,
         "axs_breeding": 49.5,
@@ -540,7 +540,7 @@
         "weth_marketplace": 0.8971991272079922
     },
     {
-        "_id": "66943b13a9dd2e5698bf569b",
+        "_id": "66b60a5bb80e57a1c1cfd7cf",
         "timestamp": "2024-03-01 00:00:00",
         "axs_ascending": 155.57914385829724,
         "axs_breeding": 37.5,
@@ -549,7 +549,7 @@
         "weth_marketplace": 0.8565913172168453
     },
     {
-        "_id": "66943b13a9dd2e5698bf569d",
+        "_id": "66b60a5bb80e57a1c1cfd7d1",
         "timestamp": "2024-03-02 00:00:00",
         "axs_ascending": 166.4617113838808,
         "axs_breeding": 109.5,
@@ -558,7 +558,7 @@
         "weth_marketplace": 0.939434906631623
     },
     {
-        "_id": "66943b13a9dd2e5698bf569f",
+        "_id": "66b60a5bb80e57a1c1cfd7d3",
         "timestamp": "2024-03-03 00:00:00",
         "axs_ascending": 170.80273048671296,
         "axs_breeding": 46.0,
@@ -567,7 +567,7 @@
         "weth_marketplace": 1.2748727321231186
     },
     {
-        "_id": "66943b13a9dd2e5698bf56a1",
+        "_id": "66b60a5bb80e57a1c1cfd7d5",
         "timestamp": "2024-03-04 00:00:00",
         "axs_ascending": 150.56994772216245,
         "axs_breeding": 33.5,
@@ -576,7 +576,7 @@
         "weth_marketplace": 0.6790360470846561
     },
     {
-        "_id": "66943b13a9dd2e5698bf56a3",
+        "_id": "66b60a5bb80e57a1c1cfd7d7",
         "timestamp": "2024-03-05 00:00:00",
         "axs_ascending": 123.96361754084879,
         "axs_breeding": 35.0,
@@ -585,7 +585,7 @@
         "weth_marketplace": 0.9526940092807097
     },
     {
-        "_id": "66943b13a9dd2e5698bf56a5",
+        "_id": "66b60a5bb80e57a1c1cfd7d9",
         "timestamp": "2024-03-06 00:00:00",
         "axs_ascending": 142.58806046885053,
         "axs_breeding": 18.0,
@@ -594,7 +594,7 @@
         "weth_marketplace": 0.7911446864712582
     },
     {
-        "_id": "66943b13a9dd2e5698bf56a7",
+        "_id": "66b60a5bb80e57a1c1cfd7db",
         "timestamp": "2024-03-07 00:00:00",
         "axs_ascending": 114.01231571407432,
         "axs_breeding": 29.0,
@@ -603,7 +603,7 @@
         "weth_marketplace": 0.534825072744501
     },
     {
-        "_id": "66943b13a9dd2e5698bf56a9",
+        "_id": "66b60a5bb80e57a1c1cfd7dd",
         "timestamp": "2024-03-08 00:00:00",
         "axs_ascending": 105.77206367793545,
         "axs_breeding": 42.5,
@@ -612,7 +612,7 @@
         "weth_marketplace": 0.5132278558053995
     },
     {
-        "_id": "66943b13a9dd2e5698bf56ab",
+        "_id": "66b60a5bb80e57a1c1cfd7df",
         "timestamp": "2024-03-09 00:00:00",
         "axs_ascending": 102.88452742326794,
         "axs_breeding": 71.0,
@@ -621,7 +621,7 @@
         "weth_marketplace": 0.8947297323794975
     },
     {
-        "_id": "66943b13a9dd2e5698bf56ad",
+        "_id": "66b60a5bb80e57a1c1cfd7e1",
         "timestamp": "2024-03-10 00:00:00",
         "axs_ascending": 99.56420631482737,
         "axs_breeding": 22.5,
@@ -630,7 +630,7 @@
         "weth_marketplace": 1.3089373176657368
     },
     {
-        "_id": "66943b13a9dd2e5698bf56af",
+        "_id": "66b60a5bb80e57a1c1cfd7e3",
         "timestamp": "2024-03-11 00:00:00",
         "axs_ascending": 92.46596759085156,
         "axs_breeding": 34.0,
@@ -639,7 +639,7 @@
         "weth_marketplace": 0.6440915778589134
     },
     {
-        "_id": "66943b13a9dd2e5698bf56b1",
+        "_id": "66b60a5bb80e57a1c1cfd7e5",
         "timestamp": "2024-03-12 00:00:00",
         "axs_ascending": 97.94561701557525,
         "axs_breeding": 37.5,
@@ -648,7 +648,7 @@
         "weth_marketplace": 0.44006490551702787
     },
     {
-        "_id": "66943b13a9dd2e5698bf56b3",
+        "_id": "66b60a5bb80e57a1c1cfd7e7",
         "timestamp": "2024-03-13 00:00:00",
         "axs_ascending": 78.5723743833459,
         "axs_breeding": 21.0,
@@ -657,7 +657,7 @@
         "weth_marketplace": 0.5288934695065988
     },
     {
-        "_id": "66943b13a9dd2e5698bf56b5",
+        "_id": "66b60a5bb80e57a1c1cfd7e9",
         "timestamp": "2024-03-14 00:00:00",
         "axs_ascending": 99.81662609851386,
         "axs_breeding": 23.5,
@@ -666,7 +666,7 @@
         "weth_marketplace": 2.142058921684769
     },
     {
-        "_id": "66943b13a9dd2e5698bf56b7",
+        "_id": "66b60a5bb80e57a1c1cfd7eb",
         "timestamp": "2024-03-15 00:00:00",
         "axs_ascending": 121.9782947020468,
         "axs_breeding": 101.5,
@@ -675,7 +675,7 @@
         "weth_marketplace": 0.8913749499142464
     },
     {
-        "_id": "66943b13a9dd2e5698bf56b9",
+        "_id": "66b60a5bb80e57a1c1cfd7ed",
         "timestamp": "2024-03-16 00:00:00",
         "axs_ascending": 128.09533735145072,
         "axs_breeding": 119.0,
@@ -684,7 +684,7 @@
         "weth_marketplace": 0.6130493877371912
     },
     {
-        "_id": "66943b13a9dd2e5698bf56bb",
+        "_id": "66b60a5bb80e57a1c1cfd7ef",
         "timestamp": "2024-03-17 00:00:00",
         "axs_ascending": 122.62014948019664,
         "axs_breeding": 64.5,
@@ -693,7 +693,7 @@
         "weth_marketplace": 0.6321797926689894
     },
     {
-        "_id": "66943b13a9dd2e5698bf56bd",
+        "_id": "66b60a5bb80e57a1c1cfd7f1",
         "timestamp": "2024-03-18 00:00:00",
         "axs_ascending": 112.59349315831287,
         "axs_breeding": 69.0,
@@ -702,7 +702,7 @@
         "weth_marketplace": 0.5083247814104432
     },
     {
-        "_id": "66943b13a9dd2e5698bf56bf",
+        "_id": "66b60a5bb80e57a1c1cfd7f3",
         "timestamp": "2024-03-19 00:00:00",
         "axs_ascending": 133.70744008000463,
         "axs_breeding": 50.5,
@@ -711,7 +711,7 @@
         "weth_marketplace": 1.008937323724498
     },
     {
-        "_id": "66943b13a9dd2e5698bf56c1",
+        "_id": "66b60a5bb80e57a1c1cfd7f5",
         "timestamp": "2024-03-20 00:00:00",
         "axs_ascending": 128.29384848151793,
         "axs_breeding": 149.5,
@@ -720,7 +720,7 @@
         "weth_marketplace": 2.591171832081065
     },
     {
-        "_id": "66943b13a9dd2e5698bf56c3",
+        "_id": "66b60a5bb80e57a1c1cfd7f7",
         "timestamp": "2024-03-21 00:00:00",
         "axs_ascending": 142.76042210413266,
         "axs_breeding": 186.0,
@@ -729,7 +729,7 @@
         "weth_marketplace": 0.8114968793237244
     },
     {
-        "_id": "66943b13a9dd2e5698bf56c5",
+        "_id": "66b60a5bb80e57a1c1cfd7f9",
         "timestamp": "2024-03-22 00:00:00",
         "axs_ascending": 140.91000154266374,
         "axs_breeding": 124.5,
@@ -738,7 +738,7 @@
         "weth_marketplace": 0.6387244867532752
     },
     {
-        "_id": "66943b13a9dd2e5698bf56c7",
+        "_id": "66b60a5bb80e57a1c1cfd7fb",
         "timestamp": "2024-03-23 00:00:00",
         "axs_ascending": 146.4100323201618,
         "axs_breeding": 114.0,
@@ -747,7 +747,7 @@
         "weth_marketplace": 1.239088330451671
     },
     {
-        "_id": "66943b13a9dd2e5698bf56c9",
+        "_id": "66b60a5bb80e57a1c1cfd7fd",
         "timestamp": "2024-03-24 00:00:00",
         "axs_ascending": 142.92088698768214,
         "axs_breeding": 131.0,
@@ -756,7 +756,7 @@
         "weth_marketplace": 0.7263149959699601
     },
     {
-        "_id": "66943b13a9dd2e5698bf56cb",
+        "_id": "66b60a5bb80e57a1c1cfd7ff",
         "timestamp": "2024-03-25 00:00:00",
         "axs_ascending": 140.07984256707553,
         "axs_breeding": 122.0,
@@ -765,7 +765,7 @@
         "weth_marketplace": 0.5667446633420027
     },
     {
-        "_id": "66943b13a9dd2e5698bf56cd",
+        "_id": "66b60a5bb80e57a1c1cfd801",
         "timestamp": "2024-03-26 00:00:00",
         "axs_ascending": 124.87416445454883,
         "axs_breeding": 119.5,
@@ -774,7 +774,7 @@
         "weth_marketplace": 0.5168819365967682
     },
     {
-        "_id": "66943b13a9dd2e5698bf56cf",
+        "_id": "66b60a5bb80e57a1c1cfd803",
         "timestamp": "2024-03-27 00:00:00",
         "axs_ascending": 119.65899330670766,
         "axs_breeding": 135.5,
@@ -783,7 +783,7 @@
         "weth_marketplace": 1.007291190387995
     },
     {
-        "_id": "66943b13a9dd2e5698bf56d1",
+        "_id": "66b60a5bb80e57a1c1cfd805",
         "timestamp": "2024-03-28 00:00:00",
         "axs_ascending": 106.2949326766521,
         "axs_breeding": 98.5,
@@ -792,7 +792,7 @@
         "weth_marketplace": 1.3620557654296954
     },
     {
-        "_id": "66943b13a9dd2e5698bf56d3",
+        "_id": "66b60a5bb80e57a1c1cfd807",
         "timestamp": "2024-03-29 00:00:00",
         "axs_ascending": 115.12519943986861,
         "axs_breeding": 101.5,
@@ -801,7 +801,7 @@
         "weth_marketplace": 0.7183798637887181
     },
     {
-        "_id": "66943b13a9dd2e5698bf56d5",
+        "_id": "66b60a5bb80e57a1c1cfd809",
         "timestamp": "2024-03-30 00:00:00",
         "axs_ascending": 114.99516280832293,
         "axs_breeding": 61.5,
@@ -810,7 +810,7 @@
         "weth_marketplace": 0.5332249781384742
     },
     {
-        "_id": "66943b13a9dd2e5698bf56d7",
+        "_id": "66b60a5bb80e57a1c1cfd80b",
         "timestamp": "2024-03-31 00:00:00",
         "axs_ascending": 122.91056710027021,
         "axs_breeding": 103.5,
@@ -819,7 +819,7 @@
         "weth_marketplace": 0.5179330257529473
     },
     {
-        "_id": "66943b13a9dd2e5698bf56d9",
+        "_id": "66b60a5bb80e57a1c1cfd80d",
         "timestamp": "2024-04-01 00:00:00",
         "axs_ascending": 124.51511783306633,
         "axs_breeding": 177.0,
@@ -828,7 +828,7 @@
         "weth_marketplace": 0.5979495327402026
     },
     {
-        "_id": "66943b13a9dd2e5698bf56db",
+        "_id": "66b60a5bb80e57a1c1cfd80f",
         "timestamp": "2024-04-02 00:00:00",
         "axs_ascending": 130.85536526074407,
         "axs_breeding": 148.5,
@@ -837,7 +837,7 @@
         "weth_marketplace": 0.8289579866370762
     },
     {
-        "_id": "66943b13a9dd2e5698bf56dd",
+        "_id": "66b60a5bb80e57a1c1cfd811",
         "timestamp": "2024-04-03 00:00:00",
         "axs_ascending": 130.3424252955482,
         "axs_breeding": 96.5,
@@ -846,7 +846,7 @@
         "weth_marketplace": 0.8245017361193127
     },
     {
-        "_id": "66943b13a9dd2e5698bf56df",
+        "_id": "66b60a5bb80e57a1c1cfd813",
         "timestamp": "2024-04-04 00:00:00",
         "axs_ascending": 145.67541004106084,
         "axs_breeding": 81.0,
@@ -855,7 +855,7 @@
         "weth_marketplace": 0.8087419371608503
     },
     {
-        "_id": "66943b13a9dd2e5698bf56e1",
+        "_id": "66b60a5bb80e57a1c1cfd815",
         "timestamp": "2024-04-05 00:00:00",
         "axs_ascending": 153.58212642497466,
         "axs_breeding": 146.5,
@@ -864,7 +864,7 @@
         "weth_marketplace": 0.7700053213842365
     },
     {
-        "_id": "66943b13a9dd2e5698bf56e3",
+        "_id": "66b60a5bb80e57a1c1cfd817",
         "timestamp": "2024-04-06 00:00:00",
         "axs_ascending": 143.84003765978886,
         "axs_breeding": 154.5,
@@ -873,7 +873,7 @@
         "weth_marketplace": 0.8592511953132683
     },
     {
-        "_id": "66943b13a9dd2e5698bf56e5",
+        "_id": "66b60a5bb80e57a1c1cfd819",
         "timestamp": "2024-04-07 00:00:00",
         "axs_ascending": 139.30193214491297,
         "axs_breeding": 151.5,
@@ -882,7 +882,7 @@
         "weth_marketplace": 0.7274207671289488
     },
     {
-        "_id": "66943b13a9dd2e5698bf56e7",
+        "_id": "66b60a5bb80e57a1c1cfd81b",
         "timestamp": "2024-04-08 00:00:00",
         "axs_ascending": 141.88382233785487,
         "axs_breeding": 128.5,
@@ -891,7 +891,7 @@
         "weth_marketplace": 0.700359956830101
     },
     {
-        "_id": "66943b13a9dd2e5698bf56e9",
+        "_id": "66b60a5bb80e57a1c1cfd81d",
         "timestamp": "2024-04-09 00:00:00",
         "axs_ascending": 123.3910567255413,
         "axs_breeding": 32.5,
@@ -900,7 +900,7 @@
         "weth_marketplace": 0.7101414682046369
     },
     {
-        "_id": "66943b13a9dd2e5698bf56eb",
+        "_id": "66b60a5bb80e57a1c1cfd81f",
         "timestamp": "2024-04-10 00:00:00",
         "axs_ascending": 132.99355922974132,
         "axs_breeding": 110.0,
@@ -909,7 +909,7 @@
         "weth_marketplace": 0.6268444531017171
     },
     {
-        "_id": "66943b13a9dd2e5698bf56ed",
+        "_id": "66b60a5bb80e57a1c1cfd821",
         "timestamp": "2024-04-11 00:00:00",
         "axs_ascending": 133.45324774512923,
         "axs_breeding": 199.0,
@@ -918,7 +918,7 @@
         "weth_marketplace": 0.6239267466199551
     },
     {
-        "_id": "66943b13a9dd2e5698bf56ef",
+        "_id": "66b60a5bb80e57a1c1cfd823",
         "timestamp": "2024-04-12 00:00:00",
         "axs_ascending": 132.67984200894912,
         "axs_breeding": 151.0,
@@ -927,7 +927,7 @@
         "weth_marketplace": 0.8714600715150915
     },
     {
-        "_id": "66943b13a9dd2e5698bf56f1",
+        "_id": "66b60a5bb80e57a1c1cfd825",
         "timestamp": "2024-04-13 00:00:00",
         "axs_ascending": 149.61892642043452,
         "axs_breeding": 170.0,
@@ -936,7 +936,7 @@
         "weth_marketplace": 0.5870333652588353
     },
     {
-        "_id": "66943b13a9dd2e5698bf56f3",
+        "_id": "66b60a5bb80e57a1c1cfd827",
         "timestamp": "2024-04-14 00:00:00",
         "axs_ascending": 172.3440931565698,
         "axs_breeding": 89.0,
@@ -945,7 +945,7 @@
         "weth_marketplace": 0.5727982386647074
     },
     {
-        "_id": "66943b13a9dd2e5698bf56f5",
+        "_id": "66b60a5bb80e57a1c1cfd829",
         "timestamp": "2024-04-15 00:00:00",
         "axs_ascending": 177.53853832443693,
         "axs_breeding": 124.0,
@@ -954,7 +954,7 @@
         "weth_marketplace": 1.0310520960430853
     },
     {
-        "_id": "66943b13a9dd2e5698bf56f7",
+        "_id": "66b60a5bb80e57a1c1cfd82b",
         "timestamp": "2024-04-16 00:00:00",
         "axs_ascending": 174.75650056936445,
         "axs_breeding": 196.0,
@@ -963,7 +963,7 @@
         "weth_marketplace": 0.9402643348243855
     },
     {
-        "_id": "66943b13a9dd2e5698bf56f9",
+        "_id": "66b60a5bb80e57a1c1cfd82d",
         "timestamp": "2024-04-17 00:00:00",
         "axs_ascending": 159.04059969599115,
         "axs_breeding": 159.0,
@@ -972,7 +972,7 @@
         "weth_marketplace": 0.8726787824682125
     },
     {
-        "_id": "66943b13a9dd2e5698bf56fb",
+        "_id": "66b60a5bb80e57a1c1cfd82f",
         "timestamp": "2024-04-18 00:00:00",
         "axs_ascending": 187.63557342371845,
         "axs_breeding": 183.0,
@@ -981,7 +981,7 @@
         "weth_marketplace": 0.9110965886982979
     },
     {
-        "_id": "66943b13a9dd2e5698bf56fd",
+        "_id": "66b60a5bb80e57a1c1cfd831",
         "timestamp": "2024-04-19 00:00:00",
         "axs_ascending": 194.28470812453193,
         "axs_breeding": 125.0,
@@ -990,7 +990,7 @@
         "weth_marketplace": 1.0005253188908958
     },
     {
-        "_id": "66943b13a9dd2e5698bf56ff",
+        "_id": "66b60a5bb80e57a1c1cfd833",
         "timestamp": "2024-04-20 00:00:00",
         "axs_ascending": 166.94098275271276,
         "axs_breeding": 160.0,
@@ -999,7 +999,7 @@
         "weth_marketplace": 0.7739049939884736
     },
     {
-        "_id": "66943b13a9dd2e5698bf5701",
+        "_id": "66b60a5bb80e57a1c1cfd835",
         "timestamp": "2024-04-21 00:00:00",
         "axs_ascending": 201.34357924626747,
         "axs_breeding": 148.5,
@@ -1008,7 +1008,7 @@
         "weth_marketplace": 0.8145516761300957
     },
     {
-        "_id": "66943b13a9dd2e5698bf5703",
+        "_id": "66b60a5bb80e57a1c1cfd837",
         "timestamp": "2024-04-22 00:00:00",
         "axs_ascending": 185.84905414003404,
         "axs_breeding": 171.0,
@@ -1017,7 +1017,7 @@
         "weth_marketplace": 0.7617347679520604
     },
     {
-        "_id": "66943b13a9dd2e5698bf5705",
+        "_id": "66b60a5bb80e57a1c1cfd839",
         "timestamp": "2024-04-23 00:00:00",
         "axs_ascending": 179.05009848798178,
         "axs_breeding": 195.0,
@@ -1026,7 +1026,7 @@
         "weth_marketplace": 0.7325571014666189
     },
     {
-        "_id": "66943b13a9dd2e5698bf5707",
+        "_id": "66b60a5bb80e57a1c1cfd83b",
         "timestamp": "2024-04-24 00:00:00",
         "axs_ascending": 227.46544195992638,
         "axs_breeding": 102.5,
@@ -1035,7 +1035,7 @@
         "weth_marketplace": 0.7176986218062904
     },
     {
-        "_id": "66943b13a9dd2e5698bf5709",
+        "_id": "66b60a5bb80e57a1c1cfd83d",
         "timestamp": "2024-04-25 00:00:00",
         "axs_ascending": 224.44528357254077,
         "axs_breeding": 85.5,
@@ -1044,7 +1044,7 @@
         "weth_marketplace": 0.6781653981614518
     },
     {
-        "_id": "66943b13a9dd2e5698bf570b",
+        "_id": "66b60a5bb80e57a1c1cfd83f",
         "timestamp": "2024-04-26 00:00:00",
         "axs_ascending": 215.35931226962597,
         "axs_breeding": 191.5,
@@ -1053,7 +1053,7 @@
         "weth_marketplace": 0.7530282989140745
     },
     {
-        "_id": "66943b13a9dd2e5698bf570d",
+        "_id": "66b60a5bb80e57a1c1cfd841",
         "timestamp": "2024-04-27 00:00:00",
         "axs_ascending": 206.0812690727625,
         "axs_breeding": 141.5,
@@ -1062,7 +1062,7 @@
         "weth_marketplace": 1.0542842122610916
     },
     {
-        "_id": "66943b13a9dd2e5698bf570f",
+        "_id": "66b60a5bb80e57a1c1cfd843",
         "timestamp": "2024-04-28 00:00:00",
         "axs_ascending": 204.50337752837737,
         "axs_breeding": 178.0,
@@ -1071,7 +1071,7 @@
         "weth_marketplace": 0.6969515617322314
     },
     {
-        "_id": "66943b13a9dd2e5698bf5711",
+        "_id": "66b60a5bb80e57a1c1cfd845",
         "timestamp": "2024-04-29 00:00:00",
         "axs_ascending": 199.5622257410513,
         "axs_breeding": 85.0,
@@ -1080,7 +1080,7 @@
         "weth_marketplace": 0.575626709268264
     },
     {
-        "_id": "66943b13a9dd2e5698bf5713",
+        "_id": "66b60a5bb80e57a1c1cfd847",
         "timestamp": "2024-04-30 00:00:00",
         "axs_ascending": 213.8440552795264,
         "axs_breeding": 111.0,
@@ -1089,7 +1089,7 @@
         "weth_marketplace": 0.605667722876148
     },
     {
-        "_id": "66943b13a9dd2e5698bf5715",
+        "_id": "66b60a5bb80e57a1c1cfd849",
         "timestamp": "2024-05-01 00:00:00",
         "axs_ascending": 245.83322831926804,
         "axs_breeding": 248.0,
@@ -1098,7 +1098,7 @@
         "weth_marketplace": 0.6555365829464391
     },
     {
-        "_id": "66943b13a9dd2e5698bf5717",
+        "_id": "66b60a5bb80e57a1c1cfd84b",
         "timestamp": "2024-05-02 00:00:00",
         "axs_ascending": 230.50438905059593,
         "axs_breeding": 144.0,
@@ -1107,7 +1107,7 @@
         "weth_marketplace": 1.2456858192174742
     },
     {
-        "_id": "66943b13a9dd2e5698bf5719",
+        "_id": "66b60a5bb80e57a1c1cfd84d",
         "timestamp": "2024-05-03 00:00:00",
         "axs_ascending": 224.8099314994959,
         "axs_breeding": 193.0,
@@ -1116,7 +1116,7 @@
         "weth_marketplace": 0.9028715837342135
     },
     {
-        "_id": "66943b13a9dd2e5698bf571b",
+        "_id": "66b60a5bb80e57a1c1cfd84f",
         "timestamp": "2024-05-04 00:00:00",
         "axs_ascending": 220.06332470152705,
         "axs_breeding": 153.5,
@@ -1125,7 +1125,7 @@
         "weth_marketplace": 0.8018494898113822
     },
     {
-        "_id": "66943b13a9dd2e5698bf571d",
+        "_id": "66b60a5bb80e57a1c1cfd851",
         "timestamp": "2024-05-05 00:00:00",
         "axs_ascending": 244.32785692614448,
         "axs_breeding": 152.0,
@@ -1134,7 +1134,7 @@
         "weth_marketplace": 1.0103925525780835
     },
     {
-        "_id": "66943b13a9dd2e5698bf571f",
+        "_id": "66b60a5bb80e57a1c1cfd853",
         "timestamp": "2024-05-06 00:00:00",
         "axs_ascending": 231.28726039039122,
         "axs_breeding": 253.5,
@@ -1143,7 +1143,7 @@
         "weth_marketplace": 0.9239204079809714
     },
     {
-        "_id": "66943b13a9dd2e5698bf5721",
+        "_id": "66b60a5bb80e57a1c1cfd855",
         "timestamp": "2024-05-07 00:00:00",
         "axs_ascending": 217.0560645242882,
         "axs_breeding": 123.5,
@@ -1152,7 +1152,7 @@
         "weth_marketplace": 0.979074623345893
     },
     {
-        "_id": "66943b13a9dd2e5698bf5723",
+        "_id": "66b60a5bb80e57a1c1cfd857",
         "timestamp": "2024-05-08 00:00:00",
         "axs_ascending": 254.78592521057888,
         "axs_breeding": 223.5,
@@ -1161,7 +1161,7 @@
         "weth_marketplace": 0.8506908981927117
     },
     {
-        "_id": "66943b13a9dd2e5698bf5725",
+        "_id": "66b60a5bb80e57a1c1cfd859",
         "timestamp": "2024-05-09 00:00:00",
         "axs_ascending": 282.70965097358635,
         "axs_breeding": 134.0,
@@ -1170,7 +1170,7 @@
         "weth_marketplace": 0.9627703590264455
     },
     {
-        "_id": "66943b13a9dd2e5698bf5727",
+        "_id": "66b60a5bb80e57a1c1cfd85b",
         "timestamp": "2024-05-10 00:00:00",
         "axs_ascending": 219.32373321087158,
         "axs_breeding": 150.0,
@@ -1179,7 +1179,7 @@
         "weth_marketplace": 0.6821880177632285
     },
     {
-        "_id": "66943b13a9dd2e5698bf5729",
+        "_id": "66b60a5bb80e57a1c1cfd85d",
         "timestamp": "2024-05-11 00:00:00",
         "axs_ascending": 228.72216837923997,
         "axs_breeding": 137.5,
@@ -1188,7 +1188,7 @@
         "weth_marketplace": 0.7244210328373449
     },
     {
-        "_id": "66943b13a9dd2e5698bf572b",
+        "_id": "66b60a5bb80e57a1c1cfd85f",
         "timestamp": "2024-05-12 00:00:00",
         "axs_ascending": 211.45954366963565,
         "axs_breeding": 125.0,
@@ -1197,7 +1197,7 @@
         "weth_marketplace": 0.7049221645655309
     },
     {
-        "_id": "66943b13a9dd2e5698bf572d",
+        "_id": "66b60a5bb80e57a1c1cfd861",
         "timestamp": "2024-05-13 00:00:00",
         "axs_ascending": 196.24057623864928,
         "axs_breeding": 146.0,
@@ -1206,7 +1206,7 @@
         "weth_marketplace": 0.6687576053928391
     },
     {
-        "_id": "66943b13a9dd2e5698bf572f",
+        "_id": "66b60a5bb80e57a1c1cfd863",
         "timestamp": "2024-05-14 00:00:00",
         "axs_ascending": 206.62463780241688,
         "axs_breeding": 118.5,
@@ -1215,7 +1215,7 @@
         "weth_marketplace": 0.5858080528437422
     },
     {
-        "_id": "66943b13a9dd2e5698bf5731",
+        "_id": "66b60a5bb80e57a1c1cfd865",
         "timestamp": "2024-05-15 00:00:00",
         "axs_ascending": 212.88176163652435,
         "axs_breeding": 123.0,
@@ -1224,7 +1224,7 @@
         "weth_marketplace": 0.6051618056407968
     },
     {
-        "_id": "66943b13a9dd2e5698bf5733",
+        "_id": "66b60a5bb80e57a1c1cfd867",
         "timestamp": "2024-05-16 00:00:00",
         "axs_ascending": 217.77899745221998,
         "axs_breeding": 119.0,
@@ -1233,7 +1233,7 @@
         "weth_marketplace": 0.6755290176800238
     },
     {
-        "_id": "66943b13a9dd2e5698bf5735",
+        "_id": "66b60a5bb80e57a1c1cfd869",
         "timestamp": "2024-05-17 00:00:00",
         "axs_ascending": 209.77387637142854,
         "axs_breeding": 119.0,
@@ -1242,7 +1242,7 @@
         "weth_marketplace": 0.5457902193623638
     },
     {
-        "_id": "66943b13a9dd2e5698bf5737",
+        "_id": "66b60a5bb80e57a1c1cfd86b",
         "timestamp": "2024-05-18 00:00:00",
         "axs_ascending": 208.86780270650766,
         "axs_breeding": 98.5,
@@ -1251,7 +1251,7 @@
         "weth_marketplace": 0.7244339804916045
     },
     {
-        "_id": "66943b13a9dd2e5698bf5739",
+        "_id": "66b60a5bb80e57a1c1cfd86d",
         "timestamp": "2024-05-19 00:00:00",
         "axs_ascending": 223.0597750483731,
         "axs_breeding": 139.0,
@@ -1260,7 +1260,7 @@
         "weth_marketplace": 1.0124965920188171
     },
     {
-        "_id": "66943b13a9dd2e5698bf573b",
+        "_id": "66b60a5bb80e57a1c1cfd86f",
         "timestamp": "2024-05-20 00:00:00",
         "axs_ascending": 233.59596663914542,
         "axs_breeding": 80.5,
@@ -1269,7 +1269,7 @@
         "weth_marketplace": 0.9765390590305718
     },
     {
-        "_id": "66943b13a9dd2e5698bf573d",
+        "_id": "66b60a5bb80e57a1c1cfd871",
         "timestamp": "2024-05-21 00:00:00",
         "axs_ascending": 197.12870692028994,
         "axs_breeding": 99.5,
@@ -1278,7 +1278,7 @@
         "weth_marketplace": 0.5748733476275226
     },
     {
-        "_id": "66943b13a9dd2e5698bf573f",
+        "_id": "66b60a5bb80e57a1c1cfd873",
         "timestamp": "2024-05-22 00:00:00",
         "axs_ascending": 204.2560239413738,
         "axs_breeding": 158.0,
@@ -1287,7 +1287,7 @@
         "weth_marketplace": 0.7443567701081433
     },
     {
-        "_id": "66943b13a9dd2e5698bf5741",
+        "_id": "66b60a5bb80e57a1c1cfd875",
         "timestamp": "2024-05-23 00:00:00",
         "axs_ascending": 190.4138766466266,
         "axs_breeding": 233.5,
@@ -1296,7 +1296,7 @@
         "weth_marketplace": 0.6071594729776418
     },
     {
-        "_id": "66943b13a9dd2e5698bf5743",
+        "_id": "66b60a5bb80e57a1c1cfd877",
         "timestamp": "2024-05-24 00:00:00",
         "axs_ascending": 190.4749347149797,
         "axs_breeding": 201.0,
@@ -1305,7 +1305,7 @@
         "weth_marketplace": 0.8986532277149403
     },
     {
-        "_id": "66943b13a9dd2e5698bf5745",
+        "_id": "66b60a5bb80e57a1c1cfd879",
         "timestamp": "2024-05-25 00:00:00",
         "axs_ascending": 206.21640737763076,
         "axs_breeding": 145.0,
@@ -1314,7 +1314,7 @@
         "weth_marketplace": 0.6434017161471343
     },
     {
-        "_id": "66943b13a9dd2e5698bf5747",
+        "_id": "66b60a5bb80e57a1c1cfd87b",
         "timestamp": "2024-05-26 00:00:00",
         "axs_ascending": 214.04127207850195,
         "axs_breeding": 107.5,
@@ -1323,7 +1323,7 @@
         "weth_marketplace": 1.8327264867776436
     },
     {
-        "_id": "66943b13a9dd2e5698bf5749",
+        "_id": "66b60a5bb80e57a1c1cfd87d",
         "timestamp": "2024-05-27 00:00:00",
         "axs_ascending": 188.22084155154926,
         "axs_breeding": 152.0,
@@ -1332,7 +1332,7 @@
         "weth_marketplace": 0.6324507424165156
     },
     {
-        "_id": "66943b13a9dd2e5698bf574b",
+        "_id": "66b60a5bb80e57a1c1cfd87f",
         "timestamp": "2024-05-28 00:00:00",
         "axs_ascending": 174.84846037463498,
         "axs_breeding": 183.5,
@@ -1341,7 +1341,7 @@
         "weth_marketplace": 0.8999815793627554
     },
     {
-        "_id": "66943b13a9dd2e5698bf574d",
+        "_id": "66b60a5bb80e57a1c1cfd881",
         "timestamp": "2024-05-29 00:00:00",
         "axs_ascending": 203.2556190817116,
         "axs_breeding": 244.5,
@@ -1350,7 +1350,7 @@
         "weth_marketplace": 0.7786781294255447
     },
     {
-        "_id": "66943b13a9dd2e5698bf574f",
+        "_id": "66b60a5bb80e57a1c1cfd883",
         "timestamp": "2024-05-30 00:00:00",
         "axs_ascending": 217.35305221263042,
         "axs_breeding": 207.0,
@@ -1359,7 +1359,7 @@
         "weth_marketplace": 0.6910579441826242
     },
     {
-        "_id": "66943b13a9dd2e5698bf5751",
+        "_id": "66b60a5bb80e57a1c1cfd885",
         "timestamp": "2024-05-31 00:00:00",
         "axs_ascending": 213.92709960248536,
         "axs_breeding": 150.0,
@@ -1368,7 +1368,7 @@
         "weth_marketplace": 0.6109750389997379
     },
     {
-        "_id": "66943b13a9dd2e5698bf5753",
+        "_id": "66b60a5bb80e57a1c1cfd887",
         "timestamp": "2024-06-01 00:00:00",
         "axs_ascending": 221.4926979315062,
         "axs_breeding": 155.5,
@@ -1377,7 +1377,7 @@
         "weth_marketplace": 0.538571000328116
     },
     {
-        "_id": "66943b13a9dd2e5698bf5755",
+        "_id": "66b60a5bb80e57a1c1cfd889",
         "timestamp": "2024-06-02 00:00:00",
         "axs_ascending": 214.35615008085168,
         "axs_breeding": 148.0,
@@ -1386,7 +1386,7 @@
         "weth_marketplace": 0.6694066767147342
     },
     {
-        "_id": "66943b13a9dd2e5698bf5757",
+        "_id": "66b60a5bb80e57a1c1cfd88b",
         "timestamp": "2024-06-03 00:00:00",
         "axs_ascending": 204.9627534149701,
         "axs_breeding": 164.5,
@@ -1395,7 +1395,7 @@
         "weth_marketplace": 0.8868147413497558
     },
     {
-        "_id": "66943b13a9dd2e5698bf5759",
+        "_id": "66b60a5bb80e57a1c1cfd88d",
         "timestamp": "2024-06-04 00:00:00",
         "axs_ascending": 324.35241007179746,
         "axs_breeding": 251.5,
@@ -1404,7 +1404,7 @@
         "weth_marketplace": 4.57720496567167
     },
     {
-        "_id": "66943b13a9dd2e5698bf575b",
+        "_id": "66b60a5bb80e57a1c1cfd88f",
         "timestamp": "2024-06-05 00:00:00",
         "axs_ascending": 319.81730569148783,
         "axs_breeding": 214.5,
@@ -1413,7 +1413,7 @@
         "weth_marketplace": 2.8011020223273553
     },
     {
-        "_id": "66943b13a9dd2e5698bf575d",
+        "_id": "66b60a5bb80e57a1c1cfd891",
         "timestamp": "2024-06-06 00:00:00",
         "axs_ascending": 262.1888198122795,
         "axs_breeding": 141.5,
@@ -1422,7 +1422,7 @@
         "weth_marketplace": 1.777148877882373
     },
     {
-        "_id": "66943b13a9dd2e5698bf575f",
+        "_id": "66b60a5bb80e57a1c1cfd893",
         "timestamp": "2024-06-07 00:00:00",
         "axs_ascending": 240.54142531107283,
         "axs_breeding": 136.0,
@@ -1431,7 +1431,7 @@
         "weth_marketplace": 2.013692367603674
     },
     {
-        "_id": "66943b13a9dd2e5698bf5761",
+        "_id": "66b60a5bb80e57a1c1cfd895",
         "timestamp": "2024-06-08 00:00:00",
         "axs_ascending": 235.01938922784313,
         "axs_breeding": 156.5,
@@ -1440,7 +1440,7 @@
         "weth_marketplace": 1.6775755138544066
     },
     {
-        "_id": "66943b13a9dd2e5698bf5763",
+        "_id": "66b60a5bb80e57a1c1cfd897",
         "timestamp": "2024-06-09 00:00:00",
         "axs_ascending": 245.68321685825828,
         "axs_breeding": 197.0,
@@ -1449,7 +1449,7 @@
         "weth_marketplace": 1.6821643586016861
     },
     {
-        "_id": "66943b13a9dd2e5698bf5765",
+        "_id": "66b60a5bb80e57a1c1cfd899",
         "timestamp": "2024-06-10 00:00:00",
         "axs_ascending": 255.01345512272607,
         "axs_breeding": 136.0,
@@ -1458,7 +1458,7 @@
         "weth_marketplace": 1.68384588692335
     },
     {
-        "_id": "66943b13a9dd2e5698bf5767",
+        "_id": "66b60a5bb80e57a1c1cfd89b",
         "timestamp": "2024-06-11 00:00:00",
         "axs_ascending": 237.9561509682066,
         "axs_breeding": 110.5,
@@ -1467,7 +1467,7 @@
         "weth_marketplace": 1.760106109970702
     },
     {
-        "_id": "66943b13a9dd2e5698bf5769",
+        "_id": "66b60a5bb80e57a1c1cfd89d",
         "timestamp": "2024-06-12 00:00:00",
         "axs_ascending": 282.29782116424263,
         "axs_breeding": 195.0,
@@ -1476,7 +1476,7 @@
         "weth_marketplace": 1.4489732907620132
     },
     {
-        "_id": "66943b13a9dd2e5698bf576b",
+        "_id": "66b60a5bb80e57a1c1cfd89f",
         "timestamp": "2024-06-13 00:00:00",
         "axs_ascending": 231.73655167212067,
         "axs_breeding": 228.5,
@@ -1485,7 +1485,7 @@
         "weth_marketplace": 1.4915941205264838
     },
     {
-        "_id": "66943b13a9dd2e5698bf576d",
+        "_id": "66b60a5bb80e57a1c1cfd8a1",
         "timestamp": "2024-06-14 00:00:00",
         "axs_ascending": 218.04486796282407,
         "axs_breeding": 206.5,
@@ -1494,7 +1494,7 @@
         "weth_marketplace": 1.4911154232377133
     },
     {
-        "_id": "66943b13a9dd2e5698bf576f",
+        "_id": "66b60a5bb80e57a1c1cfd8a3",
         "timestamp": "2024-06-15 00:00:00",
         "axs_ascending": 234.53975791185087,
         "axs_breeding": 228.0,
@@ -1503,7 +1503,7 @@
         "weth_marketplace": 1.1237969438706763
     },
     {
-        "_id": "66943b13a9dd2e5698bf5771",
+        "_id": "66b60a5bb80e57a1c1cfd8a5",
         "timestamp": "2024-06-16 00:00:00",
         "axs_ascending": 285.5258083658189,
         "axs_breeding": 158.5,
@@ -1512,7 +1512,7 @@
         "weth_marketplace": 1.3782259756746396
     },
     {
-        "_id": "66943b13a9dd2e5698bf5773",
+        "_id": "66b60a5bb80e57a1c1cfd8a7",
         "timestamp": "2024-06-17 00:00:00",
         "axs_ascending": 291.2952904978148,
         "axs_breeding": 255.5,
@@ -1521,7 +1521,7 @@
         "weth_marketplace": 1.0194053527913218
     },
     {
-        "_id": "66943b13a9dd2e5698bf5775",
+        "_id": "66b60a5bb80e57a1c1cfd8a9",
         "timestamp": "2024-06-18 00:00:00",
         "axs_ascending": 252.54199317976435,
         "axs_breeding": 346.0,
@@ -1530,7 +1530,7 @@
         "weth_marketplace": 0.9623792784911142
     },
     {
-        "_id": "66943b13a9dd2e5698bf5777",
+        "_id": "66b60a5bb80e57a1c1cfd8ab",
         "timestamp": "2024-06-19 00:00:00",
         "axs_ascending": 287.36026522422316,
         "axs_breeding": 279.0,
@@ -1539,7 +1539,7 @@
         "weth_marketplace": 1.3412007841330993
     },
     {
-        "_id": "66943b13a9dd2e5698bf5779",
+        "_id": "66b60a5bb80e57a1c1cfd8ad",
         "timestamp": "2024-06-20 00:00:00",
         "axs_ascending": 256.9189399084603,
         "axs_breeding": 212.5,
@@ -1548,7 +1548,7 @@
         "weth_marketplace": 1.62426219236046
     },
     {
-        "_id": "66943b13a9dd2e5698bf577b",
+        "_id": "66b60a5bb80e57a1c1cfd8af",
         "timestamp": "2024-06-21 00:00:00",
         "axs_ascending": 249.85203612237947,
         "axs_breeding": 191.5,
@@ -1557,7 +1557,7 @@
         "weth_marketplace": 1.5979385667694588
     },
     {
-        "_id": "66943b13a9dd2e5698bf577d",
+        "_id": "66b60a5bb80e57a1c1cfd8b1",
         "timestamp": "2024-06-22 00:00:00",
         "axs_ascending": 266.2715035692069,
         "axs_breeding": 205.5,
@@ -1566,7 +1566,7 @@
         "weth_marketplace": 1.4454914203906295
     },
     {
-        "_id": "66943b13a9dd2e5698bf577f",
+        "_id": "66b60a5bb80e57a1c1cfd8b3",
         "timestamp": "2024-06-23 00:00:00",
         "axs_ascending": 269.01403282649335,
         "axs_breeding": 176.5,
@@ -1575,7 +1575,7 @@
         "weth_marketplace": 1.034720792748252
     },
     {
-        "_id": "66943b13a9dd2e5698bf5781",
+        "_id": "66b60a5bb80e57a1c1cfd8b5",
         "timestamp": "2024-06-24 00:00:00",
         "axs_ascending": 258.83355170868833,
         "axs_breeding": 364.0,
@@ -1584,7 +1584,7 @@
         "weth_marketplace": 1.0850845913326594
     },
     {
-        "_id": "66943b13a9dd2e5698bf5783",
+        "_id": "66b60a5bb80e57a1c1cfd8b7",
         "timestamp": "2024-06-25 00:00:00",
         "axs_ascending": 250.69864905559032,
         "axs_breeding": 205.5,
@@ -1593,7 +1593,7 @@
         "weth_marketplace": 0.8784009529324056
     },
     {
-        "_id": "66943b13a9dd2e5698bf5785",
+        "_id": "66b60a5bb80e57a1c1cfd8b9",
         "timestamp": "2024-06-26 00:00:00",
         "axs_ascending": 307.9096565853853,
         "axs_breeding": 208.5,
@@ -1602,7 +1602,7 @@
         "weth_marketplace": 0.9975130119905528
     },
     {
-        "_id": "66943b13a9dd2e5698bf5787",
+        "_id": "66b60a5bb80e57a1c1cfd8bb",
         "timestamp": "2024-06-27 00:00:00",
         "axs_ascending": 310.4439499693135,
         "axs_breeding": 234.0,
@@ -1611,7 +1611,7 @@
         "weth_marketplace": 1.406758095975806
     },
     {
-        "_id": "66943b13a9dd2e5698bf5789",
+        "_id": "66b60a5bb80e57a1c1cfd8bd",
         "timestamp": "2024-06-28 00:00:00",
         "axs_ascending": 259.91035393423,
         "axs_breeding": 142.0,
@@ -1620,7 +1620,7 @@
         "weth_marketplace": 0.9869955315601358
     },
     {
-        "_id": "66943b13a9dd2e5698bf578b",
+        "_id": "66b60a5bb80e57a1c1cfd8bf",
         "timestamp": "2024-06-29 00:00:00",
         "axs_ascending": 250.54005821620555,
         "axs_breeding": 320.0,
@@ -1629,7 +1629,7 @@
         "weth_marketplace": 1.1172885928802836
     },
     {
-        "_id": "66943b13a9dd2e5698bf578d",
+        "_id": "66b60a5bb80e57a1c1cfd8c1",
         "timestamp": "2024-06-30 00:00:00",
         "axs_ascending": 258.19629552466466,
         "axs_breeding": 268.0,
@@ -1638,7 +1638,7 @@
         "weth_marketplace": 0.9476361158730879
     },
     {
-        "_id": "66943b13a9dd2e5698bf578f",
+        "_id": "66b60a5bb80e57a1c1cfd8c3",
         "timestamp": "2024-07-01 00:00:00",
         "axs_ascending": 280.3844345404392,
         "axs_breeding": 246.0,
@@ -1647,7 +1647,7 @@
         "weth_marketplace": 0.8645880048905779
     },
     {
-        "_id": "66943b13a9dd2e5698bf5791",
+        "_id": "66b60a5bb80e57a1c1cfd8c5",
         "timestamp": "2024-07-02 00:00:00",
         "axs_ascending": 262.15833998954025,
         "axs_breeding": 280.0,
@@ -1656,7 +1656,7 @@
         "weth_marketplace": 0.9602710040800095
     },
     {
-        "_id": "66943b13a9dd2e5698bf5793",
+        "_id": "66b60a5bb80e57a1c1cfd8c7",
         "timestamp": "2024-07-03 00:00:00",
         "axs_ascending": 329.6094491589892,
         "axs_breeding": 189.5,
@@ -1665,7 +1665,7 @@
         "weth_marketplace": 0.7204260172454724
     },
     {
-        "_id": "66943b13a9dd2e5698bf5795",
+        "_id": "66b60a5bb80e57a1c1cfd8c9",
         "timestamp": "2024-07-04 00:00:00",
         "axs_ascending": 304.4875692262448,
         "axs_breeding": 312.5,
@@ -1674,7 +1674,7 @@
         "weth_marketplace": 0.694025178791466
     },
     {
-        "_id": "66943b13a9dd2e5698bf5797",
+        "_id": "66b60a5bb80e57a1c1cfd8cb",
         "timestamp": "2024-07-05 00:00:00",
         "axs_ascending": 290.1696124061248,
         "axs_breeding": 191.0,
@@ -1683,7 +1683,7 @@
         "weth_marketplace": 0.8898123254187368
     },
     {
-        "_id": "66943b13a9dd2e5698bf5799",
+        "_id": "66b60a5bb80e57a1c1cfd8cd",
         "timestamp": "2024-07-06 00:00:00",
         "axs_ascending": 312.2396755031988,
         "axs_breeding": 175.0,
@@ -1692,7 +1692,7 @@
         "weth_marketplace": 0.7307374802543476
     },
     {
-        "_id": "66943b13a9dd2e5698bf579b",
+        "_id": "66b60a5bb80e57a1c1cfd8cf",
         "timestamp": "2024-07-07 00:00:00",
         "axs_ascending": 331.95675218565844,
         "axs_breeding": 203.5,
@@ -1701,7 +1701,7 @@
         "weth_marketplace": 0.734984532696964
     },
     {
-        "_id": "66943b13a9dd2e5698bf579d",
+        "_id": "66b60a5bb80e57a1c1cfd8d1",
         "timestamp": "2024-07-08 00:00:00",
         "axs_ascending": 311.4883265709238,
         "axs_breeding": 125.5,
@@ -1710,7 +1710,7 @@
         "weth_marketplace": 1.1628302834912927
     },
     {
-        "_id": "66943b13a9dd2e5698bf579f",
+        "_id": "66b60a5bb80e57a1c1cfd8d3",
         "timestamp": "2024-07-09 00:00:00",
         "axs_ascending": 303.0591639843904,
         "axs_breeding": 186.0,
@@ -1719,7 +1719,7 @@
         "weth_marketplace": 0.6347847941350021
     },
     {
-        "_id": "66943b13a9dd2e5698bf57a1",
+        "_id": "66b60a5bb80e57a1c1cfd8d5",
         "timestamp": "2024-07-10 00:00:00",
         "axs_ascending": 289.2229324097051,
         "axs_breeding": 199.5,
@@ -1728,7 +1728,7 @@
         "weth_marketplace": 0.7478692977557367
     },
     {
-        "_id": "66943b13a9dd2e5698bf57a3",
+        "_id": "66b60a5bb80e57a1c1cfd8d7",
         "timestamp": "2024-07-11 00:00:00",
         "axs_ascending": 299.21030079375424,
         "axs_breeding": 152.5,
@@ -1737,7 +1737,7 @@
         "weth_marketplace": 0.9544903388765128
     },
     {
-        "_id": "66943b13a9dd2e5698bf57a5",
+        "_id": "66b60a5bb80e57a1c1cfd8d9",
         "timestamp": "2024-07-12 00:00:00",
         "axs_ascending": 243.11199518572872,
         "axs_breeding": 215.5,
@@ -1746,7 +1746,7 @@
         "weth_marketplace": 0.7648270937015174
     },
     {
-        "_id": "66943b13a9dd2e5698bf57a7",
+        "_id": "66b60a5bb80e57a1c1cfd8db",
         "timestamp": "2024-07-13 00:00:00",
         "axs_ascending": 254.59800898153358,
         "axs_breeding": 272.5,
@@ -1755,3226 +1755,3460 @@
         "weth_marketplace": 0.7847912426614744
     },
     {
-        "_id": "66943b13a9dd2e5698bf57a9",
+        "_id": "66b60a5bb80e57a1c1cfd8dd",
         "timestamp": "2024-07-14 00:00:00",
-        "axs_ascending": 252.4994368880443,
-        "axs_breeding": 210.5,
-        "axs_partsEvol": 282.62021258896095,
-        "axs_r&cMint": 696.5997996951817,
-        "weth_marketplace": 0.5369456301727872
+        "axs_ascending": 277.45390077711465,
+        "axs_breeding": 255.0,
+        "axs_partsEvol": 328.5566374013916,
+        "axs_r&cMint": 840.2107492458339,
+        "weth_marketplace": 0.6000280387680489
     },
     {
-        "_id": "66943c60a9dd2e5698bf732e",
+        "_id": "66b60a5bb80e57a1c1cfd8df",
+        "timestamp": "2024-07-15 00:00:00",
+        "axs_ascending": 401.89841350780824,
+        "axs_breeding": 385.5,
+        "axs_partsEvol": 377.35256004260447,
+        "axs_r&cMint": 657.9889240382807,
+        "weth_marketplace": 1.4770793065251921
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8e1",
+        "timestamp": "2024-07-16 00:00:00",
+        "axs_ascending": 384.1103778802876,
+        "axs_breeding": 257.5,
+        "axs_partsEvol": 405.1290301823285,
+        "axs_r&cMint": 593.0033300534577,
+        "weth_marketplace": 0.7178361446997792
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8e3",
+        "timestamp": "2024-07-17 00:00:00",
+        "axs_ascending": 340.11763563589886,
+        "axs_breeding": 141.5,
+        "axs_partsEvol": 343.5574697654783,
+        "axs_r&cMint": 460.189535503036,
+        "weth_marketplace": 0.7034733336695685
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8e5",
+        "timestamp": "2024-07-18 00:00:00",
+        "axs_ascending": 341.04703928542006,
+        "axs_breeding": 291.5,
+        "axs_partsEvol": 343.08934639836434,
+        "axs_r&cMint": 478.5642090083541,
+        "weth_marketplace": 1.2422339050426123
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8e7",
+        "timestamp": "2024-07-19 00:00:00",
+        "axs_ascending": 284.99158263863364,
+        "axs_breeding": 230.5,
+        "axs_partsEvol": 287.55265588001174,
+        "axs_r&cMint": 361.5745809975281,
+        "weth_marketplace": 0.7651347497650004
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8e9",
+        "timestamp": "2024-07-20 00:00:00",
+        "axs_ascending": 302.7956702324739,
+        "axs_breeding": 273.0,
+        "axs_partsEvol": 303.04428741649895,
+        "axs_r&cMint": 354.33419476663704,
+        "weth_marketplace": 0.638563504173784
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8eb",
+        "timestamp": "2024-07-21 00:00:00",
+        "axs_ascending": 280.0436147718109,
+        "axs_breeding": 150.5,
+        "axs_partsEvol": 260.0799113131007,
+        "axs_r&cMint": 355.12574289918774,
+        "weth_marketplace": 0.6037584984785452
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8ed",
+        "timestamp": "2024-07-22 00:00:00",
+        "axs_ascending": 301.4416938164771,
+        "axs_breeding": 129.5,
+        "axs_partsEvol": 246.13969694013483,
+        "axs_r&cMint": 258.8316918803395,
+        "weth_marketplace": 0.6030006882241867
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8ef",
+        "timestamp": "2024-07-23 00:00:00",
+        "axs_ascending": 293.1299126681239,
+        "axs_breeding": 199.5,
+        "axs_partsEvol": 261.7783385788273,
+        "axs_r&cMint": 224.81689179691983,
+        "weth_marketplace": 0.8078789769563772
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8f1",
+        "timestamp": "2024-07-24 00:00:00",
+        "axs_ascending": 334.3544635700856,
+        "axs_breeding": 227.5,
+        "axs_partsEvol": 337.19995500411375,
+        "axs_r&cMint": 209.24918352379333,
+        "weth_marketplace": 0.6584427619444664
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8f3",
+        "timestamp": "2024-07-25 00:00:00",
+        "axs_ascending": 323.2328279694174,
+        "axs_breeding": 230.5,
+        "axs_partsEvol": 301.0838312342156,
+        "axs_r&cMint": 171.53702384936986,
+        "weth_marketplace": 0.635486164042221
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8f5",
+        "timestamp": "2024-07-26 00:00:00",
+        "axs_ascending": 293.7008504586705,
+        "axs_breeding": 256.5,
+        "axs_partsEvol": 225.56652676243473,
+        "axs_r&cMint": 149.02084596089074,
+        "weth_marketplace": 0.6293869079703003
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8f7",
+        "timestamp": "2024-07-27 00:00:00",
+        "axs_ascending": 277.9792311888965,
+        "axs_breeding": 213.0,
+        "axs_partsEvol": 208.0008116592127,
+        "axs_r&cMint": 83.55732317829967,
+        "weth_marketplace": 0.5198337520211577
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8f9",
+        "timestamp": "2024-07-28 00:00:00",
+        "axs_ascending": 317.59535510669434,
+        "axs_breeding": 173.5,
+        "axs_partsEvol": 238.41599129619667,
+        "axs_r&cMint": 79.59223212448445,
+        "weth_marketplace": 0.7146779896153408
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8fb",
+        "timestamp": "2024-07-29 00:00:00",
+        "axs_ascending": 317.305690033518,
+        "axs_breeding": 165.5,
+        "axs_partsEvol": 229.2198687280607,
+        "axs_r&cMint": 77.41765199332396,
+        "weth_marketplace": 0.6644050611653142
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8fd",
+        "timestamp": "2024-07-30 00:00:00",
+        "axs_ascending": 284.62381039728047,
+        "axs_breeding": 209.5,
+        "axs_partsEvol": 238.39522236775275,
+        "axs_r&cMint": 57.20085321813603,
+        "weth_marketplace": 0.702736479771807
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd8ff",
+        "timestamp": "2024-07-31 00:00:00",
+        "axs_ascending": 313.638442461257,
+        "axs_breeding": 227.0,
+        "axs_partsEvol": 242.84900093351047,
+        "axs_r&cMint": 20.972412321751207,
+        "weth_marketplace": 0.5987836372384389
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd901",
+        "timestamp": "2024-08-01 00:00:00",
+        "axs_ascending": 258.18311932929157,
+        "axs_breeding": 223.0,
+        "axs_partsEvol": 203.69075589322023,
+        "axs_r&cMint": 15.511403659543552,
+        "weth_marketplace": 0.6817748293138117
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd903",
+        "timestamp": "2024-08-02 00:00:00",
+        "axs_ascending": 277.17185933125074,
+        "axs_breeding": 270.0,
+        "axs_partsEvol": 201.39462346036456,
+        "axs_r&cMint": 17.659820577598733,
+        "weth_marketplace": 0.7743513369911774
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd905",
+        "timestamp": "2024-08-03 00:00:00",
+        "axs_ascending": 265.1288686513501,
+        "axs_breeding": 160.0,
+        "axs_partsEvol": 207.3290247205118,
+        "axs_r&cMint": 3.403540785045571,
+        "weth_marketplace": 1.3674908507779069
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd907",
+        "timestamp": "2024-08-04 00:00:00",
+        "axs_ascending": 296.56183067493,
+        "axs_breeding": 112.5,
+        "axs_partsEvol": 289.8277881881014,
+        "axs_r&cMint": 11.941699608672058,
+        "weth_marketplace": 0.9500893142947012
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd909",
+        "timestamp": "2024-08-05 00:00:00",
+        "axs_ascending": 351.94881016604256,
+        "axs_breeding": 235.0,
+        "axs_partsEvol": 347.03300549661935,
+        "axs_r&cMint": 4.925059784903027,
+        "weth_marketplace": 1.5311855400558991
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd90b",
+        "timestamp": "2024-08-06 00:00:00",
+        "axs_ascending": 313.0950114209543,
+        "axs_breeding": 229.5,
+        "axs_partsEvol": 300.41517388282153,
+        "axs_r&cMint": 13.872241843686394,
+        "weth_marketplace": 1.2039402434783333
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd90d",
+        "timestamp": "2024-08-07 00:00:00",
+        "axs_ascending": 370.58496759444563,
+        "axs_breeding": 280.5,
+        "axs_partsEvol": 430.26999030485075,
+        "axs_r&cMint": 14.843041545907074,
+        "weth_marketplace": 0.8875838435620823
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd90f",
+        "timestamp": "2024-08-08 00:00:00",
+        "axs_ascending": 361.44636515743247,
+        "axs_breeding": 151.5,
+        "axs_partsEvol": 343.2119884611118,
+        "axs_r&cMint": 3.7341117209671006,
+        "weth_marketplace": 1.3817306370846196
+    },
+    {
+        "_id": "66b60a5bb80e57a1c1cfd911",
+        "timestamp": "2024-08-09 00:00:00",
+        "axs_ascending": 152.73687593638638,
+        "axs_breeding": 48.0,
+        "axs_partsEvol": 198.96200781462255,
+        "axs_r&cMint": 0.20666954463444304,
+        "weth_marketplace": 0.40502970096395885
+    },
+    {
+        "_id": "66b60a78b80e57a1c1cfd928",
         "timestamp": "2022-10-11 00:00:00",
         "weth_marketplace": 3.0443190461760117
     },
     {
-        "_id": "66943c60a9dd2e5698bf7330",
+        "_id": "66b60a78b80e57a1c1cfd92a",
         "timestamp": "2022-10-12 00:00:00",
         "weth_marketplace": 5.683477168670007
     },
     {
-        "_id": "66943c60a9dd2e5698bf7332",
+        "_id": "66b60a78b80e57a1c1cfd92c",
         "timestamp": "2022-10-13 00:00:00",
         "weth_marketplace": 4.766774768627553
     },
     {
-        "_id": "66943c60a9dd2e5698bf7334",
+        "_id": "66b60a78b80e57a1c1cfd92e",
         "timestamp": "2022-10-14 00:00:00",
         "weth_marketplace": 5.176162607574809
     },
     {
-        "_id": "66943c60a9dd2e5698bf7336",
+        "_id": "66b60a78b80e57a1c1cfd930",
         "timestamp": "2022-10-15 00:00:00",
         "weth_marketplace": 5.621787726115925
     },
     {
-        "_id": "66943c60a9dd2e5698bf7338",
+        "_id": "66b60a78b80e57a1c1cfd932",
         "timestamp": "2022-10-16 00:00:00",
         "weth_marketplace": 5.171919776432979
     },
     {
-        "_id": "66943c60a9dd2e5698bf733a",
+        "_id": "66b60a78b80e57a1c1cfd934",
         "timestamp": "2022-10-17 00:00:00",
         "weth_marketplace": 5.750562434171865
     },
     {
-        "_id": "66943c60a9dd2e5698bf733c",
+        "_id": "66b60a78b80e57a1c1cfd936",
         "timestamp": "2022-10-18 00:00:00",
         "weth_marketplace": 6.514189095579645
     },
     {
-        "_id": "66943c60a9dd2e5698bf733e",
+        "_id": "66b60a78b80e57a1c1cfd938",
         "timestamp": "2022-10-19 00:00:00",
         "weth_marketplace": 5.027836774524499
     },
     {
-        "_id": "66943c60a9dd2e5698bf7340",
+        "_id": "66b60a78b80e57a1c1cfd93a",
         "timestamp": "2022-10-20 00:00:00",
         "weth_marketplace": 6.735015189729911
     },
     {
-        "_id": "66943c60a9dd2e5698bf7342",
+        "_id": "66b60a78b80e57a1c1cfd93c",
         "timestamp": "2022-10-21 00:00:00",
         "weth_marketplace": 4.173766430109462
     },
     {
-        "_id": "66943c60a9dd2e5698bf7344",
+        "_id": "66b60a78b80e57a1c1cfd93e",
         "timestamp": "2022-10-22 00:00:00",
         "weth_marketplace": 6.122957373254303
     },
     {
-        "_id": "66943c60a9dd2e5698bf7346",
+        "_id": "66b60a78b80e57a1c1cfd940",
         "timestamp": "2022-10-23 00:00:00",
         "weth_marketplace": 3.8954828205903365
     },
     {
-        "_id": "66943c60a9dd2e5698bf7348",
+        "_id": "66b60a78b80e57a1c1cfd942",
         "timestamp": "2022-10-24 00:00:00",
         "weth_marketplace": 4.111578549394086
     },
     {
-        "_id": "66943c60a9dd2e5698bf734a",
+        "_id": "66b60a78b80e57a1c1cfd944",
         "timestamp": "2022-10-25 00:00:00",
         "weth_marketplace": 3.9157228225466154
     },
     {
-        "_id": "66943c60a9dd2e5698bf734c",
+        "_id": "66b60a78b80e57a1c1cfd946",
         "timestamp": "2022-10-26 00:00:00",
         "weth_marketplace": 3.981906944611686
     },
     {
-        "_id": "66943c60a9dd2e5698bf734e",
+        "_id": "66b60a78b80e57a1c1cfd948",
         "timestamp": "2022-10-27 00:00:00",
         "weth_marketplace": 3.319615579591682
     },
     {
-        "_id": "66943c60a9dd2e5698bf7350",
+        "_id": "66b60a78b80e57a1c1cfd94a",
         "timestamp": "2022-10-28 00:00:00",
         "weth_marketplace": 4.779077323190951
     },
     {
-        "_id": "66943c60a9dd2e5698bf7352",
+        "_id": "66b60a78b80e57a1c1cfd94c",
         "timestamp": "2022-10-29 00:00:00",
         "weth_marketplace": 2.827111081639843
     },
     {
-        "_id": "66943c60a9dd2e5698bf7354",
+        "_id": "66b60a78b80e57a1c1cfd94e",
         "timestamp": "2022-10-30 00:00:00",
         "weth_marketplace": 4.233000422402349
     },
     {
-        "_id": "66943c60a9dd2e5698bf7356",
+        "_id": "66b60a78b80e57a1c1cfd950",
         "timestamp": "2022-10-31 00:00:00",
         "weth_marketplace": 3.139900860016408
     },
     {
-        "_id": "66943c60a9dd2e5698bf7358",
+        "_id": "66b60a78b80e57a1c1cfd952",
         "timestamp": "2022-11-01 00:00:00",
         "weth_marketplace": 3.3717824688530076
     },
     {
-        "_id": "66943c60a9dd2e5698bf735a",
+        "_id": "66b60a78b80e57a1c1cfd954",
         "timestamp": "2022-11-02 00:00:00",
         "weth_marketplace": 3.6922497211354397
     },
     {
-        "_id": "66943c60a9dd2e5698bf735c",
+        "_id": "66b60a78b80e57a1c1cfd956",
         "timestamp": "2022-11-03 00:00:00",
         "weth_marketplace": 3.377240491169391
     },
     {
-        "_id": "66943c60a9dd2e5698bf735e",
+        "_id": "66b60a78b80e57a1c1cfd958",
         "timestamp": "2022-11-04 00:00:00",
         "weth_marketplace": 3.1325371798930197
     },
     {
-        "_id": "66943c60a9dd2e5698bf7360",
+        "_id": "66b60a78b80e57a1c1cfd95a",
         "timestamp": "2022-11-05 00:00:00",
         "weth_marketplace": 8.191642169596669
     },
     {
-        "_id": "66943c60a9dd2e5698bf7362",
+        "_id": "66b60a78b80e57a1c1cfd95c",
         "timestamp": "2022-11-06 00:00:00",
         "weth_marketplace": 2.623787569815074
     },
     {
-        "_id": "66943c60a9dd2e5698bf7364",
+        "_id": "66b60a78b80e57a1c1cfd95e",
         "timestamp": "2022-11-07 00:00:00",
         "weth_marketplace": 3.5000783051640485
     },
     {
-        "_id": "66943c60a9dd2e5698bf7366",
+        "_id": "66b60a78b80e57a1c1cfd960",
         "timestamp": "2022-11-08 00:00:00",
         "weth_marketplace": 3.565465007332401
     },
     {
-        "_id": "66943c60a9dd2e5698bf7368",
+        "_id": "66b60a78b80e57a1c1cfd962",
         "timestamp": "2022-11-09 00:00:00",
         "weth_marketplace": 8.745934873602813
     },
     {
-        "_id": "66943c60a9dd2e5698bf736a",
+        "_id": "66b60a78b80e57a1c1cfd964",
         "timestamp": "2022-11-10 00:00:00",
         "weth_marketplace": 12.534938342534167
     },
     {
-        "_id": "66943c60a9dd2e5698bf736c",
+        "_id": "66b60a78b80e57a1c1cfd966",
         "timestamp": "2022-11-11 00:00:00",
         "weth_marketplace": 3.2064487825364547
     },
     {
-        "_id": "66943c60a9dd2e5698bf736e",
+        "_id": "66b60a78b80e57a1c1cfd968",
         "timestamp": "2022-11-12 00:00:00",
         "weth_marketplace": 5.1451721809127005
     },
     {
-        "_id": "66943c60a9dd2e5698bf7370",
+        "_id": "66b60a78b80e57a1c1cfd96a",
         "timestamp": "2022-11-13 00:00:00",
         "weth_marketplace": 4.052121219178262
     },
     {
-        "_id": "66943c60a9dd2e5698bf7372",
+        "_id": "66b60a78b80e57a1c1cfd96c",
         "timestamp": "2022-11-14 00:00:00",
         "weth_marketplace": 3.2575488437990754
     },
     {
-        "_id": "66943c60a9dd2e5698bf7374",
+        "_id": "66b60a78b80e57a1c1cfd96e",
         "timestamp": "2022-11-15 00:00:00",
         "weth_marketplace": 2.6553951566322436
     },
     {
-        "_id": "66943c60a9dd2e5698bf7376",
+        "_id": "66b60a78b80e57a1c1cfd970",
         "timestamp": "2022-11-16 00:00:00",
         "weth_marketplace": 1.9346768540140313
     },
     {
-        "_id": "66943c60a9dd2e5698bf7378",
+        "_id": "66b60a78b80e57a1c1cfd972",
         "timestamp": "2022-11-17 00:00:00",
         "weth_marketplace": 1.1390620100890816
     },
     {
-        "_id": "66943c60a9dd2e5698bf737a",
+        "_id": "66b60a78b80e57a1c1cfd974",
         "timestamp": "2022-11-18 00:00:00",
         "weth_marketplace": 1.5190636748993267
     },
     {
-        "_id": "66943c60a9dd2e5698bf737c",
+        "_id": "66b60a78b80e57a1c1cfd976",
         "timestamp": "2022-11-19 00:00:00",
         "weth_marketplace": 1.6244433375735117
     },
     {
-        "_id": "66943c60a9dd2e5698bf737e",
+        "_id": "66b60a78b80e57a1c1cfd978",
         "timestamp": "2022-11-20 00:00:00",
         "weth_marketplace": 1.0260917374268592
     },
     {
-        "_id": "66943c60a9dd2e5698bf7380",
+        "_id": "66b60a78b80e57a1c1cfd97a",
         "timestamp": "2022-11-21 00:00:00",
         "weth_marketplace": 4.87553157389622
     },
     {
-        "_id": "66943c60a9dd2e5698bf7382",
+        "_id": "66b60a78b80e57a1c1cfd97c",
         "timestamp": "2022-11-22 00:00:00",
         "weth_marketplace": 1.246527169297075
     },
     {
-        "_id": "66943c60a9dd2e5698bf7384",
+        "_id": "66b60a78b80e57a1c1cfd97e",
         "timestamp": "2022-11-23 00:00:00",
         "weth_marketplace": 1.6439877110592584
     },
     {
-        "_id": "66943c60a9dd2e5698bf7386",
+        "_id": "66b60a78b80e57a1c1cfd980",
         "timestamp": "2022-11-24 00:00:00",
         "weth_marketplace": 1.829065507707582
     },
     {
-        "_id": "66943c60a9dd2e5698bf7388",
+        "_id": "66b60a78b80e57a1c1cfd982",
         "timestamp": "2022-11-25 00:00:00",
         "weth_marketplace": 1.1666225433625388
     },
     {
-        "_id": "66943c60a9dd2e5698bf738a",
+        "_id": "66b60a78b80e57a1c1cfd984",
         "timestamp": "2022-11-26 00:00:00",
         "weth_marketplace": 1.3150980362146636
     },
     {
-        "_id": "66943c60a9dd2e5698bf738c",
+        "_id": "66b60a78b80e57a1c1cfd986",
         "timestamp": "2022-11-27 00:00:00",
         "weth_marketplace": 0.8850970982394026
     },
     {
-        "_id": "66943c60a9dd2e5698bf738e",
+        "_id": "66b60a78b80e57a1c1cfd988",
         "timestamp": "2022-11-28 00:00:00",
         "weth_marketplace": 1.469432334360478
     },
     {
-        "_id": "66943c60a9dd2e5698bf7390",
+        "_id": "66b60a78b80e57a1c1cfd98a",
         "timestamp": "2022-11-29 00:00:00",
         "weth_marketplace": 1.443783624406339
     },
     {
-        "_id": "66943c60a9dd2e5698bf7392",
+        "_id": "66b60a78b80e57a1c1cfd98c",
         "timestamp": "2022-11-30 00:00:00",
         "weth_marketplace": 1.1435826754803007
     },
     {
-        "_id": "66943c60a9dd2e5698bf7394",
+        "_id": "66b60a78b80e57a1c1cfd98e",
         "timestamp": "2022-12-01 00:00:00",
         "weth_marketplace": 0.8595081398443417
     },
     {
-        "_id": "66943c60a9dd2e5698bf7396",
+        "_id": "66b60a78b80e57a1c1cfd990",
         "timestamp": "2022-12-02 00:00:00",
         "weth_marketplace": 1.3540643128643068
     },
     {
-        "_id": "66943c60a9dd2e5698bf7398",
+        "_id": "66b60a78b80e57a1c1cfd992",
         "timestamp": "2022-12-03 00:00:00",
         "weth_marketplace": 1.2810586277634952
     },
     {
-        "_id": "66943c60a9dd2e5698bf739a",
+        "_id": "66b60a78b80e57a1c1cfd994",
         "timestamp": "2022-12-04 00:00:00",
         "weth_marketplace": 0.9075781345316827
     },
     {
-        "_id": "66943c60a9dd2e5698bf739c",
+        "_id": "66b60a78b80e57a1c1cfd996",
         "timestamp": "2022-12-05 00:00:00",
         "weth_marketplace": 1.9699683085244015
     },
     {
-        "_id": "66943c60a9dd2e5698bf739e",
+        "_id": "66b60a78b80e57a1c1cfd998",
         "timestamp": "2022-12-06 00:00:00",
         "weth_marketplace": 2.0125262731409617
     },
     {
-        "_id": "66943c60a9dd2e5698bf73a0",
+        "_id": "66b60a78b80e57a1c1cfd99a",
         "timestamp": "2022-12-07 00:00:00",
         "weth_marketplace": 1.8114443821751947
     },
     {
-        "_id": "66943c60a9dd2e5698bf73a2",
+        "_id": "66b60a78b80e57a1c1cfd99c",
         "timestamp": "2022-12-08 00:00:00",
         "weth_marketplace": 1.4785186259038718
     },
     {
-        "_id": "66943c60a9dd2e5698bf73a4",
+        "_id": "66b60a78b80e57a1c1cfd99e",
         "timestamp": "2022-12-09 00:00:00",
         "weth_marketplace": 1.1608090206732393
     },
     {
-        "_id": "66943c60a9dd2e5698bf73a6",
+        "_id": "66b60a78b80e57a1c1cfd9a0",
         "timestamp": "2022-12-10 00:00:00",
         "weth_marketplace": 1.5722174999947782
     },
     {
-        "_id": "66943c60a9dd2e5698bf73a8",
+        "_id": "66b60a78b80e57a1c1cfd9a2",
         "timestamp": "2022-12-11 00:00:00",
         "weth_marketplace": 1.2326096266030664
     },
     {
-        "_id": "66943c60a9dd2e5698bf73aa",
+        "_id": "66b60a78b80e57a1c1cfd9a4",
         "timestamp": "2022-12-12 00:00:00",
         "weth_marketplace": 1.721616209727762
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ac",
+        "_id": "66b60a78b80e57a1c1cfd9a6",
         "timestamp": "2022-12-13 00:00:00",
         "weth_marketplace": 4.771511471670983
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ae",
+        "_id": "66b60a78b80e57a1c1cfd9a8",
         "timestamp": "2022-12-14 00:00:00",
         "weth_marketplace": 1.1367482457993727
     },
     {
-        "_id": "66943c60a9dd2e5698bf73b0",
+        "_id": "66b60a78b80e57a1c1cfd9aa",
         "timestamp": "2022-12-15 00:00:00",
         "weth_marketplace": 1.9106883007999722
     },
     {
-        "_id": "66943c60a9dd2e5698bf73b2",
+        "_id": "66b60a78b80e57a1c1cfd9ac",
         "timestamp": "2022-12-16 00:00:00",
         "weth_marketplace": 2.6125025518610907
     },
     {
-        "_id": "66943c60a9dd2e5698bf73b4",
+        "_id": "66b60a78b80e57a1c1cfd9ae",
         "timestamp": "2022-12-17 00:00:00",
         "weth_marketplace": 0.8691074744832651
     },
     {
-        "_id": "66943c60a9dd2e5698bf73b6",
+        "_id": "66b60a78b80e57a1c1cfd9b0",
         "timestamp": "2022-12-18 00:00:00",
         "weth_marketplace": 0.9444765627535446
     },
     {
-        "_id": "66943c60a9dd2e5698bf73b8",
+        "_id": "66b60a78b80e57a1c1cfd9b2",
         "timestamp": "2022-12-19 00:00:00",
         "weth_marketplace": 1.1408473025886092
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ba",
+        "_id": "66b60a78b80e57a1c1cfd9b4",
         "timestamp": "2022-12-20 00:00:00",
         "weth_marketplace": 2.735069423535532
     },
     {
-        "_id": "66943c60a9dd2e5698bf73bc",
+        "_id": "66b60a78b80e57a1c1cfd9b6",
         "timestamp": "2022-12-21 00:00:00",
         "weth_marketplace": 1.706730293762287
     },
     {
-        "_id": "66943c60a9dd2e5698bf73be",
+        "_id": "66b60a78b80e57a1c1cfd9b8",
         "timestamp": "2022-12-22 00:00:00",
         "weth_marketplace": 1.4877431085431354
     },
     {
-        "_id": "66943c60a9dd2e5698bf73c0",
+        "_id": "66b60a78b80e57a1c1cfd9ba",
         "timestamp": "2022-12-23 00:00:00",
         "weth_marketplace": 1.4427106535262917
     },
     {
-        "_id": "66943c60a9dd2e5698bf73c2",
+        "_id": "66b60a78b80e57a1c1cfd9bc",
         "timestamp": "2022-12-24 00:00:00",
         "weth_marketplace": 0.9137541686593275
     },
     {
-        "_id": "66943c60a9dd2e5698bf73c4",
+        "_id": "66b60a78b80e57a1c1cfd9be",
         "timestamp": "2022-12-25 00:00:00",
         "weth_marketplace": 1.3308468627801204
     },
     {
-        "_id": "66943c60a9dd2e5698bf73c6",
+        "_id": "66b60a78b80e57a1c1cfd9c0",
         "timestamp": "2022-12-26 00:00:00",
         "weth_marketplace": 0.9546856955398297
     },
     {
-        "_id": "66943c60a9dd2e5698bf73c8",
+        "_id": "66b60a78b80e57a1c1cfd9c2",
         "timestamp": "2022-12-27 00:00:00",
         "weth_marketplace": 2.1401661576060995
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ca",
+        "_id": "66b60a78b80e57a1c1cfd9c4",
         "timestamp": "2022-12-28 00:00:00",
         "weth_marketplace": 9.174890172629315
     },
     {
-        "_id": "66943c60a9dd2e5698bf73cc",
+        "_id": "66b60a78b80e57a1c1cfd9c6",
         "timestamp": "2022-12-29 00:00:00",
         "weth_marketplace": 2.236296603775326
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ce",
+        "_id": "66b60a78b80e57a1c1cfd9c8",
         "timestamp": "2022-12-30 00:00:00",
         "weth_marketplace": 1.769298827997588
     },
     {
-        "_id": "66943c60a9dd2e5698bf73d0",
+        "_id": "66b60a78b80e57a1c1cfd9ca",
         "timestamp": "2022-12-31 00:00:00",
         "weth_marketplace": 1.8403621504697605
     },
     {
-        "_id": "66943c60a9dd2e5698bf73d2",
+        "_id": "66b60a78b80e57a1c1cfd9cc",
         "timestamp": "2023-01-01 00:00:00",
         "weth_marketplace": 9.220026898339967
     },
     {
-        "_id": "66943c60a9dd2e5698bf73d4",
+        "_id": "66b60a78b80e57a1c1cfd9ce",
         "timestamp": "2023-01-02 00:00:00",
         "weth_marketplace": 1.5210158234339268
     },
     {
-        "_id": "66943c60a9dd2e5698bf73d6",
+        "_id": "66b60a78b80e57a1c1cfd9d0",
         "timestamp": "2023-01-03 00:00:00",
         "weth_marketplace": 2.4552744848104937
     },
     {
-        "_id": "66943c60a9dd2e5698bf73d8",
+        "_id": "66b60a78b80e57a1c1cfd9d2",
         "timestamp": "2023-01-04 00:00:00",
         "weth_marketplace": 9.167517860978226
     },
     {
-        "_id": "66943c60a9dd2e5698bf73da",
+        "_id": "66b60a78b80e57a1c1cfd9d4",
         "timestamp": "2023-01-05 00:00:00",
         "weth_marketplace": 1.994305024742169
     },
     {
-        "_id": "66943c60a9dd2e5698bf73dc",
+        "_id": "66b60a78b80e57a1c1cfd9d6",
         "timestamp": "2023-01-06 00:00:00",
         "weth_marketplace": 3.2848311076380523
     },
     {
-        "_id": "66943c60a9dd2e5698bf73de",
+        "_id": "66b60a78b80e57a1c1cfd9d8",
         "timestamp": "2023-01-07 00:00:00",
         "weth_marketplace": 1.9748158652699117
     },
     {
-        "_id": "66943c60a9dd2e5698bf73e0",
+        "_id": "66b60a78b80e57a1c1cfd9da",
         "timestamp": "2023-01-08 00:00:00",
         "weth_marketplace": 6.395526742396923
     },
     {
-        "_id": "66943c60a9dd2e5698bf73e2",
+        "_id": "66b60a78b80e57a1c1cfd9dc",
         "timestamp": "2023-01-09 00:00:00",
         "weth_marketplace": 2.686989095573762
     },
     {
-        "_id": "66943c60a9dd2e5698bf73e4",
+        "_id": "66b60a78b80e57a1c1cfd9de",
         "timestamp": "2023-01-10 00:00:00",
         "weth_marketplace": 1.1710829257591842
     },
     {
-        "_id": "66943c60a9dd2e5698bf73e6",
+        "_id": "66b60a78b80e57a1c1cfd9e0",
         "timestamp": "2023-01-11 00:00:00",
         "weth_marketplace": 2.2739836715938786
     },
     {
-        "_id": "66943c60a9dd2e5698bf73e8",
+        "_id": "66b60a78b80e57a1c1cfd9e2",
         "timestamp": "2023-01-12 00:00:00",
         "weth_marketplace": 3.8041880361778335
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ea",
+        "_id": "66b60a78b80e57a1c1cfd9e4",
         "timestamp": "2023-01-13 00:00:00",
         "weth_marketplace": 3.448844004917226
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ec",
+        "_id": "66b60a78b80e57a1c1cfd9e6",
         "timestamp": "2023-01-14 00:00:00",
         "weth_marketplace": 2.7404591249757915
     },
     {
-        "_id": "66943c60a9dd2e5698bf73ee",
+        "_id": "66b60a78b80e57a1c1cfd9e8",
         "timestamp": "2023-01-15 00:00:00",
         "weth_marketplace": 2.275916550072354
     },
     {
-        "_id": "66943c60a9dd2e5698bf73f0",
+        "_id": "66b60a78b80e57a1c1cfd9ea",
         "timestamp": "2023-01-16 00:00:00",
         "weth_marketplace": 2.0819659022256607
     },
     {
-        "_id": "66943c60a9dd2e5698bf73f2",
+        "_id": "66b60a78b80e57a1c1cfd9ec",
         "timestamp": "2023-01-17 00:00:00",
         "weth_marketplace": 2.0557468048668897
     },
     {
-        "_id": "66943c60a9dd2e5698bf73f4",
+        "_id": "66b60a78b80e57a1c1cfd9ee",
         "timestamp": "2023-01-18 00:00:00",
         "weth_marketplace": 1.994513613413773
     },
     {
-        "_id": "66943c60a9dd2e5698bf73f6",
+        "_id": "66b60a78b80e57a1c1cfd9f0",
         "timestamp": "2023-01-19 00:00:00",
         "weth_marketplace": 2.0493086963561598
     },
     {
-        "_id": "66943c60a9dd2e5698bf73f8",
+        "_id": "66b60a78b80e57a1c1cfd9f2",
         "timestamp": "2023-01-20 00:00:00",
         "weth_marketplace": 2.372877881142561
     },
     {
-        "_id": "66943c60a9dd2e5698bf73fa",
+        "_id": "66b60a78b80e57a1c1cfd9f4",
         "timestamp": "2023-01-21 00:00:00",
         "weth_marketplace": 1.8992201591910696
     },
     {
-        "_id": "66943c60a9dd2e5698bf73fc",
+        "_id": "66b60a78b80e57a1c1cfd9f6",
         "timestamp": "2023-01-22 00:00:00",
         "weth_marketplace": 3.189873733227288
     },
     {
-        "_id": "66943c60a9dd2e5698bf73fe",
+        "_id": "66b60a78b80e57a1c1cfd9f8",
         "timestamp": "2023-01-23 00:00:00",
         "weth_marketplace": 3.4944439057389367
     },
     {
-        "_id": "66943c60a9dd2e5698bf7400",
+        "_id": "66b60a78b80e57a1c1cfd9fa",
         "timestamp": "2023-01-24 00:00:00",
         "weth_marketplace": 2.2291372515338903
     },
     {
-        "_id": "66943c60a9dd2e5698bf7402",
+        "_id": "66b60a78b80e57a1c1cfd9fc",
         "timestamp": "2023-01-25 00:00:00",
         "weth_marketplace": 3.3347274783633987
     },
     {
-        "_id": "66943c60a9dd2e5698bf7404",
+        "_id": "66b60a78b80e57a1c1cfd9fe",
         "timestamp": "2023-01-26 00:00:00",
         "weth_marketplace": 2.4976965555175985
     },
     {
-        "_id": "66943c60a9dd2e5698bf7406",
+        "_id": "66b60a78b80e57a1c1cfda00",
         "timestamp": "2023-01-27 00:00:00",
         "weth_marketplace": 2.6375329257630433
     },
     {
-        "_id": "66943c60a9dd2e5698bf7408",
+        "_id": "66b60a78b80e57a1c1cfda02",
         "timestamp": "2023-01-28 00:00:00",
         "weth_marketplace": 3.1743481031267913
     },
     {
-        "_id": "66943c60a9dd2e5698bf740a",
+        "_id": "66b60a78b80e57a1c1cfda04",
         "timestamp": "2023-01-29 00:00:00",
         "weth_marketplace": 2.8820812401531968
     },
     {
-        "_id": "66943c60a9dd2e5698bf740c",
+        "_id": "66b60a78b80e57a1c1cfda06",
         "timestamp": "2023-01-30 00:00:00",
         "weth_marketplace": 2.69963995594246
     },
     {
-        "_id": "66943c60a9dd2e5698bf740e",
+        "_id": "66b60a78b80e57a1c1cfda08",
         "timestamp": "2023-01-31 00:00:00",
         "weth_marketplace": 3.2155538505774848
     },
     {
-        "_id": "66943c60a9dd2e5698bf7410",
+        "_id": "66b60a78b80e57a1c1cfda0a",
         "timestamp": "2023-02-01 00:00:00",
         "weth_marketplace": 3.8359151564956724
     },
     {
-        "_id": "66943c60a9dd2e5698bf7412",
+        "_id": "66b60a78b80e57a1c1cfda0c",
         "timestamp": "2023-02-02 00:00:00",
         "weth_marketplace": 2.5345903566339127
     },
     {
-        "_id": "66943c60a9dd2e5698bf7414",
+        "_id": "66b60a78b80e57a1c1cfda0e",
         "timestamp": "2023-02-03 00:00:00",
         "weth_marketplace": 2.2824707665764774
     },
     {
-        "_id": "66943c60a9dd2e5698bf7416",
+        "_id": "66b60a78b80e57a1c1cfda10",
         "timestamp": "2023-02-04 00:00:00",
         "weth_marketplace": 2.899828876314475
     },
     {
-        "_id": "66943c60a9dd2e5698bf7418",
+        "_id": "66b60a78b80e57a1c1cfda12",
         "timestamp": "2023-02-05 00:00:00",
         "weth_marketplace": 2.292427457136992
     },
     {
-        "_id": "66943c60a9dd2e5698bf741a",
+        "_id": "66b60a78b80e57a1c1cfda14",
         "timestamp": "2023-02-06 00:00:00",
         "weth_marketplace": 2.8371743279005943
     },
     {
-        "_id": "66943c60a9dd2e5698bf741c",
+        "_id": "66b60a78b80e57a1c1cfda16",
         "timestamp": "2023-02-07 00:00:00",
         "weth_marketplace": 2.7851416718035202
     },
     {
-        "_id": "66943c60a9dd2e5698bf741e",
+        "_id": "66b60a78b80e57a1c1cfda18",
         "timestamp": "2023-02-08 00:00:00",
         "weth_marketplace": 2.0392803415786815
     },
     {
-        "_id": "66943c60a9dd2e5698bf7420",
+        "_id": "66b60a78b80e57a1c1cfda1a",
         "timestamp": "2023-02-09 00:00:00",
         "weth_marketplace": 2.2915374871653413
     },
     {
-        "_id": "66943c60a9dd2e5698bf7422",
+        "_id": "66b60a78b80e57a1c1cfda1c",
         "timestamp": "2023-02-10 00:00:00",
         "weth_marketplace": 1.5624486684942196
     },
     {
-        "_id": "66943c60a9dd2e5698bf7424",
+        "_id": "66b60a78b80e57a1c1cfda1e",
         "timestamp": "2023-02-11 00:00:00",
         "weth_marketplace": 1.6496728299474912
     },
     {
-        "_id": "66943c60a9dd2e5698bf7426",
+        "_id": "66b60a78b80e57a1c1cfda20",
         "timestamp": "2023-02-12 00:00:00",
         "weth_marketplace": 1.642938310406912
     },
     {
-        "_id": "66943c60a9dd2e5698bf7428",
+        "_id": "66b60a78b80e57a1c1cfda22",
         "timestamp": "2023-02-13 00:00:00",
         "weth_marketplace": 4.804792999228829
     },
     {
-        "_id": "66943c60a9dd2e5698bf742a",
+        "_id": "66b60a78b80e57a1c1cfda24",
         "timestamp": "2023-02-14 00:00:00",
         "weth_marketplace": 1.8028366634322504
     },
     {
-        "_id": "66943c60a9dd2e5698bf742c",
+        "_id": "66b60a78b80e57a1c1cfda26",
         "timestamp": "2023-02-15 00:00:00",
         "weth_marketplace": 1.5319108993633006
     },
     {
-        "_id": "66943c60a9dd2e5698bf742e",
+        "_id": "66b60a78b80e57a1c1cfda28",
         "timestamp": "2023-02-16 00:00:00",
         "weth_marketplace": 2.373872353356852
     },
     {
-        "_id": "66943c60a9dd2e5698bf7430",
+        "_id": "66b60a78b80e57a1c1cfda2a",
         "timestamp": "2023-02-17 00:00:00",
         "weth_marketplace": 1.7932846640785103
     },
     {
-        "_id": "66943c60a9dd2e5698bf7432",
+        "_id": "66b60a78b80e57a1c1cfda2c",
         "timestamp": "2023-02-18 00:00:00",
         "weth_marketplace": 1.6055397740478679
     },
     {
-        "_id": "66943c60a9dd2e5698bf7434",
+        "_id": "66b60a78b80e57a1c1cfda2e",
         "timestamp": "2023-02-19 00:00:00",
         "weth_marketplace": 1.4934020132163695
     },
     {
-        "_id": "66943c60a9dd2e5698bf7436",
+        "_id": "66b60a78b80e57a1c1cfda30",
         "timestamp": "2023-02-20 00:00:00",
         "weth_marketplace": 1.70912136268695
     },
     {
-        "_id": "66943c60a9dd2e5698bf7438",
+        "_id": "66b60a78b80e57a1c1cfda32",
         "timestamp": "2023-02-21 00:00:00",
         "weth_marketplace": 1.956076760879768
     },
     {
-        "_id": "66943c60a9dd2e5698bf743a",
+        "_id": "66b60a78b80e57a1c1cfda34",
         "timestamp": "2023-02-22 00:00:00",
         "weth_marketplace": 2.604628723266872
     },
     {
-        "_id": "66943c60a9dd2e5698bf743c",
+        "_id": "66b60a78b80e57a1c1cfda36",
         "timestamp": "2023-02-23 00:00:00",
         "weth_marketplace": 1.8347311243932793
     },
     {
-        "_id": "66943c60a9dd2e5698bf743e",
+        "_id": "66b60a78b80e57a1c1cfda38",
         "timestamp": "2023-02-24 00:00:00",
         "weth_marketplace": 1.7674462841007803
     },
     {
-        "_id": "66943c60a9dd2e5698bf7440",
+        "_id": "66b60a78b80e57a1c1cfda3a",
         "timestamp": "2023-02-25 00:00:00",
         "weth_marketplace": 1.4791588687409387
     },
     {
-        "_id": "66943c60a9dd2e5698bf7442",
+        "_id": "66b60a78b80e57a1c1cfda3c",
         "timestamp": "2023-02-26 00:00:00",
         "weth_marketplace": 1.957855964205344
     },
     {
-        "_id": "66943c60a9dd2e5698bf7444",
+        "_id": "66b60a78b80e57a1c1cfda3e",
         "timestamp": "2023-02-27 00:00:00",
         "weth_marketplace": 1.7422446038994475
     },
     {
-        "_id": "66943c60a9dd2e5698bf7446",
+        "_id": "66b60a78b80e57a1c1cfda40",
         "timestamp": "2023-02-28 00:00:00",
         "weth_marketplace": 1.129154412425888
     },
     {
-        "_id": "66943c60a9dd2e5698bf7448",
+        "_id": "66b60a78b80e57a1c1cfda42",
         "timestamp": "2023-03-01 00:00:00",
         "weth_marketplace": 1.029288513523282
     },
     {
-        "_id": "66943c60a9dd2e5698bf744a",
+        "_id": "66b60a78b80e57a1c1cfda44",
         "timestamp": "2023-03-02 00:00:00",
         "weth_marketplace": 1.2770484977372707
     },
     {
-        "_id": "66943c60a9dd2e5698bf744c",
+        "_id": "66b60a78b80e57a1c1cfda46",
         "timestamp": "2023-03-03 00:00:00",
         "weth_marketplace": 1.4398572132848482
     },
     {
-        "_id": "66943c60a9dd2e5698bf744e",
+        "_id": "66b60a78b80e57a1c1cfda48",
         "timestamp": "2023-03-04 00:00:00",
         "weth_marketplace": 1.3941102714523166
     },
     {
-        "_id": "66943c60a9dd2e5698bf7450",
+        "_id": "66b60a78b80e57a1c1cfda4a",
         "timestamp": "2023-03-05 00:00:00",
         "weth_marketplace": 1.2961916537918046
     },
     {
-        "_id": "66943c60a9dd2e5698bf7452",
+        "_id": "66b60a78b80e57a1c1cfda4c",
         "timestamp": "2023-03-06 00:00:00",
         "weth_marketplace": 1.7675090714573585
     },
     {
-        "_id": "66943c60a9dd2e5698bf7454",
+        "_id": "66b60a78b80e57a1c1cfda4e",
         "timestamp": "2023-03-07 00:00:00",
         "weth_marketplace": 2.128386824443119
     },
     {
-        "_id": "66943c60a9dd2e5698bf7456",
+        "_id": "66b60a78b80e57a1c1cfda50",
         "timestamp": "2023-03-08 00:00:00",
         "weth_marketplace": 3.0319341573091054
     },
     {
-        "_id": "66943c60a9dd2e5698bf7458",
+        "_id": "66b60a78b80e57a1c1cfda52",
         "timestamp": "2023-03-09 00:00:00",
         "weth_marketplace": 3.132831756603393
     },
     {
-        "_id": "66943c60a9dd2e5698bf745a",
+        "_id": "66b60a78b80e57a1c1cfda54",
         "timestamp": "2023-03-10 00:00:00",
         "weth_marketplace": 3.079140440576531
     },
     {
-        "_id": "66943c60a9dd2e5698bf745c",
+        "_id": "66b60a78b80e57a1c1cfda56",
         "timestamp": "2023-03-11 00:00:00",
         "weth_marketplace": 5.885105230750962
     },
     {
-        "_id": "66943c60a9dd2e5698bf745e",
+        "_id": "66b60a78b80e57a1c1cfda58",
         "timestamp": "2023-03-12 00:00:00",
         "weth_marketplace": 2.9898058986764253
     },
     {
-        "_id": "66943c60a9dd2e5698bf7460",
+        "_id": "66b60a78b80e57a1c1cfda5a",
         "timestamp": "2023-03-13 00:00:00",
         "weth_marketplace": 2.407452249229221
     },
     {
-        "_id": "66943c60a9dd2e5698bf7462",
+        "_id": "66b60a78b80e57a1c1cfda5c",
         "timestamp": "2023-03-14 00:00:00",
         "weth_marketplace": 2.0010989522346145
     },
     {
-        "_id": "66943c60a9dd2e5698bf7464",
+        "_id": "66b60a78b80e57a1c1cfda5e",
         "timestamp": "2023-03-15 00:00:00",
         "weth_marketplace": 2.1298381699602733
     },
     {
-        "_id": "66943c60a9dd2e5698bf7466",
+        "_id": "66b60a78b80e57a1c1cfda60",
         "timestamp": "2023-03-16 00:00:00",
         "weth_marketplace": 2.561992204109027
     },
     {
-        "_id": "66943c60a9dd2e5698bf7468",
+        "_id": "66b60a78b80e57a1c1cfda62",
         "timestamp": "2023-03-17 00:00:00",
         "weth_marketplace": 1.9566706151577904
     },
     {
-        "_id": "66943c60a9dd2e5698bf746a",
+        "_id": "66b60a78b80e57a1c1cfda64",
         "timestamp": "2023-03-18 00:00:00",
         "weth_marketplace": 2.47195170624448
     },
     {
-        "_id": "66943c60a9dd2e5698bf746c",
+        "_id": "66b60a78b80e57a1c1cfda66",
         "timestamp": "2023-03-19 00:00:00",
         "weth_marketplace": 2.3749013200268325
     },
     {
-        "_id": "66943c60a9dd2e5698bf746e",
+        "_id": "66b60a78b80e57a1c1cfda68",
         "timestamp": "2023-03-20 00:00:00",
         "weth_marketplace": 2.720052505631595
     },
     {
-        "_id": "66943c60a9dd2e5698bf7470",
+        "_id": "66b60a78b80e57a1c1cfda6a",
         "timestamp": "2023-03-21 00:00:00",
         "weth_marketplace": 2.0518827223557023
     },
     {
-        "_id": "66943c60a9dd2e5698bf7472",
+        "_id": "66b60a78b80e57a1c1cfda6c",
         "timestamp": "2023-03-22 00:00:00",
         "weth_marketplace": 2.1016468643100095
     },
     {
-        "_id": "66943c60a9dd2e5698bf7474",
+        "_id": "66b60a78b80e57a1c1cfda6e",
         "timestamp": "2023-03-23 00:00:00",
         "weth_marketplace": 1.7499528599678085
     },
     {
-        "_id": "66943c60a9dd2e5698bf7476",
+        "_id": "66b60a78b80e57a1c1cfda70",
         "timestamp": "2023-03-24 00:00:00",
         "weth_marketplace": 2.143219554588379
     },
     {
-        "_id": "66943c60a9dd2e5698bf7478",
+        "_id": "66b60a78b80e57a1c1cfda72",
         "timestamp": "2023-03-25 00:00:00",
         "weth_marketplace": 1.6439920951788036
     },
     {
-        "_id": "66943c60a9dd2e5698bf747a",
+        "_id": "66b60a78b80e57a1c1cfda74",
         "timestamp": "2023-03-26 00:00:00",
         "weth_marketplace": 1.9227763080761775
     },
     {
-        "_id": "66943c60a9dd2e5698bf747c",
+        "_id": "66b60a78b80e57a1c1cfda76",
         "timestamp": "2023-03-27 00:00:00",
         "weth_marketplace": 5.707097510531506
     },
     {
-        "_id": "66943c60a9dd2e5698bf747e",
+        "_id": "66b60a78b80e57a1c1cfda78",
         "timestamp": "2023-03-28 00:00:00",
         "weth_marketplace": 2.0809175731418277
     },
     {
-        "_id": "66943c60a9dd2e5698bf7480",
+        "_id": "66b60a78b80e57a1c1cfda7a",
         "timestamp": "2023-03-29 00:00:00",
         "weth_marketplace": 2.132088581575237
     },
     {
-        "_id": "66943c60a9dd2e5698bf7482",
+        "_id": "66b60a78b80e57a1c1cfda7c",
         "timestamp": "2023-03-30 00:00:00",
         "weth_marketplace": 1.5577630057046388
     },
     {
-        "_id": "66943c60a9dd2e5698bf7484",
+        "_id": "66b60a78b80e57a1c1cfda7e",
         "timestamp": "2023-03-31 00:00:00",
         "weth_marketplace": 1.5123289132790887
     },
     {
-        "_id": "66943c60a9dd2e5698bf7486",
+        "_id": "66b60a78b80e57a1c1cfda80",
         "timestamp": "2023-04-01 00:00:00",
         "weth_marketplace": 2.520482646494385
     },
     {
-        "_id": "66943c60a9dd2e5698bf7488",
+        "_id": "66b60a78b80e57a1c1cfda82",
         "timestamp": "2023-04-02 00:00:00",
         "weth_marketplace": 2.4143963749304365
     },
     {
-        "_id": "66943c60a9dd2e5698bf748a",
+        "_id": "66b60a78b80e57a1c1cfda84",
         "timestamp": "2023-04-03 00:00:00",
         "weth_marketplace": 2.2892247510585233
     },
     {
-        "_id": "66943c60a9dd2e5698bf748c",
+        "_id": "66b60a78b80e57a1c1cfda86",
         "timestamp": "2023-04-04 00:00:00",
         "weth_marketplace": 1.5223066052172085
     },
     {
-        "_id": "66943c60a9dd2e5698bf748e",
+        "_id": "66b60a78b80e57a1c1cfda88",
         "timestamp": "2023-04-05 00:00:00",
         "weth_marketplace": 1.9030274742517639
     },
     {
-        "_id": "66943c60a9dd2e5698bf7490",
+        "_id": "66b60a78b80e57a1c1cfda8a",
         "timestamp": "2023-04-06 00:00:00",
         "weth_marketplace": 1.888759572685424
     },
     {
-        "_id": "66943c60a9dd2e5698bf7492",
+        "_id": "66b60a78b80e57a1c1cfda8c",
         "timestamp": "2023-04-07 00:00:00",
         "weth_marketplace": 1.653029641799615
     },
     {
-        "_id": "66943c60a9dd2e5698bf7494",
+        "_id": "66b60a78b80e57a1c1cfda8e",
         "timestamp": "2023-04-08 00:00:00",
         "weth_marketplace": 1.7078416928670652
     },
     {
-        "_id": "66943c60a9dd2e5698bf7496",
+        "_id": "66b60a78b80e57a1c1cfda90",
         "timestamp": "2023-04-09 00:00:00",
         "weth_marketplace": 2.159066868195847
     },
     {
-        "_id": "66943c60a9dd2e5698bf7498",
+        "_id": "66b60a78b80e57a1c1cfda92",
         "timestamp": "2023-04-10 00:00:00",
         "weth_marketplace": 1.857978512566165
     },
     {
-        "_id": "66943c60a9dd2e5698bf749a",
+        "_id": "66b60a78b80e57a1c1cfda94",
         "timestamp": "2023-04-11 00:00:00",
         "weth_marketplace": 1.4739674058137158
     },
     {
-        "_id": "66943c60a9dd2e5698bf749c",
+        "_id": "66b60a78b80e57a1c1cfda96",
         "timestamp": "2023-04-12 00:00:00",
         "weth_marketplace": 1.699707950172802
     },
     {
-        "_id": "66943c60a9dd2e5698bf749e",
+        "_id": "66b60a78b80e57a1c1cfda98",
         "timestamp": "2023-04-13 00:00:00",
         "weth_marketplace": 1.574309317685176
     },
     {
-        "_id": "66943c60a9dd2e5698bf74a0",
+        "_id": "66b60a78b80e57a1c1cfda9a",
         "timestamp": "2023-04-14 00:00:00",
         "weth_marketplace": 1.9159716718621347
     },
     {
-        "_id": "66943c60a9dd2e5698bf74a2",
+        "_id": "66b60a78b80e57a1c1cfda9c",
         "timestamp": "2023-04-15 00:00:00",
         "weth_marketplace": 1.74783682547496
     },
     {
-        "_id": "66943c60a9dd2e5698bf74a4",
+        "_id": "66b60a78b80e57a1c1cfda9e",
         "timestamp": "2023-04-16 00:00:00",
         "weth_marketplace": 2.107492030571827
     },
     {
-        "_id": "66943c60a9dd2e5698bf74a6",
+        "_id": "66b60a78b80e57a1c1cfdaa0",
         "timestamp": "2023-04-17 00:00:00",
         "weth_marketplace": 1.5879887702455604
     },
     {
-        "_id": "66943c60a9dd2e5698bf74a8",
+        "_id": "66b60a78b80e57a1c1cfdaa2",
         "timestamp": "2023-04-18 00:00:00",
         "weth_marketplace": 1.74576710462649
     },
     {
-        "_id": "66943c60a9dd2e5698bf74aa",
+        "_id": "66b60a78b80e57a1c1cfdaa4",
         "timestamp": "2023-04-19 00:00:00",
         "weth_marketplace": 1.497752891176477
     },
     {
-        "_id": "66943c60a9dd2e5698bf74ac",
+        "_id": "66b60a78b80e57a1c1cfdaa6",
         "timestamp": "2023-04-20 00:00:00",
         "weth_marketplace": 0.9983390497355098
     },
     {
-        "_id": "66943c61a9dd2e5698bf74ae",
+        "_id": "66b60a78b80e57a1c1cfdaa8",
         "timestamp": "2023-04-21 00:00:00",
         "weth_marketplace": 1.1659774719488891
     },
     {
-        "_id": "66943c61a9dd2e5698bf74b0",
+        "_id": "66b60a78b80e57a1c1cfdaaa",
         "timestamp": "2023-04-22 00:00:00",
         "weth_marketplace": 0.8130341623059057
     },
     {
-        "_id": "66943c61a9dd2e5698bf74b2",
+        "_id": "66b60a78b80e57a1c1cfdaac",
         "timestamp": "2023-04-23 00:00:00",
         "weth_marketplace": 0.806707946954835
     },
     {
-        "_id": "66943c61a9dd2e5698bf74b4",
+        "_id": "66b60a78b80e57a1c1cfdaae",
         "timestamp": "2023-04-24 00:00:00",
         "weth_marketplace": 0.6364975094550377
     },
     {
-        "_id": "66943c61a9dd2e5698bf74b6",
+        "_id": "66b60a78b80e57a1c1cfdab0",
         "timestamp": "2023-04-25 00:00:00",
         "weth_marketplace": 1.3568327172829642
     },
     {
-        "_id": "66943c61a9dd2e5698bf74b8",
+        "_id": "66b60a78b80e57a1c1cfdab2",
         "timestamp": "2023-04-26 00:00:00",
         "weth_marketplace": 0.9776926839847658
     },
     {
-        "_id": "66943c61a9dd2e5698bf74ba",
+        "_id": "66b60a78b80e57a1c1cfdab4",
         "timestamp": "2023-04-27 00:00:00",
         "weth_marketplace": 0.9065840577124761
     },
     {
-        "_id": "66943c61a9dd2e5698bf74bc",
+        "_id": "66b60a78b80e57a1c1cfdab6",
         "timestamp": "2023-04-28 00:00:00",
         "weth_marketplace": 1.5657394802427926
     },
     {
-        "_id": "66943c61a9dd2e5698bf74be",
+        "_id": "66b60a78b80e57a1c1cfdab8",
         "timestamp": "2023-04-29 00:00:00",
         "weth_marketplace": 1.017909508932859
     },
     {
-        "_id": "66943c61a9dd2e5698bf74c0",
+        "_id": "66b60a78b80e57a1c1cfdaba",
         "timestamp": "2023-04-30 00:00:00",
         "weth_marketplace": 1.117068449318515
     },
     {
-        "_id": "66943c61a9dd2e5698bf74c2",
+        "_id": "66b60a78b80e57a1c1cfdabc",
         "timestamp": "2023-05-01 00:00:00",
         "weth_marketplace": 1.6327990690922227
     },
     {
-        "_id": "66943c61a9dd2e5698bf74c4",
+        "_id": "66b60a78b80e57a1c1cfdabe",
         "timestamp": "2023-05-02 00:00:00",
         "weth_marketplace": 1.0697456867962731
     },
     {
-        "_id": "66943c61a9dd2e5698bf74c6",
+        "_id": "66b60a78b80e57a1c1cfdac0",
         "timestamp": "2023-05-03 00:00:00",
         "weth_marketplace": 1.1689418237184461
     },
     {
-        "_id": "66943c61a9dd2e5698bf74c8",
+        "_id": "66b60a78b80e57a1c1cfdac2",
         "timestamp": "2023-05-04 00:00:00",
         "weth_marketplace": 1.8199225539007964
     },
     {
-        "_id": "66943c61a9dd2e5698bf74ca",
+        "_id": "66b60a78b80e57a1c1cfdac4",
         "timestamp": "2023-05-05 00:00:00",
         "weth_marketplace": 0.9899582659195145
     },
     {
-        "_id": "66943c61a9dd2e5698bf74cc",
+        "_id": "66b60a78b80e57a1c1cfdac6",
         "timestamp": "2023-05-06 00:00:00",
         "weth_marketplace": 0.7756482181261597
     },
     {
-        "_id": "66943c61a9dd2e5698bf74ce",
+        "_id": "66b60a78b80e57a1c1cfdac8",
         "timestamp": "2023-05-07 00:00:00",
         "weth_marketplace": 0.8133215780459592
     },
     {
-        "_id": "66943c61a9dd2e5698bf74d0",
+        "_id": "66b60a78b80e57a1c1cfdaca",
         "timestamp": "2023-05-08 00:00:00",
         "weth_marketplace": 0.750766885279931
     },
     {
-        "_id": "66943c61a9dd2e5698bf74d2",
+        "_id": "66b60a78b80e57a1c1cfdacc",
         "timestamp": "2023-05-09 00:00:00",
         "weth_marketplace": 0.9894695266894208
     },
     {
-        "_id": "66943c61a9dd2e5698bf74d4",
+        "_id": "66b60a78b80e57a1c1cfdace",
         "timestamp": "2023-05-10 00:00:00",
         "weth_marketplace": 1.735958353977839
     },
     {
-        "_id": "66943c61a9dd2e5698bf74d6",
+        "_id": "66b60a78b80e57a1c1cfdad0",
         "timestamp": "2023-05-11 00:00:00",
         "weth_marketplace": 2.366086354933272
     },
     {
-        "_id": "66943c61a9dd2e5698bf74d8",
+        "_id": "66b60a78b80e57a1c1cfdad2",
         "timestamp": "2023-05-12 00:00:00",
         "weth_marketplace": 1.73742893285933
     },
     {
-        "_id": "66943c61a9dd2e5698bf74da",
+        "_id": "66b60a78b80e57a1c1cfdad4",
         "timestamp": "2023-05-13 00:00:00",
         "weth_marketplace": 1.5942525671521677
     },
     {
-        "_id": "66943c61a9dd2e5698bf74dc",
+        "_id": "66b60a78b80e57a1c1cfdad6",
         "timestamp": "2023-05-14 00:00:00",
         "weth_marketplace": 1.2632682873027468
     },
     {
-        "_id": "66943c61a9dd2e5698bf74de",
+        "_id": "66b60a78b80e57a1c1cfdad8",
         "timestamp": "2023-05-15 00:00:00",
         "weth_marketplace": 1.4362718712249347
     },
     {
-        "_id": "66943c61a9dd2e5698bf74e0",
+        "_id": "66b60a78b80e57a1c1cfdada",
         "timestamp": "2023-05-16 00:00:00",
         "weth_marketplace": 1.5148858578881486
     },
     {
-        "_id": "66943c61a9dd2e5698bf74e2",
+        "_id": "66b60a78b80e57a1c1cfdadc",
         "timestamp": "2023-05-17 00:00:00",
         "weth_marketplace": 2.379218521436854
     },
     {
-        "_id": "66943c61a9dd2e5698bf74e4",
+        "_id": "66b60a78b80e57a1c1cfdade",
         "timestamp": "2023-05-18 00:00:00",
         "weth_marketplace": 1.3634874908736836
     },
     {
-        "_id": "66943c61a9dd2e5698bf74e6",
+        "_id": "66b60a78b80e57a1c1cfdae0",
         "timestamp": "2023-05-19 00:00:00",
         "weth_marketplace": 1.6123674152060667
     },
     {
-        "_id": "66943c61a9dd2e5698bf74e8",
+        "_id": "66b60a78b80e57a1c1cfdae2",
         "timestamp": "2023-05-20 00:00:00",
         "weth_marketplace": 1.3411604199186706
     },
     {
-        "_id": "66943c61a9dd2e5698bf74ea",
+        "_id": "66b60a78b80e57a1c1cfdae4",
         "timestamp": "2023-05-21 00:00:00",
         "weth_marketplace": 1.366084175448872
     },
     {
-        "_id": "66943c61a9dd2e5698bf74ec",
+        "_id": "66b60a78b80e57a1c1cfdae6",
         "timestamp": "2023-05-22 00:00:00",
         "weth_marketplace": 1.4387613441428972
     },
     {
-        "_id": "66943c61a9dd2e5698bf74ee",
+        "_id": "66b60a78b80e57a1c1cfdae8",
         "timestamp": "2023-05-23 00:00:00",
         "weth_marketplace": 1.2182064328848958
     },
     {
-        "_id": "66943c61a9dd2e5698bf74f0",
+        "_id": "66b60a78b80e57a1c1cfdaea",
         "timestamp": "2023-05-24 00:00:00",
         "weth_marketplace": 1.1907888787401022
     },
     {
-        "_id": "66943c61a9dd2e5698bf74f2",
+        "_id": "66b60a78b80e57a1c1cfdaec",
         "timestamp": "2023-05-25 00:00:00",
         "weth_marketplace": 1.099922225825665
     },
     {
-        "_id": "66943c61a9dd2e5698bf74f4",
+        "_id": "66b60a78b80e57a1c1cfdaee",
         "timestamp": "2023-05-26 00:00:00",
         "weth_marketplace": 1.0317838223186377
     },
     {
-        "_id": "66943c61a9dd2e5698bf74f6",
+        "_id": "66b60a78b80e57a1c1cfdaf0",
         "timestamp": "2023-05-27 00:00:00",
         "weth_marketplace": 1.8950093582460257
     },
     {
-        "_id": "66943c61a9dd2e5698bf74f8",
+        "_id": "66b60a78b80e57a1c1cfdaf2",
         "timestamp": "2023-05-28 00:00:00",
         "weth_marketplace": 1.8350791913241544
     },
     {
-        "_id": "66943c61a9dd2e5698bf74fa",
+        "_id": "66b60a78b80e57a1c1cfdaf4",
         "timestamp": "2023-05-29 00:00:00",
         "weth_marketplace": 1.4100016599631533
     },
     {
-        "_id": "66943c61a9dd2e5698bf74fc",
+        "_id": "66b60a78b80e57a1c1cfdaf6",
         "timestamp": "2023-05-30 00:00:00",
         "weth_marketplace": 1.4517605856853983
     },
     {
-        "_id": "66943c61a9dd2e5698bf74fe",
+        "_id": "66b60a78b80e57a1c1cfdaf8",
         "timestamp": "2023-05-31 00:00:00",
         "weth_marketplace": 1.5560542957976502
     },
     {
-        "_id": "66943c61a9dd2e5698bf7500",
+        "_id": "66b60a78b80e57a1c1cfdafa",
         "timestamp": "2023-06-01 00:00:00",
         "weth_marketplace": 1.5839634051831748
     },
     {
-        "_id": "66943c61a9dd2e5698bf7502",
+        "_id": "66b60a78b80e57a1c1cfdafc",
         "timestamp": "2023-06-02 00:00:00",
         "weth_marketplace": 1.292980909879751
     },
     {
-        "_id": "66943c61a9dd2e5698bf7504",
+        "_id": "66b60a78b80e57a1c1cfdafe",
         "timestamp": "2023-06-03 00:00:00",
         "weth_marketplace": 1.2536981256217632
     },
     {
-        "_id": "66943c61a9dd2e5698bf7506",
+        "_id": "66b60a78b80e57a1c1cfdb00",
         "timestamp": "2023-06-04 00:00:00",
         "weth_marketplace": 1.2840728697129777
     },
     {
-        "_id": "66943c61a9dd2e5698bf7508",
+        "_id": "66b60a78b80e57a1c1cfdb02",
         "timestamp": "2023-06-05 00:00:00",
         "weth_marketplace": 1.2520222312171738
     },
     {
-        "_id": "66943c61a9dd2e5698bf750a",
+        "_id": "66b60a78b80e57a1c1cfdb04",
         "timestamp": "2023-06-06 00:00:00",
         "weth_marketplace": 1.497808572768749
     },
     {
-        "_id": "66943c61a9dd2e5698bf750c",
+        "_id": "66b60a78b80e57a1c1cfdb06",
         "timestamp": "2023-06-07 00:00:00",
         "weth_marketplace": 0.8938170027119525
     },
     {
-        "_id": "66943c61a9dd2e5698bf750e",
+        "_id": "66b60a78b80e57a1c1cfdb08",
         "timestamp": "2023-06-08 00:00:00",
         "weth_marketplace": 0.9228039690485111
     },
     {
-        "_id": "66943c61a9dd2e5698bf7510",
+        "_id": "66b60a78b80e57a1c1cfdb0a",
         "timestamp": "2023-06-09 00:00:00",
         "weth_marketplace": 1.0864558555978205
     },
     {
-        "_id": "66943c61a9dd2e5698bf7512",
+        "_id": "66b60a78b80e57a1c1cfdb0c",
         "timestamp": "2023-06-10 00:00:00",
         "weth_marketplace": 1.380112032332233
     },
     {
-        "_id": "66943c61a9dd2e5698bf7514",
+        "_id": "66b60a78b80e57a1c1cfdb0e",
         "timestamp": "2023-06-11 00:00:00",
         "weth_marketplace": 1.2585841083056892
     },
     {
-        "_id": "66943c61a9dd2e5698bf7516",
+        "_id": "66b60a78b80e57a1c1cfdb10",
         "timestamp": "2023-06-12 00:00:00",
         "weth_marketplace": 1.060832375350901
     },
     {
-        "_id": "66943c61a9dd2e5698bf7518",
+        "_id": "66b60a78b80e57a1c1cfdb12",
         "timestamp": "2023-06-13 00:00:00",
         "weth_marketplace": 1.303355564173276
     },
     {
-        "_id": "66943c61a9dd2e5698bf751a",
+        "_id": "66b60a78b80e57a1c1cfdb14",
         "timestamp": "2023-06-14 00:00:00",
         "weth_marketplace": 1.2858549597838584
     },
     {
-        "_id": "66943c61a9dd2e5698bf751c",
+        "_id": "66b60a78b80e57a1c1cfdb16",
         "timestamp": "2023-06-15 00:00:00",
         "weth_marketplace": 1.170587960895383
     },
     {
-        "_id": "66943c61a9dd2e5698bf751e",
+        "_id": "66b60a78b80e57a1c1cfdb18",
         "timestamp": "2023-06-16 00:00:00",
         "weth_marketplace": 1.069667363954505
     },
     {
-        "_id": "66943c61a9dd2e5698bf7520",
+        "_id": "66b60a78b80e57a1c1cfdb1a",
         "timestamp": "2023-06-17 00:00:00",
         "weth_marketplace": 1.1558193800163654
     },
     {
-        "_id": "66943c61a9dd2e5698bf7522",
+        "_id": "66b60a78b80e57a1c1cfdb1c",
         "timestamp": "2023-06-18 00:00:00",
         "weth_marketplace": 0.9451122443434833
     },
     {
-        "_id": "66943c61a9dd2e5698bf7524",
+        "_id": "66b60a78b80e57a1c1cfdb1e",
         "timestamp": "2023-06-19 00:00:00",
         "weth_marketplace": 0.9937889058170616
     },
     {
-        "_id": "66943c61a9dd2e5698bf7526",
+        "_id": "66b60a78b80e57a1c1cfdb20",
         "timestamp": "2023-06-20 00:00:00",
         "weth_marketplace": 0.8902008828012881
     },
     {
-        "_id": "66943c61a9dd2e5698bf7528",
+        "_id": "66b60a78b80e57a1c1cfdb22",
         "timestamp": "2023-06-21 00:00:00",
         "weth_marketplace": 0.5215652016833958
     },
     {
-        "_id": "66943c61a9dd2e5698bf752a",
+        "_id": "66b60a78b80e57a1c1cfdb24",
         "timestamp": "2023-06-22 00:00:00",
         "weth_marketplace": 0.47053041029891984
     },
     {
-        "_id": "66943c61a9dd2e5698bf752c",
+        "_id": "66b60a78b80e57a1c1cfdb26",
         "timestamp": "2023-06-23 00:00:00",
         "weth_marketplace": 0.7225905032214948
     },
     {
-        "_id": "66943c61a9dd2e5698bf752e",
+        "_id": "66b60a78b80e57a1c1cfdb28",
         "timestamp": "2023-06-24 00:00:00",
         "weth_marketplace": 0.648911248467683
     },
     {
-        "_id": "66943c61a9dd2e5698bf7530",
+        "_id": "66b60a78b80e57a1c1cfdb2a",
         "timestamp": "2023-06-25 00:00:00",
         "weth_marketplace": 0.5018251163044777
     },
     {
-        "_id": "66943c61a9dd2e5698bf7532",
+        "_id": "66b60a78b80e57a1c1cfdb2c",
         "timestamp": "2023-06-26 00:00:00",
         "weth_marketplace": 0.4041081478554524
     },
     {
-        "_id": "66943c61a9dd2e5698bf7534",
+        "_id": "66b60a78b80e57a1c1cfdb2e",
         "timestamp": "2023-06-27 00:00:00",
         "weth_marketplace": 0.44919676961689387
     },
     {
-        "_id": "66943c61a9dd2e5698bf7536",
+        "_id": "66b60a78b80e57a1c1cfdb30",
         "timestamp": "2023-06-28 00:00:00",
         "weth_marketplace": 0.5071699515604868
     },
     {
-        "_id": "66943c61a9dd2e5698bf7538",
+        "_id": "66b60a78b80e57a1c1cfdb32",
         "timestamp": "2023-06-29 00:00:00",
         "weth_marketplace": 1.2964314142683055
     },
     {
-        "_id": "66943c61a9dd2e5698bf753a",
+        "_id": "66b60a78b80e57a1c1cfdb34",
         "timestamp": "2023-06-30 00:00:00",
         "weth_marketplace": 0.8191876087988612
     },
     {
-        "_id": "66943c61a9dd2e5698bf753c",
+        "_id": "66b60a78b80e57a1c1cfdb36",
         "timestamp": "2023-07-01 00:00:00",
         "weth_marketplace": 0.4099823097503489
     },
     {
-        "_id": "66943c61a9dd2e5698bf753e",
+        "_id": "66b60a78b80e57a1c1cfdb38",
         "timestamp": "2023-07-02 00:00:00",
         "weth_marketplace": 0.34238461236210654
     },
     {
-        "_id": "66943c61a9dd2e5698bf7540",
+        "_id": "66b60a78b80e57a1c1cfdb3a",
         "timestamp": "2023-07-03 00:00:00",
         "weth_marketplace": 0.5241036776016034
     },
     {
-        "_id": "66943c61a9dd2e5698bf7542",
+        "_id": "66b60a78b80e57a1c1cfdb3c",
         "timestamp": "2023-07-04 00:00:00",
         "weth_marketplace": 0.7556297427787618
     },
     {
-        "_id": "66943c61a9dd2e5698bf7544",
+        "_id": "66b60a78b80e57a1c1cfdb3e",
         "timestamp": "2023-07-05 00:00:00",
         "weth_marketplace": 1.4477177494313673
     },
     {
-        "_id": "66943c61a9dd2e5698bf7546",
+        "_id": "66b60a78b80e57a1c1cfdb40",
         "timestamp": "2023-07-06 00:00:00",
         "weth_marketplace": 0.9898425993126703
     },
     {
-        "_id": "66943c61a9dd2e5698bf7548",
+        "_id": "66b60a78b80e57a1c1cfdb42",
         "timestamp": "2023-07-07 00:00:00",
         "weth_marketplace": 1.1457098167065674
     },
     {
-        "_id": "66943c61a9dd2e5698bf754a",
+        "_id": "66b60a78b80e57a1c1cfdb44",
         "timestamp": "2023-07-08 00:00:00",
         "weth_marketplace": 0.8287366339700533
     },
     {
-        "_id": "66943c61a9dd2e5698bf754c",
+        "_id": "66b60a78b80e57a1c1cfdb46",
         "timestamp": "2023-07-09 00:00:00",
         "weth_marketplace": 0.5670585717667816
     },
     {
-        "_id": "66943c61a9dd2e5698bf754e",
+        "_id": "66b60a78b80e57a1c1cfdb48",
         "timestamp": "2023-07-10 00:00:00",
         "weth_marketplace": 0.6527552013233869
     },
     {
-        "_id": "66943c61a9dd2e5698bf7550",
+        "_id": "66b60a78b80e57a1c1cfdb4a",
         "timestamp": "2023-07-11 00:00:00",
         "weth_marketplace": 0.6988436680596567
     },
     {
-        "_id": "66943c61a9dd2e5698bf7552",
+        "_id": "66b60a78b80e57a1c1cfdb4c",
         "timestamp": "2023-07-12 00:00:00",
         "weth_marketplace": 0.847789089185386
     },
     {
-        "_id": "66943c61a9dd2e5698bf7554",
+        "_id": "66b60a78b80e57a1c1cfdb4e",
         "timestamp": "2023-07-13 00:00:00",
         "weth_marketplace": 0.9102250283653421
     },
     {
-        "_id": "66943c61a9dd2e5698bf7556",
+        "_id": "66b60a78b80e57a1c1cfdb50",
         "timestamp": "2023-07-14 00:00:00",
         "weth_marketplace": 1.2951833683348946
     },
     {
-        "_id": "66943c61a9dd2e5698bf7558",
+        "_id": "66b60a78b80e57a1c1cfdb52",
         "timestamp": "2023-07-15 00:00:00",
         "weth_marketplace": 0.6873806253984563
     },
     {
-        "_id": "66943c61a9dd2e5698bf755a",
+        "_id": "66b60a78b80e57a1c1cfdb54",
         "timestamp": "2023-07-16 00:00:00",
         "weth_marketplace": 0.819337870372863
     },
     {
-        "_id": "66943c61a9dd2e5698bf755c",
+        "_id": "66b60a78b80e57a1c1cfdb56",
         "timestamp": "2023-07-17 00:00:00",
         "weth_marketplace": 0.802608528210154
     },
     {
-        "_id": "66943c61a9dd2e5698bf755e",
+        "_id": "66b60a78b80e57a1c1cfdb58",
         "timestamp": "2023-07-18 00:00:00",
         "weth_marketplace": 0.6982881099782463
     },
     {
-        "_id": "66943c61a9dd2e5698bf7560",
+        "_id": "66b60a78b80e57a1c1cfdb5a",
         "timestamp": "2023-07-19 00:00:00",
         "weth_marketplace": 1.2175173251432916
     },
     {
-        "_id": "66943c61a9dd2e5698bf7562",
+        "_id": "66b60a78b80e57a1c1cfdb5c",
         "timestamp": "2023-07-20 00:00:00",
         "weth_marketplace": 0.8205163943540885
     },
     {
-        "_id": "66943c61a9dd2e5698bf7564",
+        "_id": "66b60a78b80e57a1c1cfdb5e",
         "timestamp": "2023-07-21 00:00:00",
         "weth_marketplace": 0.6188423762705785
     },
     {
-        "_id": "66943c61a9dd2e5698bf7566",
+        "_id": "66b60a78b80e57a1c1cfdb60",
         "timestamp": "2023-07-22 00:00:00",
         "weth_marketplace": 0.9605350178135728
     },
     {
-        "_id": "66943c61a9dd2e5698bf7568",
+        "_id": "66b60a78b80e57a1c1cfdb62",
         "timestamp": "2023-07-23 00:00:00",
         "weth_marketplace": 1.001847514302243
     },
     {
-        "_id": "66943c61a9dd2e5698bf756a",
+        "_id": "66b60a78b80e57a1c1cfdb64",
         "timestamp": "2023-07-24 00:00:00",
         "weth_marketplace": 0.5882711562563356
     },
     {
-        "_id": "66943c61a9dd2e5698bf756c",
+        "_id": "66b60a78b80e57a1c1cfdb66",
         "timestamp": "2023-07-25 00:00:00",
         "weth_marketplace": 1.0895780349627175
     },
     {
-        "_id": "66943c61a9dd2e5698bf756e",
+        "_id": "66b60a78b80e57a1c1cfdb68",
         "timestamp": "2023-07-26 00:00:00",
         "weth_marketplace": 0.9093379922524053
     },
     {
-        "_id": "66943c61a9dd2e5698bf7570",
+        "_id": "66b60a78b80e57a1c1cfdb6a",
         "timestamp": "2023-07-27 00:00:00",
         "weth_marketplace": 1.2593484702683997
     },
     {
-        "_id": "66943c61a9dd2e5698bf7572",
+        "_id": "66b60a78b80e57a1c1cfdb6c",
         "timestamp": "2023-07-28 00:00:00",
         "weth_marketplace": 1.0903865683457106
     },
     {
-        "_id": "66943c61a9dd2e5698bf7574",
+        "_id": "66b60a78b80e57a1c1cfdb6e",
         "timestamp": "2023-07-29 00:00:00",
         "weth_marketplace": 1.1766637143899037
     },
     {
-        "_id": "66943c61a9dd2e5698bf7576",
+        "_id": "66b60a78b80e57a1c1cfdb70",
         "timestamp": "2023-07-30 00:00:00",
         "weth_marketplace": 1.1107232715411544
     },
     {
-        "_id": "66943c61a9dd2e5698bf7578",
+        "_id": "66b60a78b80e57a1c1cfdb72",
         "timestamp": "2023-07-31 00:00:00",
         "weth_marketplace": 1.014472444606843
     },
     {
-        "_id": "66943c61a9dd2e5698bf757a",
+        "_id": "66b60a78b80e57a1c1cfdb74",
         "timestamp": "2023-08-01 00:00:00",
         "weth_marketplace": 0.9799360341472042
     },
     {
-        "_id": "66943c61a9dd2e5698bf757c",
+        "_id": "66b60a78b80e57a1c1cfdb76",
         "timestamp": "2023-08-02 00:00:00",
         "weth_marketplace": 1.100299188724395
     },
     {
-        "_id": "66943c61a9dd2e5698bf757e",
+        "_id": "66b60a78b80e57a1c1cfdb78",
         "timestamp": "2023-08-03 00:00:00",
         "weth_marketplace": 1.2045673543543693
     },
     {
-        "_id": "66943c61a9dd2e5698bf7580",
+        "_id": "66b60a78b80e57a1c1cfdb7a",
         "timestamp": "2023-08-04 00:00:00",
         "weth_marketplace": 1.112566738461061
     },
     {
-        "_id": "66943c61a9dd2e5698bf7582",
+        "_id": "66b60a78b80e57a1c1cfdb7c",
         "timestamp": "2023-08-05 00:00:00",
         "weth_marketplace": 1.0481702531625987
     },
     {
-        "_id": "66943c61a9dd2e5698bf7584",
+        "_id": "66b60a78b80e57a1c1cfdb7e",
         "timestamp": "2023-08-06 00:00:00",
         "weth_marketplace": 1.0749757737344432
     },
     {
-        "_id": "66943c61a9dd2e5698bf7586",
+        "_id": "66b60a78b80e57a1c1cfdb80",
         "timestamp": "2023-08-07 00:00:00",
         "weth_marketplace": 1.1589800780359398
     },
     {
-        "_id": "66943c61a9dd2e5698bf7588",
+        "_id": "66b60a78b80e57a1c1cfdb82",
         "timestamp": "2023-08-08 00:00:00",
         "weth_marketplace": 1.3114067752597984
     },
     {
-        "_id": "66943c61a9dd2e5698bf758a",
+        "_id": "66b60a78b80e57a1c1cfdb84",
         "timestamp": "2023-08-09 00:00:00",
         "weth_marketplace": 0.9872401531109044
     },
     {
-        "_id": "66943c61a9dd2e5698bf758c",
+        "_id": "66b60a78b80e57a1c1cfdb86",
         "timestamp": "2023-08-10 00:00:00",
         "weth_marketplace": 1.0655319635899358
     },
     {
-        "_id": "66943c61a9dd2e5698bf758e",
+        "_id": "66b60a78b80e57a1c1cfdb88",
         "timestamp": "2023-08-11 00:00:00",
         "weth_marketplace": 0.8740597669370115
     },
     {
-        "_id": "66943c61a9dd2e5698bf7590",
+        "_id": "66b60a78b80e57a1c1cfdb8a",
         "timestamp": "2023-08-12 00:00:00",
         "weth_marketplace": 1.830597079379624
     },
     {
-        "_id": "66943c61a9dd2e5698bf7592",
+        "_id": "66b60a78b80e57a1c1cfdb8c",
         "timestamp": "2023-08-13 00:00:00",
         "weth_marketplace": 1.3299590941457877
     },
     {
-        "_id": "66943c61a9dd2e5698bf7594",
+        "_id": "66b60a78b80e57a1c1cfdb8e",
         "timestamp": "2023-08-14 00:00:00",
         "weth_marketplace": 1.2879791154125975
     },
     {
-        "_id": "66943c61a9dd2e5698bf7596",
+        "_id": "66b60a78b80e57a1c1cfdb90",
         "timestamp": "2023-08-15 00:00:00",
         "weth_marketplace": 1.7093083498126977
     },
     {
-        "_id": "66943c61a9dd2e5698bf7598",
+        "_id": "66b60a78b80e57a1c1cfdb92",
         "timestamp": "2023-08-16 00:00:00",
         "weth_marketplace": 2.0163706538050996
     },
     {
-        "_id": "66943c61a9dd2e5698bf759a",
+        "_id": "66b60a78b80e57a1c1cfdb94",
         "timestamp": "2023-08-17 00:00:00",
         "weth_marketplace": 1.5373204235378837
     },
     {
-        "_id": "66943c61a9dd2e5698bf759c",
+        "_id": "66b60a78b80e57a1c1cfdb96",
         "timestamp": "2023-08-18 00:00:00",
         "weth_marketplace": 1.3211055401233476
     },
     {
-        "_id": "66943c61a9dd2e5698bf759e",
+        "_id": "66b60a78b80e57a1c1cfdb98",
         "timestamp": "2023-08-19 00:00:00",
         "weth_marketplace": 1.3072672535629424
     },
     {
-        "_id": "66943c61a9dd2e5698bf75a0",
+        "_id": "66b60a78b80e57a1c1cfdb9a",
         "timestamp": "2023-08-20 00:00:00",
         "weth_marketplace": 1.183684899665375
     },
     {
-        "_id": "66943c61a9dd2e5698bf75a2",
+        "_id": "66b60a78b80e57a1c1cfdb9c",
         "timestamp": "2023-08-21 00:00:00",
         "weth_marketplace": 1.2967117655340932
     },
     {
-        "_id": "66943c61a9dd2e5698bf75a4",
+        "_id": "66b60a78b80e57a1c1cfdb9e",
         "timestamp": "2023-08-22 00:00:00",
         "weth_marketplace": 1.1730279626789204
     },
     {
-        "_id": "66943c61a9dd2e5698bf75a6",
+        "_id": "66b60a78b80e57a1c1cfdba0",
         "timestamp": "2023-08-23 00:00:00",
         "weth_marketplace": 0.9263437667717719
     },
     {
-        "_id": "66943c61a9dd2e5698bf75a8",
+        "_id": "66b60a78b80e57a1c1cfdba2",
         "timestamp": "2023-08-24 00:00:00",
         "weth_marketplace": 1.3200989573922604
     },
     {
-        "_id": "66943c61a9dd2e5698bf75aa",
+        "_id": "66b60a78b80e57a1c1cfdba4",
         "timestamp": "2023-08-25 00:00:00",
         "weth_marketplace": 0.8316239410967914
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ac",
+        "_id": "66b60a78b80e57a1c1cfdba6",
         "timestamp": "2023-08-26 00:00:00",
         "weth_marketplace": 1.6426680104192861
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ae",
+        "_id": "66b60a78b80e57a1c1cfdba8",
         "timestamp": "2023-08-27 00:00:00",
         "weth_marketplace": 1.1587776248049741
     },
     {
-        "_id": "66943c61a9dd2e5698bf75b0",
+        "_id": "66b60a78b80e57a1c1cfdbaa",
         "timestamp": "2023-08-28 00:00:00",
         "weth_marketplace": 1.136605245166695
     },
     {
-        "_id": "66943c61a9dd2e5698bf75b2",
+        "_id": "66b60a78b80e57a1c1cfdbac",
         "timestamp": "2023-08-29 00:00:00",
         "weth_marketplace": 1.3891545628530602
     },
     {
-        "_id": "66943c61a9dd2e5698bf75b4",
+        "_id": "66b60a78b80e57a1c1cfdbae",
         "timestamp": "2023-08-30 00:00:00",
         "weth_marketplace": 1.3301915840678482
     },
     {
-        "_id": "66943c61a9dd2e5698bf75b6",
+        "_id": "66b60a78b80e57a1c1cfdbb0",
         "timestamp": "2023-08-31 00:00:00",
         "weth_marketplace": 1.4194520648622981
     },
     {
-        "_id": "66943c61a9dd2e5698bf75b8",
+        "_id": "66b60a78b80e57a1c1cfdbb2",
         "timestamp": "2023-09-01 00:00:00",
         "weth_marketplace": 1.382048238601099
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ba",
+        "_id": "66b60a78b80e57a1c1cfdbb4",
         "timestamp": "2023-09-02 00:00:00",
         "weth_marketplace": 1.7216160601956871
     },
     {
-        "_id": "66943c61a9dd2e5698bf75bc",
+        "_id": "66b60a78b80e57a1c1cfdbb6",
         "timestamp": "2023-09-03 00:00:00",
         "weth_marketplace": 0.9829671768545892
     },
     {
-        "_id": "66943c61a9dd2e5698bf75be",
+        "_id": "66b60a78b80e57a1c1cfdbb8",
         "timestamp": "2023-09-04 00:00:00",
         "weth_marketplace": 0.991408604654111
     },
     {
-        "_id": "66943c61a9dd2e5698bf75c0",
+        "_id": "66b60a78b80e57a1c1cfdbba",
         "timestamp": "2023-09-05 00:00:00",
         "weth_marketplace": 1.6588463767162722
     },
     {
-        "_id": "66943c61a9dd2e5698bf75c2",
+        "_id": "66b60a78b80e57a1c1cfdbbc",
         "timestamp": "2023-09-06 00:00:00",
         "weth_marketplace": 0.9888888435484545
     },
     {
-        "_id": "66943c61a9dd2e5698bf75c4",
+        "_id": "66b60a78b80e57a1c1cfdbbe",
         "timestamp": "2023-09-07 00:00:00",
         "weth_marketplace": 1.263243554788265
     },
     {
-        "_id": "66943c61a9dd2e5698bf75c6",
+        "_id": "66b60a78b80e57a1c1cfdbc0",
         "timestamp": "2023-09-08 00:00:00",
         "weth_marketplace": 0.977907289116876
     },
     {
-        "_id": "66943c61a9dd2e5698bf75c8",
+        "_id": "66b60a78b80e57a1c1cfdbc2",
         "timestamp": "2023-09-09 00:00:00",
         "weth_marketplace": 1.0391977248159774
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ca",
+        "_id": "66b60a78b80e57a1c1cfdbc4",
         "timestamp": "2023-09-10 00:00:00",
         "weth_marketplace": 1.2058459122866936
     },
     {
-        "_id": "66943c61a9dd2e5698bf75cc",
+        "_id": "66b60a78b80e57a1c1cfdbc6",
         "timestamp": "2023-09-11 00:00:00",
         "weth_marketplace": 1.2531058701937086
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ce",
+        "_id": "66b60a78b80e57a1c1cfdbc8",
         "timestamp": "2023-09-12 00:00:00",
         "weth_marketplace": 0.9155397440863806
     },
     {
-        "_id": "66943c61a9dd2e5698bf75d0",
+        "_id": "66b60a78b80e57a1c1cfdbca",
         "timestamp": "2023-09-13 00:00:00",
         "weth_marketplace": 0.8833618546339023
     },
     {
-        "_id": "66943c61a9dd2e5698bf75d2",
+        "_id": "66b60a78b80e57a1c1cfdbcc",
         "timestamp": "2023-09-14 00:00:00",
         "weth_marketplace": 3.140404692634754
     },
     {
-        "_id": "66943c61a9dd2e5698bf75d4",
+        "_id": "66b60a78b80e57a1c1cfdbce",
         "timestamp": "2023-09-15 00:00:00",
         "weth_marketplace": 1.3969124339480072
     },
     {
-        "_id": "66943c61a9dd2e5698bf75d6",
+        "_id": "66b60a78b80e57a1c1cfdbd0",
         "timestamp": "2023-09-16 00:00:00",
         "weth_marketplace": 1.2051824467939167
     },
     {
-        "_id": "66943c61a9dd2e5698bf75d8",
+        "_id": "66b60a78b80e57a1c1cfdbd2",
         "timestamp": "2023-09-17 00:00:00",
         "weth_marketplace": 2.657107657038155
     },
     {
-        "_id": "66943c61a9dd2e5698bf75da",
+        "_id": "66b60a78b80e57a1c1cfdbd4",
         "timestamp": "2023-09-18 00:00:00",
         "weth_marketplace": 1.171753218547614
     },
     {
-        "_id": "66943c61a9dd2e5698bf75dc",
+        "_id": "66b60a78b80e57a1c1cfdbd6",
         "timestamp": "2023-09-19 00:00:00",
         "weth_marketplace": 0.7155389611204185
     },
     {
-        "_id": "66943c61a9dd2e5698bf75de",
+        "_id": "66b60a78b80e57a1c1cfdbd8",
         "timestamp": "2023-09-20 00:00:00",
         "weth_marketplace": 1.6834593324724334
     },
     {
-        "_id": "66943c61a9dd2e5698bf75e0",
+        "_id": "66b60a78b80e57a1c1cfdbda",
         "timestamp": "2023-09-21 00:00:00",
         "weth_marketplace": 1.2236566587412003
     },
     {
-        "_id": "66943c61a9dd2e5698bf75e2",
+        "_id": "66b60a78b80e57a1c1cfdbdc",
         "timestamp": "2023-09-22 00:00:00",
         "weth_marketplace": 1.518572319925789
     },
     {
-        "_id": "66943c61a9dd2e5698bf75e4",
+        "_id": "66b60a78b80e57a1c1cfdbde",
         "timestamp": "2023-09-23 00:00:00",
         "weth_marketplace": 1.1516518178214963
     },
     {
-        "_id": "66943c61a9dd2e5698bf75e6",
+        "_id": "66b60a78b80e57a1c1cfdbe0",
         "timestamp": "2023-09-24 00:00:00",
         "weth_marketplace": 0.9299993236324505
     },
     {
-        "_id": "66943c61a9dd2e5698bf75e8",
+        "_id": "66b60a78b80e57a1c1cfdbe2",
         "timestamp": "2023-09-25 00:00:00",
         "weth_marketplace": 0.8070170979852593
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ea",
+        "_id": "66b60a78b80e57a1c1cfdbe4",
         "timestamp": "2023-09-26 00:00:00",
         "weth_marketplace": 0.654167337204941
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ec",
+        "_id": "66b60a78b80e57a1c1cfdbe6",
         "timestamp": "2023-09-27 00:00:00",
         "weth_marketplace": 1.0627826470674269
     },
     {
-        "_id": "66943c61a9dd2e5698bf75ee",
+        "_id": "66b60a78b80e57a1c1cfdbe8",
         "timestamp": "2023-09-28 00:00:00",
         "weth_marketplace": 1.2346597508735018
     },
     {
-        "_id": "66943c61a9dd2e5698bf75f0",
+        "_id": "66b60a78b80e57a1c1cfdbea",
         "timestamp": "2023-09-29 00:00:00",
         "weth_marketplace": 0.9166000129097709
     },
     {
-        "_id": "66943c61a9dd2e5698bf75f2",
+        "_id": "66b60a78b80e57a1c1cfdbec",
         "timestamp": "2023-09-30 00:00:00",
         "weth_marketplace": 0.9802787663544499
     },
     {
-        "_id": "66943c61a9dd2e5698bf75f4",
+        "_id": "66b60a78b80e57a1c1cfdbee",
         "timestamp": "2023-10-01 00:00:00",
         "weth_marketplace": 0.7637477251679515
     },
     {
-        "_id": "66943c61a9dd2e5698bf75f6",
+        "_id": "66b60a78b80e57a1c1cfdbf0",
         "timestamp": "2023-10-02 00:00:00",
         "weth_marketplace": 1.0659814894650448
     },
     {
-        "_id": "66943c61a9dd2e5698bf75f8",
+        "_id": "66b60a78b80e57a1c1cfdbf2",
         "timestamp": "2023-10-03 00:00:00",
         "weth_marketplace": 0.9562461439242076
     },
     {
-        "_id": "66943c61a9dd2e5698bf75fa",
+        "_id": "66b60a78b80e57a1c1cfdbf4",
         "timestamp": "2023-10-04 00:00:00",
         "weth_marketplace": 1.304206874108797
     },
     {
-        "_id": "66943c61a9dd2e5698bf75fc",
+        "_id": "66b60a78b80e57a1c1cfdbf6",
         "timestamp": "2023-10-05 00:00:00",
         "weth_marketplace": 1.301585317476865
     },
     {
-        "_id": "66943c61a9dd2e5698bf75fe",
+        "_id": "66b60a78b80e57a1c1cfdbf8",
         "timestamp": "2023-10-06 00:00:00",
         "weth_marketplace": 1.226127142952106
     },
     {
-        "_id": "66943c61a9dd2e5698bf7600",
+        "_id": "66b60a78b80e57a1c1cfdbfa",
         "timestamp": "2023-10-07 00:00:00",
         "weth_marketplace": 1.5195140252223511
     },
     {
-        "_id": "66943c61a9dd2e5698bf7602",
+        "_id": "66b60a78b80e57a1c1cfdbfc",
         "timestamp": "2023-10-08 00:00:00",
         "weth_marketplace": 1.2201629115042156
     },
     {
-        "_id": "66943c61a9dd2e5698bf7604",
+        "_id": "66b60a78b80e57a1c1cfdbfe",
         "timestamp": "2023-10-09 00:00:00",
         "weth_marketplace": 1.313856940456172
     },
     {
-        "_id": "66943c61a9dd2e5698bf7606",
+        "_id": "66b60a78b80e57a1c1cfdc00",
         "timestamp": "2023-10-10 00:00:00",
         "weth_marketplace": 1.1202183967157848
     },
     {
-        "_id": "66943c61a9dd2e5698bf7608",
+        "_id": "66b60a78b80e57a1c1cfdc02",
         "timestamp": "2023-10-11 00:00:00",
         "weth_marketplace": 1.0976738673234951
     },
     {
-        "_id": "66943c61a9dd2e5698bf760a",
+        "_id": "66b60a78b80e57a1c1cfdc04",
         "timestamp": "2023-10-12 00:00:00",
         "weth_marketplace": 1.316159157596682
     },
     {
-        "_id": "66943c61a9dd2e5698bf760c",
+        "_id": "66b60a78b80e57a1c1cfdc06",
         "timestamp": "2023-10-13 00:00:00",
         "weth_marketplace": 1.123637454564196
     },
     {
-        "_id": "66943c61a9dd2e5698bf760e",
+        "_id": "66b60a78b80e57a1c1cfdc08",
         "timestamp": "2023-10-14 00:00:00",
         "weth_marketplace": 0.9445069493898466
     },
     {
-        "_id": "66943c61a9dd2e5698bf7610",
+        "_id": "66b60a78b80e57a1c1cfdc0a",
         "timestamp": "2023-10-15 00:00:00",
         "weth_marketplace": 0.9445763114651442
     },
     {
-        "_id": "66943c61a9dd2e5698bf7612",
+        "_id": "66b60a78b80e57a1c1cfdc0c",
         "timestamp": "2023-10-16 00:00:00",
         "weth_marketplace": 1.0944500522455756
     },
     {
-        "_id": "66943c61a9dd2e5698bf7614",
+        "_id": "66b60a78b80e57a1c1cfdc0e",
         "timestamp": "2023-10-17 00:00:00",
         "weth_marketplace": 1.2140817346709316
     },
     {
-        "_id": "66943c61a9dd2e5698bf7616",
+        "_id": "66b60a78b80e57a1c1cfdc10",
         "timestamp": "2023-10-18 00:00:00",
         "weth_marketplace": 1.945570847176977
     },
     {
-        "_id": "66943c61a9dd2e5698bf7618",
+        "_id": "66b60a78b80e57a1c1cfdc12",
         "timestamp": "2023-10-19 00:00:00",
         "weth_marketplace": 0.9328984437397392
     },
     {
-        "_id": "66943c61a9dd2e5698bf761a",
+        "_id": "66b60a78b80e57a1c1cfdc14",
         "timestamp": "2023-10-20 00:00:00",
         "weth_marketplace": 0.776306258017861
     },
     {
-        "_id": "66943c61a9dd2e5698bf761c",
+        "_id": "66b60a78b80e57a1c1cfdc16",
         "timestamp": "2023-10-21 00:00:00",
         "weth_marketplace": 1.537769991380303
     },
     {
-        "_id": "66943c61a9dd2e5698bf761e",
+        "_id": "66b60a78b80e57a1c1cfdc18",
         "timestamp": "2023-10-22 00:00:00",
         "weth_marketplace": 1.060228450870949
     },
     {
-        "_id": "66943c61a9dd2e5698bf7620",
+        "_id": "66b60a78b80e57a1c1cfdc1a",
         "timestamp": "2023-10-23 00:00:00",
         "weth_marketplace": 1.113307615309425
     },
     {
-        "_id": "66943c61a9dd2e5698bf7622",
+        "_id": "66b60a78b80e57a1c1cfdc1c",
         "timestamp": "2023-10-24 00:00:00",
         "weth_marketplace": 1.2967387145800142
     },
     {
-        "_id": "66943c61a9dd2e5698bf7624",
+        "_id": "66b60a78b80e57a1c1cfdc1e",
         "timestamp": "2023-10-25 00:00:00",
         "weth_marketplace": 1.338315860040527
     },
     {
-        "_id": "66943c61a9dd2e5698bf7626",
+        "_id": "66b60a78b80e57a1c1cfdc20",
         "timestamp": "2023-10-26 00:00:00",
         "weth_marketplace": 1.183267824042926
     },
     {
-        "_id": "66943c61a9dd2e5698bf7628",
+        "_id": "66b60a78b80e57a1c1cfdc22",
         "timestamp": "2023-10-27 00:00:00",
         "weth_marketplace": 1.0492685022809702
     },
     {
-        "_id": "66943c61a9dd2e5698bf762a",
+        "_id": "66b60a78b80e57a1c1cfdc24",
         "timestamp": "2023-10-28 00:00:00",
         "weth_marketplace": 0.9854298928427129
     },
     {
-        "_id": "66943c61a9dd2e5698bf762c",
+        "_id": "66b60a78b80e57a1c1cfdc26",
         "timestamp": "2023-10-29 00:00:00",
         "weth_marketplace": 0.8717624044699102
     },
     {
-        "_id": "66943c61a9dd2e5698bf762e",
+        "_id": "66b60a78b80e57a1c1cfdc28",
         "timestamp": "2023-10-30 00:00:00",
         "weth_marketplace": 1.234592040111119
     },
     {
-        "_id": "66943c61a9dd2e5698bf7630",
+        "_id": "66b60a78b80e57a1c1cfdc2a",
         "timestamp": "2023-10-31 00:00:00",
         "weth_marketplace": 0.9426166270561718
     },
     {
-        "_id": "66943c61a9dd2e5698bf7632",
+        "_id": "66b60a78b80e57a1c1cfdc2c",
         "timestamp": "2023-11-01 00:00:00",
         "weth_marketplace": 0.8165921501490775
     },
     {
-        "_id": "66943c61a9dd2e5698bf7634",
+        "_id": "66b60a78b80e57a1c1cfdc2e",
         "timestamp": "2023-11-02 00:00:00",
         "weth_marketplace": 0.834139985211676
     },
     {
-        "_id": "66943c61a9dd2e5698bf7636",
+        "_id": "66b60a78b80e57a1c1cfdc30",
         "timestamp": "2023-11-03 00:00:00",
         "weth_marketplace": 0.7484499238249175
     },
     {
-        "_id": "66943c61a9dd2e5698bf7638",
+        "_id": "66b60a78b80e57a1c1cfdc32",
         "timestamp": "2023-11-04 00:00:00",
         "weth_marketplace": 1.7104706168154151
     },
     {
-        "_id": "66943c61a9dd2e5698bf763a",
+        "_id": "66b60a78b80e57a1c1cfdc34",
         "timestamp": "2023-11-05 00:00:00",
         "weth_marketplace": 1.2152096141489568
     },
     {
-        "_id": "66943c61a9dd2e5698bf763c",
+        "_id": "66b60a78b80e57a1c1cfdc36",
         "timestamp": "2023-11-06 00:00:00",
         "weth_marketplace": 1.2382130957186552
     },
     {
-        "_id": "66943c61a9dd2e5698bf763e",
+        "_id": "66b60a78b80e57a1c1cfdc38",
         "timestamp": "2023-11-07 00:00:00",
         "weth_marketplace": 1.0114222289068961
     },
     {
-        "_id": "66943c61a9dd2e5698bf7640",
+        "_id": "66b60a78b80e57a1c1cfdc3a",
         "timestamp": "2023-11-08 00:00:00",
         "weth_marketplace": 0.9085445111044768
     },
     {
-        "_id": "66943c61a9dd2e5698bf7642",
+        "_id": "66b60a78b80e57a1c1cfdc3c",
         "timestamp": "2023-11-09 00:00:00",
         "weth_marketplace": 1.2053821098887674
     },
     {
-        "_id": "66943c61a9dd2e5698bf7644",
+        "_id": "66b60a78b80e57a1c1cfdc3e",
         "timestamp": "2023-11-10 00:00:00",
         "weth_marketplace": 0.8914226297081478
     },
     {
-        "_id": "66943c61a9dd2e5698bf7646",
+        "_id": "66b60a78b80e57a1c1cfdc40",
         "timestamp": "2023-11-11 00:00:00",
         "weth_marketplace": 1.0610053504366064
     },
     {
-        "_id": "66943c61a9dd2e5698bf7648",
+        "_id": "66b60a78b80e57a1c1cfdc42",
         "timestamp": "2023-11-12 00:00:00",
         "weth_marketplace": 0.8005064225021308
     },
     {
-        "_id": "66943c61a9dd2e5698bf764a",
+        "_id": "66b60a78b80e57a1c1cfdc44",
         "timestamp": "2023-11-13 00:00:00",
         "weth_marketplace": 0.7353892417175347
     },
     {
-        "_id": "66943c61a9dd2e5698bf764c",
+        "_id": "66b60a78b80e57a1c1cfdc46",
         "timestamp": "2023-11-14 00:00:00",
         "weth_marketplace": 0.7262023120468921
     },
     {
-        "_id": "66943c61a9dd2e5698bf764e",
+        "_id": "66b60a78b80e57a1c1cfdc48",
         "timestamp": "2023-11-15 00:00:00",
         "weth_marketplace": 1.5238722939520133
     },
     {
-        "_id": "66943c61a9dd2e5698bf7650",
+        "_id": "66b60a78b80e57a1c1cfdc4a",
         "timestamp": "2023-11-16 00:00:00",
         "weth_marketplace": 0.745327562194841
     },
     {
-        "_id": "66943c61a9dd2e5698bf7652",
+        "_id": "66b60a78b80e57a1c1cfdc4c",
         "timestamp": "2023-11-17 00:00:00",
         "weth_marketplace": 0.9502551231690616
     },
     {
-        "_id": "66943c61a9dd2e5698bf7654",
+        "_id": "66b60a78b80e57a1c1cfdc4e",
         "timestamp": "2023-11-18 00:00:00",
         "weth_marketplace": 0.6820606697265043
     },
     {
-        "_id": "66943c61a9dd2e5698bf7656",
+        "_id": "66b60a78b80e57a1c1cfdc50",
         "timestamp": "2023-11-19 00:00:00",
         "weth_marketplace": 0.9510777536572319
     },
     {
-        "_id": "66943c61a9dd2e5698bf7658",
+        "_id": "66b60a78b80e57a1c1cfdc52",
         "timestamp": "2023-11-20 00:00:00",
         "weth_marketplace": 1.0152372726384356
     },
     {
-        "_id": "66943c61a9dd2e5698bf765a",
+        "_id": "66b60a78b80e57a1c1cfdc54",
         "timestamp": "2023-11-21 00:00:00",
         "weth_marketplace": 1.2741356320842925
     },
     {
-        "_id": "66943c61a9dd2e5698bf765c",
+        "_id": "66b60a78b80e57a1c1cfdc56",
         "timestamp": "2023-11-22 00:00:00",
         "weth_marketplace": 1.1579991282961224
     },
     {
-        "_id": "66943c61a9dd2e5698bf765e",
+        "_id": "66b60a78b80e57a1c1cfdc58",
         "timestamp": "2023-11-23 00:00:00",
         "weth_marketplace": 1.25348726954069
     },
     {
-        "_id": "66943c61a9dd2e5698bf7660",
+        "_id": "66b60a78b80e57a1c1cfdc5a",
         "timestamp": "2023-11-24 00:00:00",
         "weth_marketplace": 1.0946268551131026
     },
     {
-        "_id": "66943c61a9dd2e5698bf7662",
+        "_id": "66b60a78b80e57a1c1cfdc5c",
         "timestamp": "2023-11-25 00:00:00",
         "weth_marketplace": 1.3988485477923718
     },
     {
-        "_id": "66943c61a9dd2e5698bf7664",
+        "_id": "66b60a78b80e57a1c1cfdc5e",
         "timestamp": "2023-11-26 00:00:00",
         "weth_marketplace": 1.030435326442327
     },
     {
-        "_id": "66943c61a9dd2e5698bf7666",
+        "_id": "66b60a78b80e57a1c1cfdc60",
         "timestamp": "2023-11-27 00:00:00",
         "weth_marketplace": 1.698163333213597
     },
     {
-        "_id": "66943c61a9dd2e5698bf7668",
+        "_id": "66b60a78b80e57a1c1cfdc62",
         "timestamp": "2023-11-28 00:00:00",
         "weth_marketplace": 2.44660054967337
     },
     {
-        "_id": "66943c61a9dd2e5698bf766a",
+        "_id": "66b60a78b80e57a1c1cfdc64",
         "timestamp": "2023-11-29 00:00:00",
         "weth_marketplace": 1.366961852779151
     },
     {
-        "_id": "66943c61a9dd2e5698bf766c",
+        "_id": "66b60a78b80e57a1c1cfdc66",
         "timestamp": "2023-11-30 00:00:00",
         "weth_marketplace": 2.413725054146228
     },
     {
-        "_id": "66943c61a9dd2e5698bf766e",
+        "_id": "66b60a78b80e57a1c1cfdc68",
         "timestamp": "2023-12-01 00:00:00",
         "weth_marketplace": 1.3263193361514158
     },
     {
-        "_id": "66943c61a9dd2e5698bf7670",
+        "_id": "66b60a78b80e57a1c1cfdc6a",
         "timestamp": "2023-12-02 00:00:00",
         "weth_marketplace": 1.5278880116706974
     },
     {
-        "_id": "66943c61a9dd2e5698bf7672",
+        "_id": "66b60a78b80e57a1c1cfdc6c",
         "timestamp": "2023-12-03 00:00:00",
         "weth_marketplace": 1.2449115768047263
     },
     {
-        "_id": "66943c61a9dd2e5698bf7674",
+        "_id": "66b60a78b80e57a1c1cfdc6e",
         "timestamp": "2023-12-04 00:00:00",
         "weth_marketplace": 1.5631729980187323
     },
     {
-        "_id": "66943c61a9dd2e5698bf7676",
+        "_id": "66b60a78b80e57a1c1cfdc70",
         "timestamp": "2023-12-05 00:00:00",
         "weth_marketplace": 1.3540282739799632
     },
     {
-        "_id": "66943c61a9dd2e5698bf7678",
+        "_id": "66b60a78b80e57a1c1cfdc72",
         "timestamp": "2023-12-06 00:00:00",
         "weth_marketplace": 1.6618237555301472
     },
     {
-        "_id": "66943c61a9dd2e5698bf767a",
+        "_id": "66b60a78b80e57a1c1cfdc74",
         "timestamp": "2023-12-07 00:00:00",
         "weth_marketplace": 1.395290046525077
     },
     {
-        "_id": "66943c61a9dd2e5698bf767c",
+        "_id": "66b60a78b80e57a1c1cfdc76",
         "timestamp": "2023-12-08 00:00:00",
         "weth_marketplace": 1.3465897846258523
     },
     {
-        "_id": "66943c61a9dd2e5698bf767e",
+        "_id": "66b60a78b80e57a1c1cfdc78",
         "timestamp": "2023-12-09 00:00:00",
         "weth_marketplace": 1.4869547864631467
     },
     {
-        "_id": "66943c61a9dd2e5698bf7680",
+        "_id": "66b60a78b80e57a1c1cfdc7a",
         "timestamp": "2023-12-10 00:00:00",
         "weth_marketplace": 1.31367655537775
     },
     {
-        "_id": "66943c61a9dd2e5698bf7682",
+        "_id": "66b60a78b80e57a1c1cfdc7c",
         "timestamp": "2023-12-11 00:00:00",
         "weth_marketplace": 1.0858202940172266
     },
     {
-        "_id": "66943c61a9dd2e5698bf7684",
+        "_id": "66b60a78b80e57a1c1cfdc7e",
         "timestamp": "2023-12-12 00:00:00",
         "weth_marketplace": 1.5374196204619541
     },
     {
-        "_id": "66943c61a9dd2e5698bf7686",
+        "_id": "66b60a78b80e57a1c1cfdc80",
         "timestamp": "2023-12-13 00:00:00",
         "weth_marketplace": 1.8240152004796886
     },
     {
-        "_id": "66943c61a9dd2e5698bf7688",
+        "_id": "66b60a78b80e57a1c1cfdc82",
         "timestamp": "2023-12-14 00:00:00",
         "weth_marketplace": 2.76882079379561
     },
     {
-        "_id": "66943c61a9dd2e5698bf768a",
+        "_id": "66b60a78b80e57a1c1cfdc84",
         "timestamp": "2023-12-15 00:00:00",
         "weth_marketplace": 2.5904932711141084
     },
     {
-        "_id": "66943c61a9dd2e5698bf768c",
+        "_id": "66b60a78b80e57a1c1cfdc86",
         "timestamp": "2023-12-16 00:00:00",
         "weth_marketplace": 1.4260427905159534
     },
     {
-        "_id": "66943c61a9dd2e5698bf768e",
+        "_id": "66b60a78b80e57a1c1cfdc88",
         "timestamp": "2023-12-17 00:00:00",
         "weth_marketplace": 1.8355485618736014
     },
     {
-        "_id": "66943c61a9dd2e5698bf7690",
+        "_id": "66b60a78b80e57a1c1cfdc8a",
         "timestamp": "2023-12-18 00:00:00",
         "weth_marketplace": 1.7823519919906314
     },
     {
-        "_id": "66943c61a9dd2e5698bf7692",
+        "_id": "66b60a78b80e57a1c1cfdc8c",
         "timestamp": "2023-12-19 00:00:00",
         "weth_marketplace": 1.3168055018850593
     },
     {
-        "_id": "66943c61a9dd2e5698bf7694",
+        "_id": "66b60a78b80e57a1c1cfdc8e",
         "timestamp": "2023-12-20 00:00:00",
         "weth_marketplace": 2.4625941939231373
     },
     {
-        "_id": "66943c61a9dd2e5698bf7696",
+        "_id": "66b60a78b80e57a1c1cfdc90",
         "timestamp": "2023-12-21 00:00:00",
         "weth_marketplace": 1.6364505099855386
     },
     {
-        "_id": "66943c61a9dd2e5698bf7698",
+        "_id": "66b60a78b80e57a1c1cfdc92",
         "timestamp": "2023-12-22 00:00:00",
         "weth_marketplace": 2.2511622209769477
     },
     {
-        "_id": "66943c61a9dd2e5698bf769a",
+        "_id": "66b60a78b80e57a1c1cfdc94",
         "timestamp": "2023-12-23 00:00:00",
         "weth_marketplace": 1.438954635240176
     },
     {
-        "_id": "66943c61a9dd2e5698bf769c",
+        "_id": "66b60a78b80e57a1c1cfdc96",
         "timestamp": "2023-12-24 00:00:00",
         "weth_marketplace": 1.7812743487656648
     },
     {
-        "_id": "66943c61a9dd2e5698bf769e",
+        "_id": "66b60a78b80e57a1c1cfdc98",
         "timestamp": "2023-12-25 00:00:00",
         "weth_marketplace": 2.9854209931358975
     },
     {
-        "_id": "66943c61a9dd2e5698bf76a0",
+        "_id": "66b60a78b80e57a1c1cfdc9a",
         "timestamp": "2023-12-26 00:00:00",
         "weth_marketplace": 1.4810152530016647
     },
     {
-        "_id": "66943c61a9dd2e5698bf76a2",
+        "_id": "66b60a78b80e57a1c1cfdc9c",
         "timestamp": "2023-12-27 00:00:00",
         "weth_marketplace": 2.955032339560462
     },
     {
-        "_id": "66943c61a9dd2e5698bf76a4",
+        "_id": "66b60a78b80e57a1c1cfdc9e",
         "timestamp": "2023-12-28 00:00:00",
         "weth_marketplace": 1.422416006488504
     },
     {
-        "_id": "66943c61a9dd2e5698bf76a6",
+        "_id": "66b60a78b80e57a1c1cfdca0",
         "timestamp": "2023-12-29 00:00:00",
         "weth_marketplace": 1.8855746477888735
     },
     {
-        "_id": "66943c61a9dd2e5698bf76a8",
+        "_id": "66b60a78b80e57a1c1cfdca2",
         "timestamp": "2023-12-30 00:00:00",
         "weth_marketplace": 1.7675644498224483
     },
     {
-        "_id": "66943c61a9dd2e5698bf76aa",
+        "_id": "66b60a78b80e57a1c1cfdca4",
         "timestamp": "2023-12-31 00:00:00",
         "weth_marketplace": 2.143327172991467
     },
     {
-        "_id": "66943c68a9dd2e5698bf76b4",
+        "_id": "66b60a81b80e57a1c1cfdcae",
         "timestamp": "2022-03-29 00:00:00",
         "weth_marketplace": 11.765282920939395
     },
     {
-        "_id": "66943c68a9dd2e5698bf76b6",
+        "_id": "66b60a81b80e57a1c1cfdcb0",
         "timestamp": "2022-03-30 00:00:00",
         "weth_marketplace": 6.494374311867152
     },
     {
-        "_id": "66943c68a9dd2e5698bf76b8",
+        "_id": "66b60a81b80e57a1c1cfdcb2",
         "timestamp": "2022-03-31 00:00:00",
         "weth_marketplace": 4.987464753898442
     },
     {
-        "_id": "66943c68a9dd2e5698bf76ba",
+        "_id": "66b60a81b80e57a1c1cfdcb4",
         "timestamp": "2022-04-01 00:00:00",
         "weth_marketplace": 3.3904727464019255
     },
     {
-        "_id": "66943c68a9dd2e5698bf76bc",
+        "_id": "66b60a81b80e57a1c1cfdcb6",
         "timestamp": "2022-04-02 00:00:00",
         "weth_marketplace": 4.178122194744196
     },
     {
-        "_id": "66943c68a9dd2e5698bf76be",
+        "_id": "66b60a81b80e57a1c1cfdcb8",
         "timestamp": "2022-04-03 00:00:00",
         "weth_marketplace": 3.257364703789364
     },
     {
-        "_id": "66943c68a9dd2e5698bf76c0",
+        "_id": "66b60a81b80e57a1c1cfdcba",
         "timestamp": "2022-04-04 00:00:00",
         "weth_marketplace": 3.998016993056846
     },
     {
-        "_id": "66943c68a9dd2e5698bf76c2",
+        "_id": "66b60a81b80e57a1c1cfdcbc",
         "timestamp": "2022-04-05 00:00:00",
         "weth_marketplace": 4.971855226719893
     },
     {
-        "_id": "66943c68a9dd2e5698bf76c4",
+        "_id": "66b60a81b80e57a1c1cfdcbe",
         "timestamp": "2022-04-06 00:00:00",
         "weth_marketplace": 20.860839745818957
     },
     {
-        "_id": "66943c68a9dd2e5698bf76c6",
+        "_id": "66b60a81b80e57a1c1cfdcc0",
         "timestamp": "2022-04-07 00:00:00",
         "weth_marketplace": 20.888912324370807
     },
     {
-        "_id": "66943c68a9dd2e5698bf76c8",
+        "_id": "66b60a81b80e57a1c1cfdcc2",
         "timestamp": "2022-04-08 00:00:00",
         "weth_marketplace": 16.022667664763258
     },
     {
-        "_id": "66943c68a9dd2e5698bf76ca",
+        "_id": "66b60a81b80e57a1c1cfdcc4",
         "timestamp": "2022-04-09 00:00:00",
         "weth_marketplace": 11.450558758155204
     },
     {
-        "_id": "66943c68a9dd2e5698bf76cc",
+        "_id": "66b60a81b80e57a1c1cfdcc6",
         "timestamp": "2022-04-10 00:00:00",
         "weth_marketplace": 10.336534460257912
     },
     {
-        "_id": "66943c68a9dd2e5698bf76ce",
+        "_id": "66b60a81b80e57a1c1cfdcc8",
         "timestamp": "2022-04-11 00:00:00",
         "weth_marketplace": 11.794799104502362
     },
     {
-        "_id": "66943c68a9dd2e5698bf76d0",
+        "_id": "66b60a81b80e57a1c1cfdcca",
         "timestamp": "2022-04-12 00:00:00",
         "weth_marketplace": 13.230170384920912
     },
     {
-        "_id": "66943c68a9dd2e5698bf76d2",
+        "_id": "66b60a81b80e57a1c1cfdccc",
         "timestamp": "2022-04-13 00:00:00",
         "weth_marketplace": 9.535718548154481
     },
     {
-        "_id": "66943c68a9dd2e5698bf76d4",
+        "_id": "66b60a81b80e57a1c1cfdcce",
         "timestamp": "2022-04-14 00:00:00",
         "weth_marketplace": 9.700673510355072
     },
     {
-        "_id": "66943c68a9dd2e5698bf76d6",
+        "_id": "66b60a81b80e57a1c1cfdcd0",
         "timestamp": "2022-04-15 00:00:00",
         "weth_marketplace": 11.198433906575463
     },
     {
-        "_id": "66943c68a9dd2e5698bf76d8",
+        "_id": "66b60a81b80e57a1c1cfdcd2",
         "timestamp": "2022-04-16 00:00:00",
         "weth_marketplace": 9.414605674091618
     },
     {
-        "_id": "66943c68a9dd2e5698bf76da",
+        "_id": "66b60a81b80e57a1c1cfdcd4",
         "timestamp": "2022-04-17 00:00:00",
         "weth_marketplace": 8.68443972619894
     },
     {
-        "_id": "66943c68a9dd2e5698bf76dc",
+        "_id": "66b60a81b80e57a1c1cfdcd6",
         "timestamp": "2022-04-18 00:00:00",
         "weth_marketplace": 11.334552791782137
     },
     {
-        "_id": "66943c68a9dd2e5698bf76de",
+        "_id": "66b60a81b80e57a1c1cfdcd8",
         "timestamp": "2022-04-19 00:00:00",
         "weth_marketplace": 11.212721531920915
     },
     {
-        "_id": "66943c68a9dd2e5698bf76e0",
+        "_id": "66b60a81b80e57a1c1cfdcda",
         "timestamp": "2022-04-20 00:00:00",
         "weth_marketplace": 11.227128032840822
     },
     {
-        "_id": "66943c68a9dd2e5698bf76e2",
+        "_id": "66b60a81b80e57a1c1cfdcdc",
         "timestamp": "2022-04-21 00:00:00",
         "weth_marketplace": 11.084894794722427
     },
     {
-        "_id": "66943c68a9dd2e5698bf76e4",
+        "_id": "66b60a81b80e57a1c1cfdcde",
         "timestamp": "2022-04-22 00:00:00",
         "weth_marketplace": 10.643530235772866
     },
     {
-        "_id": "66943c68a9dd2e5698bf76e6",
+        "_id": "66b60a81b80e57a1c1cfdce0",
         "timestamp": "2022-04-23 00:00:00",
         "weth_marketplace": 9.323643985941741
     },
     {
-        "_id": "66943c68a9dd2e5698bf76e8",
+        "_id": "66b60a81b80e57a1c1cfdce2",
         "timestamp": "2022-04-24 00:00:00",
         "weth_marketplace": 8.031907639657767
     },
     {
-        "_id": "66943c68a9dd2e5698bf76ea",
+        "_id": "66b60a81b80e57a1c1cfdce4",
         "timestamp": "2022-04-25 00:00:00",
         "weth_marketplace": 10.682954947753
     },
     {
-        "_id": "66943c68a9dd2e5698bf76ec",
+        "_id": "66b60a81b80e57a1c1cfdce6",
         "timestamp": "2022-04-26 00:00:00",
         "weth_marketplace": 10.170333410223481
     },
     {
-        "_id": "66943c68a9dd2e5698bf76ee",
+        "_id": "66b60a81b80e57a1c1cfdce8",
         "timestamp": "2022-04-27 00:00:00",
         "weth_marketplace": 9.639552803578049
     },
     {
-        "_id": "66943c68a9dd2e5698bf76f0",
+        "_id": "66b60a81b80e57a1c1cfdcea",
         "timestamp": "2022-04-28 00:00:00",
         "weth_marketplace": 7.8918307744659515
     },
     {
-        "_id": "66943c68a9dd2e5698bf76f2",
+        "_id": "66b60a81b80e57a1c1cfdcec",
         "timestamp": "2022-04-29 00:00:00",
         "weth_marketplace": 7.939855290620121
     },
     {
-        "_id": "66943c68a9dd2e5698bf76f4",
+        "_id": "66b60a81b80e57a1c1cfdcee",
         "timestamp": "2022-04-30 00:00:00",
         "weth_marketplace": 7.155893640612693
     },
     {
-        "_id": "66943c68a9dd2e5698bf76f6",
+        "_id": "66b60a81b80e57a1c1cfdcf0",
         "timestamp": "2022-05-01 00:00:00",
         "weth_marketplace": 11.86631719717654
     },
     {
-        "_id": "66943c68a9dd2e5698bf76f8",
+        "_id": "66b60a81b80e57a1c1cfdcf2",
         "timestamp": "2022-05-02 00:00:00",
         "weth_marketplace": 12.621736138296308
     },
     {
-        "_id": "66943c68a9dd2e5698bf76fa",
+        "_id": "66b60a81b80e57a1c1cfdcf4",
         "timestamp": "2022-05-03 00:00:00",
         "weth_marketplace": 36.83452112340816
     },
     {
-        "_id": "66943c68a9dd2e5698bf76fc",
+        "_id": "66b60a81b80e57a1c1cfdcf6",
         "timestamp": "2022-05-04 00:00:00",
         "weth_marketplace": 14.829906031480016
     },
     {
-        "_id": "66943c68a9dd2e5698bf76fe",
+        "_id": "66b60a81b80e57a1c1cfdcf8",
         "timestamp": "2022-05-05 00:00:00",
         "weth_marketplace": 7.511509901855448
     },
     {
-        "_id": "66943c68a9dd2e5698bf7700",
+        "_id": "66b60a81b80e57a1c1cfdcfa",
         "timestamp": "2022-05-06 00:00:00",
         "weth_marketplace": 5.934876500844325
     },
     {
-        "_id": "66943c68a9dd2e5698bf7702",
+        "_id": "66b60a81b80e57a1c1cfdcfc",
         "timestamp": "2022-05-07 00:00:00",
         "weth_marketplace": 5.1067021687142224
     },
     {
-        "_id": "66943c68a9dd2e5698bf7704",
+        "_id": "66b60a81b80e57a1c1cfdcfe",
         "timestamp": "2022-05-08 00:00:00",
         "weth_marketplace": 4.4479400023269235
     },
     {
-        "_id": "66943c68a9dd2e5698bf7706",
+        "_id": "66b60a81b80e57a1c1cfdd00",
         "timestamp": "2022-05-09 00:00:00",
         "weth_marketplace": 5.991815954872935
     },
     {
-        "_id": "66943c68a9dd2e5698bf7708",
+        "_id": "66b60a81b80e57a1c1cfdd02",
         "timestamp": "2022-05-10 00:00:00",
         "weth_marketplace": 5.32851916366803
     },
     {
-        "_id": "66943c68a9dd2e5698bf770a",
+        "_id": "66b60a81b80e57a1c1cfdd04",
         "timestamp": "2022-05-11 00:00:00",
         "weth_marketplace": 5.8817313453123585
     },
     {
-        "_id": "66943c68a9dd2e5698bf770c",
+        "_id": "66b60a81b80e57a1c1cfdd06",
         "timestamp": "2022-05-12 00:00:00",
         "weth_marketplace": 10.278308282734015
     },
     {
-        "_id": "66943c68a9dd2e5698bf770e",
+        "_id": "66b60a81b80e57a1c1cfdd08",
         "timestamp": "2022-05-13 00:00:00",
         "weth_marketplace": 5.260604075687541
     },
     {
-        "_id": "66943c68a9dd2e5698bf7710",
+        "_id": "66b60a81b80e57a1c1cfdd0a",
         "timestamp": "2022-05-14 00:00:00",
         "weth_marketplace": 4.850393529938979
     },
     {
-        "_id": "66943c68a9dd2e5698bf7712",
+        "_id": "66b60a81b80e57a1c1cfdd0c",
         "timestamp": "2022-05-15 00:00:00",
         "weth_marketplace": 3.8413353654541282
     },
     {
-        "_id": "66943c68a9dd2e5698bf7714",
+        "_id": "66b60a81b80e57a1c1cfdd0e",
         "timestamp": "2022-05-16 00:00:00",
         "weth_marketplace": 5.987370979436407
     },
     {
-        "_id": "66943c68a9dd2e5698bf7716",
+        "_id": "66b60a81b80e57a1c1cfdd10",
         "timestamp": "2022-05-17 00:00:00",
         "weth_marketplace": 5.12523767723612
     },
     {
-        "_id": "66943c68a9dd2e5698bf7718",
+        "_id": "66b60a81b80e57a1c1cfdd12",
         "timestamp": "2022-05-18 00:00:00",
         "weth_marketplace": 5.919985404078253
     },
     {
-        "_id": "66943c68a9dd2e5698bf771a",
+        "_id": "66b60a81b80e57a1c1cfdd14",
         "timestamp": "2022-05-19 00:00:00",
         "weth_marketplace": 5.508878027021806
     },
     {
-        "_id": "66943c68a9dd2e5698bf771c",
+        "_id": "66b60a81b80e57a1c1cfdd16",
         "timestamp": "2022-05-20 00:00:00",
         "weth_marketplace": 4.078876820714268
     },
     {
-        "_id": "66943c68a9dd2e5698bf771e",
+        "_id": "66b60a81b80e57a1c1cfdd18",
         "timestamp": "2022-05-21 00:00:00",
         "weth_marketplace": 3.9639777245942733
     },
     {
-        "_id": "66943c68a9dd2e5698bf7720",
+        "_id": "66b60a81b80e57a1c1cfdd1a",
         "timestamp": "2022-05-22 00:00:00",
         "weth_marketplace": 3.9217300152676184
     },
     {
-        "_id": "66943c68a9dd2e5698bf7722",
+        "_id": "66b60a81b80e57a1c1cfdd1c",
         "timestamp": "2022-05-23 00:00:00",
         "weth_marketplace": 4.019979412139981
     },
     {
-        "_id": "66943c68a9dd2e5698bf7724",
+        "_id": "66b60a81b80e57a1c1cfdd1e",
         "timestamp": "2022-05-24 00:00:00",
         "weth_marketplace": 4.965668049424926
     },
     {
-        "_id": "66943c68a9dd2e5698bf7726",
+        "_id": "66b60a81b80e57a1c1cfdd20",
         "timestamp": "2022-05-25 00:00:00",
         "weth_marketplace": 5.843377924582717
     },
     {
-        "_id": "66943c68a9dd2e5698bf7728",
+        "_id": "66b60a81b80e57a1c1cfdd22",
         "timestamp": "2022-05-26 00:00:00",
         "weth_marketplace": 5.76994243300098
     },
     {
-        "_id": "66943c68a9dd2e5698bf772a",
+        "_id": "66b60a81b80e57a1c1cfdd24",
         "timestamp": "2022-05-27 00:00:00",
         "weth_marketplace": 4.263853554660222
     },
     {
-        "_id": "66943c68a9dd2e5698bf772c",
+        "_id": "66b60a81b80e57a1c1cfdd26",
         "timestamp": "2022-05-28 00:00:00",
         "weth_marketplace": 4.850715451588922
     },
     {
-        "_id": "66943c68a9dd2e5698bf772e",
+        "_id": "66b60a81b80e57a1c1cfdd28",
         "timestamp": "2022-05-29 00:00:00",
         "weth_marketplace": 3.280573190061504
     },
     {
-        "_id": "66943c68a9dd2e5698bf7730",
+        "_id": "66b60a81b80e57a1c1cfdd2a",
         "timestamp": "2022-05-30 00:00:00",
         "weth_marketplace": 4.224507456984364
     },
     {
-        "_id": "66943c68a9dd2e5698bf7732",
+        "_id": "66b60a81b80e57a1c1cfdd2c",
         "timestamp": "2022-05-31 00:00:00",
         "weth_marketplace": 11.49693188001267
     },
     {
-        "_id": "66943c68a9dd2e5698bf7734",
+        "_id": "66b60a81b80e57a1c1cfdd2e",
         "timestamp": "2022-06-01 00:00:00",
         "weth_marketplace": 6.924327659033986
     },
     {
-        "_id": "66943c68a9dd2e5698bf7736",
+        "_id": "66b60a81b80e57a1c1cfdd30",
         "timestamp": "2022-06-02 00:00:00",
         "weth_marketplace": 10.65439321138516
     },
     {
-        "_id": "66943c68a9dd2e5698bf7738",
+        "_id": "66b60a81b80e57a1c1cfdd32",
         "timestamp": "2022-06-03 00:00:00",
         "weth_marketplace": 3.3972258551955976
     },
     {
-        "_id": "66943c68a9dd2e5698bf773a",
+        "_id": "66b60a81b80e57a1c1cfdd34",
         "timestamp": "2022-06-04 00:00:00",
         "weth_marketplace": 3.940606187394795
     },
     {
-        "_id": "66943c68a9dd2e5698bf773c",
+        "_id": "66b60a81b80e57a1c1cfdd36",
         "timestamp": "2022-06-05 00:00:00",
         "weth_marketplace": 2.7097519441409297
     },
     {
-        "_id": "66943c68a9dd2e5698bf773e",
+        "_id": "66b60a81b80e57a1c1cfdd38",
         "timestamp": "2022-06-06 00:00:00",
         "weth_marketplace": 3.100137568289297
     },
     {
-        "_id": "66943c68a9dd2e5698bf7740",
+        "_id": "66b60a81b80e57a1c1cfdd3a",
         "timestamp": "2022-06-07 00:00:00",
         "weth_marketplace": 3.264312396570163
     },
     {
-        "_id": "66943c68a9dd2e5698bf7742",
+        "_id": "66b60a81b80e57a1c1cfdd3c",
         "timestamp": "2022-06-08 00:00:00",
         "weth_marketplace": 4.338811090429654
     },
     {
-        "_id": "66943c68a9dd2e5698bf7744",
+        "_id": "66b60a81b80e57a1c1cfdd3e",
         "timestamp": "2022-06-09 00:00:00",
         "weth_marketplace": 2.910916991729013
     },
     {
-        "_id": "66943c68a9dd2e5698bf7746",
+        "_id": "66b60a81b80e57a1c1cfdd40",
         "timestamp": "2022-06-10 00:00:00",
         "weth_marketplace": 4.875326304983756
     },
     {
-        "_id": "66943c68a9dd2e5698bf7748",
+        "_id": "66b60a81b80e57a1c1cfdd42",
         "timestamp": "2022-06-11 00:00:00",
         "weth_marketplace": 3.0223044706295377
     },
     {
-        "_id": "66943c68a9dd2e5698bf774a",
+        "_id": "66b60a81b80e57a1c1cfdd44",
         "timestamp": "2022-06-12 00:00:00",
         "weth_marketplace": 3.3179727268567496
     },
     {
-        "_id": "66943c68a9dd2e5698bf774c",
+        "_id": "66b60a81b80e57a1c1cfdd46",
         "timestamp": "2022-06-13 00:00:00",
         "weth_marketplace": 6.425615602337451
     },
     {
-        "_id": "66943c68a9dd2e5698bf774e",
+        "_id": "66b60a81b80e57a1c1cfdd48",
         "timestamp": "2022-06-14 00:00:00",
         "weth_marketplace": 4.987519806097774
     },
     {
-        "_id": "66943c68a9dd2e5698bf7750",
+        "_id": "66b60a81b80e57a1c1cfdd4a",
         "timestamp": "2022-06-15 00:00:00",
         "weth_marketplace": 3.843810816857797
     },
     {
-        "_id": "66943c68a9dd2e5698bf7752",
+        "_id": "66b60a81b80e57a1c1cfdd4c",
         "timestamp": "2022-06-16 00:00:00",
         "weth_marketplace": 3.730499315619679
     },
     {
-        "_id": "66943c68a9dd2e5698bf7754",
+        "_id": "66b60a81b80e57a1c1cfdd4e",
         "timestamp": "2022-06-17 00:00:00",
         "weth_marketplace": 6.124423130754404
     },
     {
-        "_id": "66943c68a9dd2e5698bf7756",
+        "_id": "66b60a81b80e57a1c1cfdd50",
         "timestamp": "2022-06-18 00:00:00",
         "weth_marketplace": 7.309532408285851
     },
     {
-        "_id": "66943c68a9dd2e5698bf7758",
+        "_id": "66b60a81b80e57a1c1cfdd52",
         "timestamp": "2022-06-19 00:00:00",
         "weth_marketplace": 8.669849700153907
     },
     {
-        "_id": "66943c68a9dd2e5698bf775a",
+        "_id": "66b60a81b80e57a1c1cfdd54",
         "timestamp": "2022-06-20 00:00:00",
         "weth_marketplace": 12.494597647407494
     },
     {
-        "_id": "66943c68a9dd2e5698bf775c",
+        "_id": "66b60a81b80e57a1c1cfdd56",
         "timestamp": "2022-06-21 00:00:00",
         "weth_marketplace": 5.0562839335780705
     },
     {
-        "_id": "66943c68a9dd2e5698bf775e",
+        "_id": "66b60a81b80e57a1c1cfdd58",
         "timestamp": "2022-06-22 00:00:00",
         "weth_marketplace": 4.178986069644032
     },
     {
-        "_id": "66943c68a9dd2e5698bf7760",
+        "_id": "66b60a81b80e57a1c1cfdd5a",
         "timestamp": "2022-06-23 00:00:00",
         "weth_marketplace": 5.897699091649007
     },
     {
-        "_id": "66943c68a9dd2e5698bf7762",
+        "_id": "66b60a81b80e57a1c1cfdd5c",
         "timestamp": "2022-06-24 00:00:00",
         "weth_marketplace": 5.698342071474471
     },
     {
-        "_id": "66943c68a9dd2e5698bf7764",
+        "_id": "66b60a81b80e57a1c1cfdd5e",
         "timestamp": "2022-06-25 00:00:00",
         "weth_marketplace": 3.8845817739480104
     },
     {
-        "_id": "66943c68a9dd2e5698bf7766",
+        "_id": "66b60a81b80e57a1c1cfdd60",
         "timestamp": "2022-06-26 00:00:00",
         "weth_marketplace": 3.2043847534824277
     },
     {
-        "_id": "66943c68a9dd2e5698bf7768",
+        "_id": "66b60a81b80e57a1c1cfdd62",
         "timestamp": "2022-06-27 00:00:00",
         "weth_marketplace": 2.6124409306960645
     },
     {
-        "_id": "66943c68a9dd2e5698bf776a",
+        "_id": "66b60a81b80e57a1c1cfdd64",
         "timestamp": "2022-06-28 00:00:00",
         "weth_marketplace": 15.639231999872353
     },
     {
-        "_id": "66943c68a9dd2e5698bf776c",
+        "_id": "66b60a82b80e57a1c1cfdd66",
         "timestamp": "2022-06-29 00:00:00",
         "weth_marketplace": 7.964070383638201
     },
     {
-        "_id": "66943c68a9dd2e5698bf776e",
+        "_id": "66b60a82b80e57a1c1cfdd68",
         "timestamp": "2022-06-30 00:00:00",
         "weth_marketplace": 11.901336888201566
     },
     {
-        "_id": "66943c68a9dd2e5698bf7770",
+        "_id": "66b60a82b80e57a1c1cfdd6a",
         "timestamp": "2022-07-01 00:00:00",
         "weth_marketplace": 11.618537506000795
     },
     {
-        "_id": "66943c68a9dd2e5698bf7772",
+        "_id": "66b60a82b80e57a1c1cfdd6c",
         "timestamp": "2022-07-02 00:00:00",
         "weth_marketplace": 9.784279332803685
     },
     {
-        "_id": "66943c68a9dd2e5698bf7774",
+        "_id": "66b60a82b80e57a1c1cfdd6e",
         "timestamp": "2022-07-03 00:00:00",
         "weth_marketplace": 5.271705152095298
     },
     {
-        "_id": "66943c68a9dd2e5698bf7776",
+        "_id": "66b60a82b80e57a1c1cfdd70",
         "timestamp": "2022-07-04 00:00:00",
         "weth_marketplace": 5.849326110938034
     },
     {
-        "_id": "66943c68a9dd2e5698bf7778",
+        "_id": "66b60a82b80e57a1c1cfdd72",
         "timestamp": "2022-07-05 00:00:00",
         "weth_marketplace": 10.432608335187624
     },
     {
-        "_id": "66943c68a9dd2e5698bf777a",
+        "_id": "66b60a82b80e57a1c1cfdd74",
         "timestamp": "2022-07-06 00:00:00",
         "weth_marketplace": 8.56842120557068
     },
     {
-        "_id": "66943c68a9dd2e5698bf777c",
+        "_id": "66b60a82b80e57a1c1cfdd76",
         "timestamp": "2022-07-07 00:00:00",
         "weth_marketplace": 11.197828316864706
     },
     {
-        "_id": "66943c68a9dd2e5698bf777e",
+        "_id": "66b60a82b80e57a1c1cfdd78",
         "timestamp": "2022-07-08 00:00:00",
         "weth_marketplace": 8.043183319467882
     },
     {
-        "_id": "66943c68a9dd2e5698bf7780",
+        "_id": "66b60a82b80e57a1c1cfdd7a",
         "timestamp": "2022-07-09 00:00:00",
         "weth_marketplace": 8.279445242150327
     },
     {
-        "_id": "66943c68a9dd2e5698bf7782",
+        "_id": "66b60a82b80e57a1c1cfdd7c",
         "timestamp": "2022-07-10 00:00:00",
         "weth_marketplace": 5.36476549667727
     },
     {
-        "_id": "66943c68a9dd2e5698bf7784",
+        "_id": "66b60a82b80e57a1c1cfdd7e",
         "timestamp": "2022-07-11 00:00:00",
         "weth_marketplace": 7.163231460761245
     },
     {
-        "_id": "66943c68a9dd2e5698bf7786",
+        "_id": "66b60a82b80e57a1c1cfdd80",
         "timestamp": "2022-07-12 00:00:00",
         "weth_marketplace": 6.3221090449062345
     },
     {
-        "_id": "66943c68a9dd2e5698bf7788",
+        "_id": "66b60a82b80e57a1c1cfdd82",
         "timestamp": "2022-07-13 00:00:00",
         "weth_marketplace": 7.613169891740515
     },
     {
-        "_id": "66943c68a9dd2e5698bf778a",
+        "_id": "66b60a82b80e57a1c1cfdd84",
         "timestamp": "2022-07-14 00:00:00",
         "weth_marketplace": 12.074155515808902
     },
     {
-        "_id": "66943c68a9dd2e5698bf778c",
+        "_id": "66b60a82b80e57a1c1cfdd86",
         "timestamp": "2022-07-15 00:00:00",
         "weth_marketplace": 9.696211202729433
     },
     {
-        "_id": "66943c68a9dd2e5698bf778e",
+        "_id": "66b60a82b80e57a1c1cfdd88",
         "timestamp": "2022-07-16 00:00:00",
         "weth_marketplace": 6.827894331956224
     },
     {
-        "_id": "66943c68a9dd2e5698bf7790",
+        "_id": "66b60a82b80e57a1c1cfdd8a",
         "timestamp": "2022-07-17 00:00:00",
         "weth_marketplace": 7.305487520753641
     },
     {
-        "_id": "66943c68a9dd2e5698bf7792",
+        "_id": "66b60a82b80e57a1c1cfdd8c",
         "timestamp": "2022-07-18 00:00:00",
         "weth_marketplace": 6.156699795533312
     },
     {
-        "_id": "66943c68a9dd2e5698bf7794",
+        "_id": "66b60a82b80e57a1c1cfdd8e",
         "timestamp": "2022-07-19 00:00:00",
         "weth_marketplace": 7.111401166527824
     },
     {
-        "_id": "66943c68a9dd2e5698bf7796",
+        "_id": "66b60a82b80e57a1c1cfdd90",
         "timestamp": "2022-07-20 00:00:00",
         "weth_marketplace": 5.233036801302044
     },
     {
-        "_id": "66943c68a9dd2e5698bf7798",
+        "_id": "66b60a82b80e57a1c1cfdd92",
         "timestamp": "2022-07-21 00:00:00",
         "weth_marketplace": 4.743081527878915
     },
     {
-        "_id": "66943c68a9dd2e5698bf779a",
+        "_id": "66b60a82b80e57a1c1cfdd94",
         "timestamp": "2022-07-22 00:00:00",
         "weth_marketplace": 4.428188282390593
     },
     {
-        "_id": "66943c68a9dd2e5698bf779c",
+        "_id": "66b60a82b80e57a1c1cfdd96",
         "timestamp": "2022-07-23 00:00:00",
         "weth_marketplace": 4.133186559289068
     },
     {
-        "_id": "66943c68a9dd2e5698bf779e",
+        "_id": "66b60a82b80e57a1c1cfdd98",
         "timestamp": "2022-07-24 00:00:00",
         "weth_marketplace": 4.285565412008365
     },
     {
-        "_id": "66943c68a9dd2e5698bf77a0",
+        "_id": "66b60a82b80e57a1c1cfdd9a",
         "timestamp": "2022-07-25 00:00:00",
         "weth_marketplace": 3.7615634760761014
     },
     {
-        "_id": "66943c68a9dd2e5698bf77a2",
+        "_id": "66b60a82b80e57a1c1cfdd9c",
         "timestamp": "2022-07-26 00:00:00",
         "weth_marketplace": 3.7147981361928517
     },
     {
-        "_id": "66943c68a9dd2e5698bf77a4",
+        "_id": "66b60a82b80e57a1c1cfdd9e",
         "timestamp": "2022-07-27 00:00:00",
         "weth_marketplace": 5.737406065076319
     },
     {
-        "_id": "66943c68a9dd2e5698bf77a6",
+        "_id": "66b60a82b80e57a1c1cfdda0",
         "timestamp": "2022-07-28 00:00:00",
         "weth_marketplace": 4.259027018326057
     },
     {
-        "_id": "66943c68a9dd2e5698bf77a8",
+        "_id": "66b60a82b80e57a1c1cfdda2",
         "timestamp": "2022-07-29 00:00:00",
         "weth_marketplace": 4.060923891877626
     },
     {
-        "_id": "66943c68a9dd2e5698bf77aa",
+        "_id": "66b60a82b80e57a1c1cfdda4",
         "timestamp": "2022-07-30 00:00:00",
         "weth_marketplace": 4.450014341242823
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ac",
+        "_id": "66b60a82b80e57a1c1cfdda6",
         "timestamp": "2022-07-31 00:00:00",
         "weth_marketplace": 3.2693201572174915
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ae",
+        "_id": "66b60a82b80e57a1c1cfdda8",
         "timestamp": "2022-08-01 00:00:00",
         "weth_marketplace": 3.5308162542588604
     },
     {
-        "_id": "66943c68a9dd2e5698bf77b0",
+        "_id": "66b60a82b80e57a1c1cfddaa",
         "timestamp": "2022-08-02 00:00:00",
         "weth_marketplace": 5.801061368772708
     },
     {
-        "_id": "66943c68a9dd2e5698bf77b2",
+        "_id": "66b60a82b80e57a1c1cfddac",
         "timestamp": "2022-08-03 00:00:00",
         "weth_marketplace": 3.0774616601110534
     },
     {
-        "_id": "66943c68a9dd2e5698bf77b4",
+        "_id": "66b60a82b80e57a1c1cfddae",
         "timestamp": "2022-08-04 00:00:00",
         "weth_marketplace": 5.4442051789250625
     },
     {
-        "_id": "66943c68a9dd2e5698bf77b6",
+        "_id": "66b60a82b80e57a1c1cfddb0",
         "timestamp": "2022-08-05 00:00:00",
         "weth_marketplace": 4.426090548193212
     },
     {
-        "_id": "66943c68a9dd2e5698bf77b8",
+        "_id": "66b60a82b80e57a1c1cfddb2",
         "timestamp": "2022-08-06 00:00:00",
         "weth_marketplace": 3.2667138880396123
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ba",
+        "_id": "66b60a82b80e57a1c1cfddb4",
         "timestamp": "2022-08-07 00:00:00",
         "weth_marketplace": 4.595084754898255
     },
     {
-        "_id": "66943c68a9dd2e5698bf77bc",
+        "_id": "66b60a82b80e57a1c1cfddb6",
         "timestamp": "2022-08-08 00:00:00",
         "weth_marketplace": 3.226084559651687
     },
     {
-        "_id": "66943c68a9dd2e5698bf77be",
+        "_id": "66b60a82b80e57a1c1cfddb8",
         "timestamp": "2022-08-09 00:00:00",
         "weth_marketplace": 4.277870393900721
     },
     {
-        "_id": "66943c68a9dd2e5698bf77c0",
+        "_id": "66b60a82b80e57a1c1cfddba",
         "timestamp": "2022-08-10 00:00:00",
         "weth_marketplace": 3.7822507169683584
     },
     {
-        "_id": "66943c68a9dd2e5698bf77c2",
+        "_id": "66b60a82b80e57a1c1cfddbc",
         "timestamp": "2022-08-11 00:00:00",
         "weth_marketplace": 4.673693891650356
     },
     {
-        "_id": "66943c68a9dd2e5698bf77c4",
+        "_id": "66b60a82b80e57a1c1cfddbe",
         "timestamp": "2022-08-12 00:00:00",
         "weth_marketplace": 5.234598835299291
     },
     {
-        "_id": "66943c68a9dd2e5698bf77c6",
+        "_id": "66b60a82b80e57a1c1cfddc0",
         "timestamp": "2022-08-13 00:00:00",
         "weth_marketplace": 5.026155275615652
     },
     {
-        "_id": "66943c68a9dd2e5698bf77c8",
+        "_id": "66b60a82b80e57a1c1cfddc2",
         "timestamp": "2022-08-14 00:00:00",
         "weth_marketplace": 5.565951764407987
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ca",
+        "_id": "66b60a82b80e57a1c1cfddc4",
         "timestamp": "2022-08-15 00:00:00",
         "weth_marketplace": 6.45494467886854
     },
     {
-        "_id": "66943c68a9dd2e5698bf77cc",
+        "_id": "66b60a82b80e57a1c1cfddc6",
         "timestamp": "2022-08-16 00:00:00",
         "weth_marketplace": 5.96564799455192
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ce",
+        "_id": "66b60a82b80e57a1c1cfddc8",
         "timestamp": "2022-08-17 00:00:00",
         "weth_marketplace": 5.964865858003722
     },
     {
-        "_id": "66943c68a9dd2e5698bf77d0",
+        "_id": "66b60a82b80e57a1c1cfddca",
         "timestamp": "2022-08-18 00:00:00",
         "weth_marketplace": 6.24335094137596
     },
     {
-        "_id": "66943c68a9dd2e5698bf77d2",
+        "_id": "66b60a82b80e57a1c1cfddcc",
         "timestamp": "2022-08-19 00:00:00",
         "weth_marketplace": 10.4214149975077
     },
     {
-        "_id": "66943c68a9dd2e5698bf77d4",
+        "_id": "66b60a82b80e57a1c1cfddce",
         "timestamp": "2022-08-20 00:00:00",
         "weth_marketplace": 7.585900795060099
     },
     {
-        "_id": "66943c68a9dd2e5698bf77d6",
+        "_id": "66b60a82b80e57a1c1cfddd0",
         "timestamp": "2022-08-21 00:00:00",
         "weth_marketplace": 6.904854381372184
     },
     {
-        "_id": "66943c68a9dd2e5698bf77d8",
+        "_id": "66b60a82b80e57a1c1cfddd2",
         "timestamp": "2022-08-22 00:00:00",
         "weth_marketplace": 6.523817544350203
     },
     {
-        "_id": "66943c68a9dd2e5698bf77da",
+        "_id": "66b60a82b80e57a1c1cfddd4",
         "timestamp": "2022-08-23 00:00:00",
         "weth_marketplace": 6.481757194629477
     },
     {
-        "_id": "66943c68a9dd2e5698bf77dc",
+        "_id": "66b60a82b80e57a1c1cfddd6",
         "timestamp": "2022-08-24 00:00:00",
         "weth_marketplace": 6.499369951279339
     },
     {
-        "_id": "66943c68a9dd2e5698bf77de",
+        "_id": "66b60a82b80e57a1c1cfddd8",
         "timestamp": "2022-08-25 00:00:00",
         "weth_marketplace": 6.095536551304251
     },
     {
-        "_id": "66943c68a9dd2e5698bf77e0",
+        "_id": "66b60a82b80e57a1c1cfddda",
         "timestamp": "2022-08-26 00:00:00",
         "weth_marketplace": 8.403248283114316
     },
     {
-        "_id": "66943c68a9dd2e5698bf77e2",
+        "_id": "66b60a82b80e57a1c1cfdddc",
         "timestamp": "2022-08-27 00:00:00",
         "weth_marketplace": 7.1725688682857385
     },
     {
-        "_id": "66943c68a9dd2e5698bf77e4",
+        "_id": "66b60a82b80e57a1c1cfddde",
         "timestamp": "2022-08-28 00:00:00",
         "weth_marketplace": 11.145714478164637
     },
     {
-        "_id": "66943c68a9dd2e5698bf77e6",
+        "_id": "66b60a82b80e57a1c1cfdde0",
         "timestamp": "2022-08-29 00:00:00",
         "weth_marketplace": 6.073868181062661
     },
     {
-        "_id": "66943c68a9dd2e5698bf77e8",
+        "_id": "66b60a82b80e57a1c1cfdde2",
         "timestamp": "2022-08-30 00:00:00",
         "weth_marketplace": 5.440212953365945
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ea",
+        "_id": "66b60a82b80e57a1c1cfdde4",
         "timestamp": "2022-08-31 00:00:00",
         "weth_marketplace": 12.13283481937443
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ec",
+        "_id": "66b60a82b80e57a1c1cfdde6",
         "timestamp": "2022-09-01 00:00:00",
         "weth_marketplace": 5.4946484130046045
     },
     {
-        "_id": "66943c68a9dd2e5698bf77ee",
+        "_id": "66b60a82b80e57a1c1cfdde8",
         "timestamp": "2022-09-02 00:00:00",
         "weth_marketplace": 6.672594553747954
     },
     {
-        "_id": "66943c68a9dd2e5698bf77f0",
+        "_id": "66b60a82b80e57a1c1cfddea",
         "timestamp": "2022-09-03 00:00:00",
         "weth_marketplace": 5.392260960828296
     },
     {
-        "_id": "66943c68a9dd2e5698bf77f2",
+        "_id": "66b60a82b80e57a1c1cfddec",
         "timestamp": "2022-09-04 00:00:00",
         "weth_marketplace": 6.0519520754973914
     },
     {
-        "_id": "66943c68a9dd2e5698bf77f4",
+        "_id": "66b60a82b80e57a1c1cfddee",
         "timestamp": "2022-09-05 00:00:00",
         "weth_marketplace": 5.107396267491085
     },
     {
-        "_id": "66943c68a9dd2e5698bf77f6",
+        "_id": "66b60a82b80e57a1c1cfddf0",
         "timestamp": "2022-09-06 00:00:00",
         "weth_marketplace": 4.0823379979389
     },
     {
-        "_id": "66943c68a9dd2e5698bf77f8",
+        "_id": "66b60a82b80e57a1c1cfddf2",
         "timestamp": "2022-09-07 00:00:00",
         "weth_marketplace": 4.611704073787373
     },
     {
-        "_id": "66943c68a9dd2e5698bf77fa",
+        "_id": "66b60a82b80e57a1c1cfddf4",
         "timestamp": "2022-09-08 00:00:00",
         "weth_marketplace": 5.832462151242502
     },
     {
-        "_id": "66943c68a9dd2e5698bf77fc",
+        "_id": "66b60a82b80e57a1c1cfddf6",
         "timestamp": "2022-09-09 00:00:00",
         "weth_marketplace": 3.1124964470309067
     },
     {
-        "_id": "66943c68a9dd2e5698bf77fe",
+        "_id": "66b60a82b80e57a1c1cfddf8",
         "timestamp": "2022-09-10 00:00:00",
         "weth_marketplace": 2.938763789733886
     },
     {
-        "_id": "66943c68a9dd2e5698bf7800",
+        "_id": "66b60a82b80e57a1c1cfddfa",
         "timestamp": "2022-09-11 00:00:00",
         "weth_marketplace": 2.90021142270597
     },
     {
-        "_id": "66943c68a9dd2e5698bf7802",
+        "_id": "66b60a82b80e57a1c1cfddfc",
         "timestamp": "2022-09-12 00:00:00",
         "weth_marketplace": 2.3087913548551438
     },
     {
-        "_id": "66943c68a9dd2e5698bf7804",
+        "_id": "66b60a82b80e57a1c1cfddfe",
         "timestamp": "2022-09-13 00:00:00",
         "weth_marketplace": 2.6646584042768753
     },
     {
-        "_id": "66943c68a9dd2e5698bf7806",
+        "_id": "66b60a82b80e57a1c1cfde00",
         "timestamp": "2022-09-14 00:00:00",
         "weth_marketplace": 3.8050559882608117
     },
     {
-        "_id": "66943c68a9dd2e5698bf7808",
+        "_id": "66b60a82b80e57a1c1cfde02",
         "timestamp": "2022-09-15 00:00:00",
         "weth_marketplace": 4.155446076337845
     },
     {
-        "_id": "66943c68a9dd2e5698bf780a",
+        "_id": "66b60a82b80e57a1c1cfde04",
         "timestamp": "2022-09-16 00:00:00",
         "weth_marketplace": 3.682624500856667
     },
     {
-        "_id": "66943c68a9dd2e5698bf780c",
+        "_id": "66b60a82b80e57a1c1cfde06",
         "timestamp": "2022-09-17 00:00:00",
         "weth_marketplace": 3.483322384521
     },
     {
-        "_id": "66943c68a9dd2e5698bf780e",
+        "_id": "66b60a82b80e57a1c1cfde08",
         "timestamp": "2022-09-18 00:00:00",
         "weth_marketplace": 4.638045861855518
     },
     {
-        "_id": "66943c68a9dd2e5698bf7810",
+        "_id": "66b60a82b80e57a1c1cfde0a",
         "timestamp": "2022-09-19 00:00:00",
         "weth_marketplace": 5.294671986789781
     },
     {
-        "_id": "66943c68a9dd2e5698bf7812",
+        "_id": "66b60a82b80e57a1c1cfde0c",
         "timestamp": "2022-09-20 00:00:00",
         "weth_marketplace": 3.994790877417996
     },
     {
-        "_id": "66943c68a9dd2e5698bf7814",
+        "_id": "66b60a82b80e57a1c1cfde0e",
         "timestamp": "2022-09-21 00:00:00",
         "weth_marketplace": 5.445478954604588
     },
     {
-        "_id": "66943c68a9dd2e5698bf7816",
+        "_id": "66b60a82b80e57a1c1cfde10",
         "timestamp": "2022-09-22 00:00:00",
         "weth_marketplace": 6.460199291740308
     },
     {
-        "_id": "66943c68a9dd2e5698bf7818",
+        "_id": "66b60a82b80e57a1c1cfde12",
         "timestamp": "2022-09-23 00:00:00",
         "weth_marketplace": 6.41262986742609
     },
     {
-        "_id": "66943c68a9dd2e5698bf781a",
+        "_id": "66b60a82b80e57a1c1cfde14",
         "timestamp": "2022-09-24 00:00:00",
         "weth_marketplace": 6.030253687325664
     },
     {
-        "_id": "66943c68a9dd2e5698bf781c",
+        "_id": "66b60a82b80e57a1c1cfde16",
         "timestamp": "2022-09-25 00:00:00",
         "weth_marketplace": 7.853920646743699
     },
     {
-        "_id": "66943c68a9dd2e5698bf781e",
+        "_id": "66b60a82b80e57a1c1cfde18",
         "timestamp": "2022-09-26 00:00:00",
         "weth_marketplace": 5.498521818304584
     },
     {
-        "_id": "66943c68a9dd2e5698bf7820",
+        "_id": "66b60a82b80e57a1c1cfde1a",
         "timestamp": "2022-09-27 00:00:00",
         "weth_marketplace": 7.22829523181326
     },
     {
-        "_id": "66943c68a9dd2e5698bf7822",
+        "_id": "66b60a82b80e57a1c1cfde1c",
         "timestamp": "2022-09-28 00:00:00",
         "weth_marketplace": 7.59481998453204
     },
     {
-        "_id": "66943c68a9dd2e5698bf7824",
+        "_id": "66b60a82b80e57a1c1cfde1e",
         "timestamp": "2022-09-29 00:00:00",
         "weth_marketplace": 7.886934532981974
     },
     {
-        "_id": "66943c68a9dd2e5698bf7826",
+        "_id": "66b60a82b80e57a1c1cfde20",
         "timestamp": "2022-09-30 00:00:00",
         "weth_marketplace": 6.088995090945691
     },
     {
-        "_id": "66943c68a9dd2e5698bf7828",
+        "_id": "66b60a82b80e57a1c1cfde22",
         "timestamp": "2022-10-01 00:00:00",
         "weth_marketplace": 5.674560424100877
     },
     {
-        "_id": "66943c68a9dd2e5698bf782a",
+        "_id": "66b60a82b80e57a1c1cfde24",
         "timestamp": "2022-10-02 00:00:00",
         "weth_marketplace": 5.4662468126589685
     },
     {
-        "_id": "66943c68a9dd2e5698bf782c",
+        "_id": "66b60a82b80e57a1c1cfde26",
         "timestamp": "2022-10-03 00:00:00",
         "weth_marketplace": 5.9084930401195965
     },
     {
-        "_id": "66943c68a9dd2e5698bf782e",
+        "_id": "66b60a82b80e57a1c1cfde28",
         "timestamp": "2022-10-04 00:00:00",
         "weth_marketplace": 5.1448518685655955
     },
     {
-        "_id": "66943c68a9dd2e5698bf7830",
+        "_id": "66b60a82b80e57a1c1cfde2a",
         "timestamp": "2022-10-05 00:00:00",
         "weth_marketplace": 6.1855533533137725
     },
     {
-        "_id": "66943c68a9dd2e5698bf7832",
+        "_id": "66b60a82b80e57a1c1cfde2c",
         "timestamp": "2022-10-06 00:00:00",
         "weth_marketplace": 6.215084925564105
     },
     {
-        "_id": "66943c68a9dd2e5698bf7834",
+        "_id": "66b60a82b80e57a1c1cfde2e",
         "timestamp": "2022-10-07 00:00:00",
         "weth_marketplace": 5.46529923029795
     },
     {
-        "_id": "66943c68a9dd2e5698bf7836",
+        "_id": "66b60a82b80e57a1c1cfde30",
         "timestamp": "2022-10-08 00:00:00",
         "weth_marketplace": 5.648010580271322
     },
     {
-        "_id": "66943c68a9dd2e5698bf7838",
+        "_id": "66b60a82b80e57a1c1cfde32",
         "timestamp": "2022-10-09 00:00:00",
         "weth_marketplace": 5.2773354852723875
     },
     {
-        "_id": "66943c68a9dd2e5698bf783a",
+        "_id": "66b60a82b80e57a1c1cfde34",
         "timestamp": "2022-10-10 00:00:00",
         "weth_marketplace": 7.338124330212119
     }

@@ -17,7 +17,7 @@ cd streamlit
 
 3 - Install the requirements:
 ```bash
-pip install -r requirements.txt
+pip install requirements.txt
 ```
 
 4 - Get the server page running:
@@ -27,5 +27,5 @@ streamlit run Homepage.py
 
 ### Online app:
 
-It is also possible to see the app MVP via the link.
-(https://govhackaton.streamlit.app/)
+It is also possible to use the Frontend via the link.
+https://.../

@@ -3,6 +3,7 @@ import streamlit as st
 import altair as alt
 import json
 import os
+import datetime
 
 # Define paths for data files
 frontend_data_path = os.path.join(os.path.dirname(__file__), 'frontend_data.json')
@@ -86,26 +87,30 @@ accumulated_parts_evol = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.
 accumulated_rc_mint = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['axs_r&cMint'].sum()
 accumulated_total_axs = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['Daily AXS'].sum()
 
-# Function to get the latest AXS price from the currency data
-def get_current_axs_price():
-    latest_currency = currency_data[-1]
-    if 'axs_price' in latest_currency:
-        return latest_currency['axs_price']
+# Function to get the latest AXS price and timestamp from the currency data
+def get_current_axs_price_and_timestamp():
+    latest_currency = currency_data[-1]  # Assuming the last entry is the most recent
+    if 'axs_price' in latest_currency and 'timestamp' in latest_currency:
+        axs_price = latest_currency['axs_price']
+        axs_timestamp = pd.to_datetime(latest_currency['timestamp']['$date']) if isinstance(latest_currency['timestamp'], dict) and '$date' in latest_currency['timestamp'] else pd.to_datetime(latest_currency['timestamp'])
+        return axs_price, axs_timestamp
     else:
-        return None
+        return None, None
 
-# Get the current AXS price and calculate total value in USD
-current_axs_price = get_current_axs_price()
-if current_axs_price is not None:
-    total_value_usd = accumulated_total_axs * current_axs_price
-else:
-    total_value_usd = None
+# Get the current AXS price and timestamp
+current_axs_price, axs_timestamp = get_current_axs_price_and_timestamp()
 
 # Display the accumulated total AXS in a single metric box above the others
-if total_value_usd is not None:
+if current_axs_price is not None and axs_timestamp is not None:
+    total_value_usd = accumulated_total_axs * current_axs_price
     st.markdown(f"<h3 style='text-align: center;'>Total AXS: {accumulated_total_axs:,.2f} (${total_value_usd:,.2f})</h3>", unsafe_allow_html=True)
+    st.markdown(f"<p style='text-align: center; color: grey;'>AXS price: ${current_axs_price:.2f} ({axs_timestamp.strftime('%Y-%m-%d')})</p>", unsafe_allow_html=True)
 else:
     st.markdown(f"<h3 style='text-align: center;'>Total AXS: {accumulated_total_axs:,.2f} (Price data not available)</h3>", unsafe_allow_html=True)
+    if axs_timestamp is not None:
+        st.markdown(f"<p style='text-align: center; color: grey;'>Current AXS Price: N/A (as of {axs_timestamp.strftime('%Y-%m-%d %H:%M:%S')})</p>", unsafe_allow_html=True)
+    else:
+        st.markdown(f"<p style='text-align: center; color: grey;'>Current AXS Price: N/A</p>", unsafe_allow_html=True)
 
 # Display the accumulated sums in metric boxes side by side
 col1, col2, col3, col4 = st.columns(4)

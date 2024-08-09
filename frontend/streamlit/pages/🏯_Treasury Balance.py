@@ -55,6 +55,15 @@ df.loc[df['tokenSymbol'] == 'WETH', 'converted_value'] = df['std_value'] * weth_
 st.markdown(f"<h1 style='color: #4CAF50;'>Treasury Balance</h1>", unsafe_allow_html=True)
 st.markdown(f"<h5 style='color: #777;'>As of: {latest_currency_timestamp_human}</h5>", unsafe_allow_html=True)
 
+# Add WETH and AXS prices below the 'As of:' line
+st.markdown(
+    f"<p style='font-size: 1.2em; color: #555;'>"
+    f"<strong>WETH Price:</strong> ${weth_to_usd_rate:,.2f} | "
+    f"<strong>AXS Price:</strong> ${axs_to_usd_rate:,.2f}"
+    f"</p>",
+    unsafe_allow_html=True
+)
+
 weth_value = df[df['tokenSymbol'] == 'WETH']['std_value'].values[0]
 weth_converted_value = df[df['tokenSymbol'] == 'WETH']['converted_value'].values[0]
 st.markdown(f"<h3>WETH: {weth_value:,.2f} <span style='font-size: 0.8em;'>(<strong>${weth_converted_value:,.2f}</strong>)</span></h3>", unsafe_allow_html=True)
