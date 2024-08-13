@@ -1,10 +1,6 @@
 from pymongo import MongoClient
 from bson import SON
 
-# This script will merge all WETH transactions from the treasury into daily sums
-# The values received by both old and new treasury will be treated here
-# Transfer txn from old to new treasury omit to prevent wrong analysis
-
 client = MongoClient("mongodb://localhost:27017/")
 db = client["treasury"]
 new_treasury = db['new_treasury']
@@ -68,13 +64,20 @@ def process_treasury(collection, wallet):
 
     for doc in result:
         timestamp = doc["timestamp"]
+        unix_timestamp = int(timestamp.timestamp())  # Convert to Unix timestamp
         if timestamp not in final_results:
-            final_results[timestamp] = {"timestamp": timestamp}
+            final_results[timestamp] = {
+                "timestamp": timestamp,
+                "date": unix_timestamp  # Add the new "date" field
+            }
         final_results[timestamp]["weth_marketplace"] = doc["weth_marketplace"]
 
     for doc in final_results.values():
         timestamp = doc["timestamp"]
-        update_fields = {"weth_marketplace": doc["weth_marketplace"]}
+        update_fields = {
+            "weth_marketplace": doc["weth_marketplace"],
+            "date": doc["date"]  # Include the new "date" field in the update
+        }
         frontend_data.update_one(
             {"timestamp": timestamp},
             {"$set": update_fields},

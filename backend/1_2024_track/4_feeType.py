@@ -8,7 +8,7 @@ from pymongo import MongoClient
 client = MongoClient('mongodb://localhost:27017/')
 db = client['treasury']
 collection = db['recent_data']
-api_key = 'YOUR_API_KEY'
+api_key = 'mTdQVDJpk9EEkLHEYQ9op60FZQt1HvE9'
 
 def determine_fee_type(doc):
     items = doc.get('items', [])
@@ -85,9 +85,9 @@ for i in range(0, total_hashes, batch_size):
                     grouped_data[transaction_hash] = []
                 grouped_data[transaction_hash].append(item)
 
-            batch_updated_ids = update_existing_data(grouped_data, db, 'new_treasury')
+            batch_updated_ids = update_existing_data(grouped_data, db, 'recent_data')
             updated_ids.extend(batch_updated_ids)
-            print(f"Updated {len(batch_updated_ids)} documents in 'new_treasury' collection for batch {i // batch_size + 1}.")
+            print(f"Updated {len(batch_updated_ids)} documents in 'recent_data' collection for batch {i // batch_size + 1}.")
         except json.JSONDecodeError as e:
             print(f"Failed to decode JSON response: {e}")
         except KeyError as e:

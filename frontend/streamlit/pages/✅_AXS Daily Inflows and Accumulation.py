@@ -79,6 +79,10 @@ end_date = st.date_input('End date', value=df['Date'].max().date())
 # Filter data based on selected date range
 filtered_cumulative_df = cumulative_df[(cumulative_df['Date'].dt.date >= start_date) & (cumulative_df['Date'].dt.date <= end_date)]
 filtered_daily_df = daily_df[(daily_df['Date'].dt.date >= start_date) & (daily_df['Date'].dt.date <= end_date)]
+breeding_df = daily_df[(daily_df['Category'] == 'Breeding') & (daily_df['Date'].dt.date >= start_date) & (daily_df['Date'].dt.date <= end_date)]
+rc_mint_df = daily_df[(daily_df['Category'] == 'R&C Mint') & (daily_df['Date'].dt.date >= start_date) & (daily_df['Date'].dt.date <= end_date)]
+parts_evol_df = daily_df[(daily_df['Category'] == 'Parts Evolution') & (daily_df['Date'].dt.date >= start_date) & (daily_df['Date'].dt.date <= end_date)]
+ascension_df = daily_df[(daily_df['Category'] == 'Ascension') & (daily_df['Date'].dt.date >= start_date) & (daily_df['Date'].dt.date <= end_date)]
 
 # Calculate accumulated sums for each inflow type using the filter
 accumulated_ascension = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['axs_ascending'].sum()
@@ -138,6 +142,28 @@ tooltip_daily = [
     alt.Tooltip('axs_r&cMint:Q', title='Daily R&C Mint', format=",.2f")
 ]
 
+# Define tooltip for the Breeding chart
+tooltip_breeding = [
+    alt.Tooltip('Date:T', title='Date'),
+    alt.Tooltip('AXS:Q', title='Daily Breeding AXS', format=",.2f")
+]
+
+# Define tooltip for the R&C Mint chart
+tooltip_rc_mint = [
+    alt.Tooltip('Date:T', title='Date'),
+    alt.Tooltip('AXS:Q', title='Daily R&C Mint AXS', format=",.2f")
+]
+
+tooltip_parts_evol = [
+    alt.Tooltip('Date:T', title='Date'),
+    alt.Tooltip('AXS:Q', title='Daily Parts Evolution AXS', format=",.2f")
+]
+
+tooltip_ascension = [
+    alt.Tooltip('Date:T', title='Date'),
+    alt.Tooltip('AXS:Q', title='Daily Ascension AXS', format=",.2f")
+]
+
 # Chart 1: Cumulative Sum of AXS Values
 chart_cumulative = alt.Chart(filtered_cumulative_df).mark_bar().encode(
     x='Date:T',
@@ -151,6 +177,10 @@ chart_cumulative = alt.Chart(filtered_cumulative_df).mark_bar().encode(
 st.altair_chart(chart_cumulative, use_container_width=True)
 
 # Chart 2: Daily Sum of AXS Values
+# Calculate the average for Daily AXS values
+daily_axs_average = filtered_daily_df['Daily AXS'].mean()
+
+# Create the chart for Daily AXS values
 chart_daily_axs = alt.Chart(filtered_daily_df).mark_bar().encode(
     x='Date:T',
     y=alt.Y('AXS:Q', title='Daily AXS'),
@@ -160,4 +190,131 @@ chart_daily_axs = alt.Chart(filtered_daily_df).mark_bar().encode(
     title='Daily AXS Values by Category'
 ).interactive()
 
-st.altair_chart(chart_daily_axs, use_container_width=True)
+# Average Line for Daily AXS values
+average_line_daily_axs = alt.Chart(filtered_daily_df).mark_rule(color='red', strokeDash=[4,2]).encode(
+    y=alt.Y('mean(Daily AXS):Q', title='Average AXS'),
+    size=alt.value(2),
+    tooltip=[alt.Tooltip('mean(Daily AXS):Q', title='Average Daily AXS', format=",.2f")]
+).transform_window(
+    mean='mean(Daily AXS)',
+    frame=[None, None]
+)
+
+# Combine the charts
+chart_daily_axs_with_average = chart_daily_axs + average_line_daily_axs
+
+st.altair_chart(chart_daily_axs_with_average, use_container_width=True)
+
+# Chart 3: Daily Breeding Values (Line Chart with Median Line)
+# Calculate the average (mean) of the AXS values
+breeding_mean = breeding_df['AXS'].mean()
+
+# Line Chart for Daily Breeding Values
+chart_breeding = alt.Chart(breeding_df).mark_line().encode(
+    x='Date:T',
+    y=alt.Y('AXS:Q', title='Daily Breeding AXS'),
+    tooltip=tooltip_breeding
+).properties(
+    title='Daily Breeding AXS Values'
+).interactive()
+
+# Average Line with two decimal places in the tooltip
+mean_line = alt.Chart(breeding_df).mark_rule(color='blue', strokeDash=[4,2]).encode(
+    y=alt.Y('mean(AXS):Q', title='Average AXS'),
+    size=alt.value(2),
+    tooltip=[alt.Tooltip('mean(AXS):Q', title='Average AXS', format='.2f')]
+).transform_window(
+    mean='mean(AXS)',
+    frame=[None, None]
+)
+
+# Combine the charts
+chart_breeding_with_mean = chart_breeding + mean_line
+
+st.altair_chart(chart_breeding_with_mean, use_container_width=True)
+
+
+# Chart 4: Daily R&C Mint Values (Line Chart with Median Line)
+# Calculate the average for R&C Mint
+rc_mint_avg = rc_mint_df['AXS'].mean()
+chart_rc_mint = alt.Chart(rc_mint_df).mark_line().encode(
+    x='Date:T',
+    y=alt.Y('AXS:Q', title='Daily R&C Mint AXS'),
+    tooltip=tooltip_rc_mint
+).properties(
+    title='Daily R&C Mint AXS Values'
+).interactive()
+
+# Average Line for R&C Mint
+average_line_rc_mint = alt.Chart(rc_mint_df).mark_rule(color='blue', strokeDash=[4,2]).encode(
+    y=alt.Y('mean(AXS):Q', title='Average AXS'),
+    size=alt.value(2),
+    tooltip=[alt.Tooltip('mean(AXS):Q', title='Average AXS', format=",.2f")]
+).transform_window(
+    mean='mean(AXS)',
+    frame=[None, None]
+)
+
+# Combine the charts
+chart_rc_mint_with_average = chart_rc_mint + average_line_rc_mint
+
+st.altair_chart(chart_rc_mint_with_average, use_container_width=True)
+
+# Chart 5: Daily Parts Evolution Values (Line Chart with Median Line)
+# Calculate the average for Parts Evolution
+parts_evol_average = parts_evol_df['AXS'].mean()
+
+# Create the chart for Parts Evolution
+chart_parts_evol = alt.Chart(parts_evol_df).mark_line().encode(
+    x='Date:T',
+    y=alt.Y('AXS:Q', title='Daily Parts Evolution AXS'),
+    tooltip=tooltip_parts_evol
+).properties(
+    title='Daily Parts Evolution AXS Values'
+).interactive()
+
+# Average Line
+average_line_parts_evol = alt.Chart(parts_evol_df).mark_rule(color='green', strokeDash=[4,2]).encode(
+    y=alt.Y('mean(AXS):Q', title='Average AXS'),
+    size=alt.value(2),
+    tooltip=[alt.Tooltip('mean(AXS):Q', title='Average AXS', format=",.2f")]
+).transform_window(
+    mean='mean(AXS)',
+    frame=[None, None]
+)
+
+# Combine the charts
+chart_parts_evol_with_average = chart_parts_evol + average_line_parts_evol
+
+st.altair_chart(chart_parts_evol_with_average, use_container_width=True)
+
+# Chart 6: Daily Ascension Values (Line Chart)
+# Calculate the average for Ascension
+ascension_average = ascension_df['AXS'].mean()
+
+# Create the chart for Ascension
+chart_ascension = alt.Chart(ascension_df).mark_line().encode(
+    x='Date:T',
+    y=alt.Y('AXS:Q', title='Daily Ascension AXS'),
+    tooltip=tooltip_ascension
+).properties(
+    title='Daily Ascension AXS Values'
+).interactive()
+
+# Average Line for Ascension
+average_line_ascension = alt.Chart(ascension_df).mark_rule(color='orange', strokeDash=[4,2]).encode(
+    y=alt.Y('mean(AXS):Q', title='Average AXS'),
+    size=alt.value(2),
+    tooltip=[alt.Tooltip('mean(AXS):Q', title='Average AXS', format=",.2f")]
+).transform_window(
+    mean='mean(AXS)',
+    frame=[None, None]
+)
+
+# Combine the charts
+chart_ascension_with_average = chart_ascension + average_line_ascension
+
+st.altair_chart(chart_ascension_with_average, use_container_width=True)
+
+
+

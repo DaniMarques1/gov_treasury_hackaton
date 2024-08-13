@@ -40,13 +40,18 @@ For the most impact, we encourage participants to do both tracks and include int
 
 - Python
 - Streamlit
+- CSS
 - HTML
 
 ----------------------------------------------------------
 
 ### How to Use
 
+# Full Stack APP for Axie Gov Treasury Data Hackathon - Daniboo
+
 This app shows data tracked from the Axie Gov Treasury, utilizing charts for a visual analysis.
+
+### How to use
 
 1 - Copy the git repository:
 ```bash
@@ -61,7 +66,7 @@ cd streamlit
 
 3 - Install the requirements:
 ```bash
-pip install -r requirements.txt
+pip install requirements.txt
 ```
 
 4 - Get the server page running:
@@ -71,5 +76,5 @@ streamlit run Homepage.py
 
 ### Online app:
 
-It is also possible to see the app MVP via the link.
-(https://govhackaton.streamlit.app/)
+It is also possible to use the Frontend via the link.
+https://.../

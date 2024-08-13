@@ -1,0 +1,542 @@
+[
+    {
+        "_id": "66942b7845a462962e4d61b2",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22549769629569838492850401",
+                    "std_value": 22549769.62956984
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58483759313765090243592",
+                    "std_value": 58483.759313765084
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-07-14 19:48:08.140000"
+    },
+    {
+        "_id": "66942b8d6366cba7261803c9",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22549769629569838492850401",
+                    "std_value": 22549769.62956984
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58483759583062047743592",
+                    "std_value": 58483.75958306204
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-07-14 19:48:29.667000"
+    },
+    {
+        "_id": "66943c970c053307911e595b",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22549836706051012927141468",
+                    "std_value": 22549836.706051014
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58483784764347948393549",
+                    "std_value": 58483.784764347954
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-07-14 21:01:11.539000"
+    },
+    {
+        "_id": "66b2cabf03adcfc6f41857c5",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22573310019649416142356794",
+                    "std_value": 22573310.019649416
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58503058010079415370269",
+                    "std_value": 58503.05801007941
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-08-07 01:15:43.367000"
+    },
+    {
+        "_id": "66b4300356d2db5fc85615d1",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22574457658397643666497893",
+                    "std_value": 22574457.658397645
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58504045497029233809788",
+                    "std_value": 58504.045497029234
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-08-08 02:40:03.756000"
+    },
+    {
+        "_id": "66b609d28974c92cabb2e392",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22575638343991552555478299",
+                    "std_value": 22575638.343991555
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58505704688933708072605",
+                    "std_value": 58505.704688933714
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-08-09 12:21:38.302000"
+    },
+    {
+        "_id": "66b64b110ecf6c11d3dcfd35",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22575785529534570768979185",
+                    "std_value": 22575785.52953457
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58505879012177995045366",
+                    "std_value": 58505.87901217799
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-08-09 17:00:01.447000"
+    },
+    {
+        "_id": "66b78ecef3c29b1bee6ca530",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22576487824098588318393205",
+                    "std_value": 22576487.824098587
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58506872416322181802030",
+                    "std_value": 58506.872416322185
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-08-10 16:01:18.765000"
+    },
+    {
+        "_id": "66ba1fcbb447727a240f8dd2",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22578283724320448839365177",
+                    "std_value": 22578283.72432045
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58508210451162165209842",
+                    "std_value": 58508.210451162166
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-08-12 14:44:27.973000"
+    },
+    {
+        "_id": "66bac061e15830568e8acd17",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22578760244899953527318752",
+                    "std_value": 22578760.24489995
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58508637365530370428751",
+                    "std_value": 58508.63736553037
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-08-13 02:09:37.047000"
+    }
+]

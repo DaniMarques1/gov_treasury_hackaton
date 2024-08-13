@@ -8,7 +8,7 @@ from pymongo import MongoClient
 client = MongoClient('mongodb://localhost:27017/')
 db = client['treasury']
 collection = db['recent_data']
-api_key = 'YOUR_API_KEY' # You need to ask SM an auth for your key to use this endpoint
+api_key = 'slsCbZRBaYdOIvQvpvRyKhfcIsnKCWZU' # You need to ask SM an auth for your key to use this endpoint
 
 url = "https://api-gateway.skymavis.com/skynet-tx-query/ronin/tokens/transfers/search"
 
@@ -16,8 +16,9 @@ addresses = [
     "0x245db945c485b68fdc429e4f7085a1761aa4d45d"
 ]
 
-start_block = 30746338  # First block from 1st January 2024
-end_block = 36385015  # Block from 14th July 2024
+start_block = 37212718+1  # First block from 1st January 2024
+end_block = 37226611  # Block from 9t August 2024
+
 block_step = 200
 
 total_requests = 0
