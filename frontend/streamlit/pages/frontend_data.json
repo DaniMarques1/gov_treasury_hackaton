@@ -6168,13 +6168,13 @@
         "weth_marketplace": 1.0385129347918172
     },
     {
-        "_id": "66c340c95ab596d2db9b730c",
+        "_id": "66c37a725ab596d2dba08def",
         "timestamp": "2024-08-19 00:00:00",
-        "axs_ascending": 194.86022169101383,
-        "axs_breeding": 126.0,
-        "axs_partsEvol": 215.92046016095654,
-        "axs_r&cMint": 2.9416462136460333,
+        "axs_ascending": 259.7920987655306,
+        "axs_breeding": 165.0,
+        "axs_partsEvol": 311.94919706935406,
+        "axs_r&cMint": 3.6045668323158306,
         "date": 1724036400,
-        "weth_marketplace": 0.2722724656108997
+        "weth_marketplace": 2.1056841860261533
     }
 ]
