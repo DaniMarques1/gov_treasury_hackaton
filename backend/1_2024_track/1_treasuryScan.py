@@ -8,7 +8,7 @@ from pymongo import MongoClient
 client = MongoClient('mongodb://localhost:27017/')
 db = client['treasury']
 collection = db['recent_data']
-api_key = 'slsCbZRBaYdOIvQvpvRyKhfcIsnKCWZU' # You need to ask SM an auth for your key to use this endpoint
+api_key = 'YOUR_API_KEY' # You need to ask SM an auth for your key to use this endpoint
 
 url = "https://api-gateway.skymavis.com/skynet-tx-query/ronin/tokens/transfers/search"
 
