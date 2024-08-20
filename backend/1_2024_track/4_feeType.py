@@ -8,7 +8,7 @@ from pymongo import MongoClient
 client = MongoClient('mongodb://localhost:27017/')
 db = client['treasury']
 collection = db['recent_data']
-api_key = 'mTdQVDJpk9EEkLHEYQ9op60FZQt1HvE9'
+api_key = 'YOUR_API_KEY'
 
 def determine_fee_type(doc):
     items = doc.get('items', [])
