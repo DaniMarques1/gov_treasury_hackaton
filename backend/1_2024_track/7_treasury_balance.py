@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 client = MongoClient('mongodb://localhost:27017/')
 db = client['treasury']
 collection = db['balance']
-api_key = 'slsCbZRBaYdOIvQvpvRyKhfcIsnKCWZU'
+api_key = 'YOUR_API_KEY'
 
 # API request
 url = "https://api-gateway.skymavis.com/skynet/ronin/tokens/balances/summary"
