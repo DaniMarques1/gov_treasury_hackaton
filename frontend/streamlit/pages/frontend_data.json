@@ -6168,7 +6168,7 @@
         "weth_marketplace": 1.0385129347918172
     },
     {
-        "_id": "66ca7f932f78ca368ca5e9b4",
+        "_id": "66cbbd652f78ca368caca683",
         "timestamp": "2024-08-19 00:00:00",
         "axs_ascending": 341.27535868009824,
         "axs_breeding": 263.0,
@@ -6178,7 +6178,7 @@
         "weth_marketplace": 2.2707803419321975
     },
     {
-        "_id": "66ca7f932f78ca368ca5e9b6",
+        "_id": "66cbbd652f78ca368caca685",
         "timestamp": "2024-08-20 00:00:00",
         "axs_ascending": 321.54868699654844,
         "axs_breeding": 240.0,
@@ -6188,7 +6188,7 @@
         "weth_marketplace": 0.6427394469048736
     },
     {
-        "_id": "66ca7f932f78ca368ca5e9b8",
+        "_id": "66cbbd652f78ca368caca687",
         "timestamp": "2024-08-21 00:00:00",
         "axs_ascending": 362.27687131969265,
         "axs_breeding": 228.0,
@@ -6198,7 +6198,7 @@
         "weth_marketplace": 0.7928539635329371
     },
     {
-        "_id": "66ca7f932f78ca368ca5e9ba",
+        "_id": "66cbbd652f78ca368caca689",
         "timestamp": "2024-08-22 00:00:00",
         "axs_ascending": 388.3234720150395,
         "axs_breeding": 317.0,
@@ -6208,7 +6208,7 @@
         "weth_marketplace": 0.7493073592453129
     },
     {
-        "_id": "66ca7f932f78ca368ca5e9bc",
+        "_id": "66cbbd652f78ca368caca68b",
         "timestamp": "2024-08-23 00:00:00",
         "axs_ascending": 353.2317293889505,
         "axs_breeding": 239.0,
@@ -6218,7 +6218,7 @@
         "weth_marketplace": 1.17865026031249
     },
     {
-        "_id": "66ca7f932f78ca368ca5e9be",
+        "_id": "66cbbd652f78ca368caca68d",
         "timestamp": "2024-08-24 00:00:00",
         "axs_ascending": 299.36802558615756,
         "axs_breeding": 227.5,
@@ -6226,5 +6226,15 @@
         "axs_r&cMint": 3.047300756551893,
         "date": 1724468400,
         "weth_marketplace": 0.769249059526863
+    },
+    {
+        "_id": "66cbbd652f78ca368caca68f",
+        "timestamp": "2024-08-25 00:00:00",
+        "axs_ascending": 316.36887649962944,
+        "axs_breeding": 194.0,
+        "axs_partsEvol": 337.37851122402327,
+        "axs_r&cMint": 1.3886075642437696,
+        "date": 1724554800,
+        "weth_marketplace": 0.7596698822986524
     }
 ]
