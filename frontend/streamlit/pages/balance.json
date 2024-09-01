@@ -2020,5 +2020,62 @@
             ]
         },
         "timestamp": "2024-08-31 02:55:25.927000"
+    },
+    {
+        "_id": "66d3b0c9e75def8b267315f1",
+        "result": {
+            "items": [
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x12b707c3d2786570cfdc3a998a085b62acdba4b3",
+                    "tokenName": "Axie Material",
+                    "tokenSymbol": "AM",
+                    "tokenStandard": "ERC1155",
+                    "decimals": 0,
+                    "balance": "1",
+                    "std_value": 1.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+                    "tokenName": "Axie Infinity Shard",
+                    "tokenSymbol": "AXS",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "22599208874341370889947744",
+                    "std_value": 22599208.874341372
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+                    "tokenName": "Smooth Love Potion",
+                    "tokenSymbol": "SLP",
+                    "tokenStandard": "ERC20",
+                    "decimals": 0,
+                    "balance": "1335",
+                    "std_value": 1335.0
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                    "tokenName": "Ronin Wrapped Ether",
+                    "tokenSymbol": "WETH",
+                    "tokenStandard": "ERC20",
+                    "decimals": 18,
+                    "balance": "58527475622242699952399",
+                    "std_value": 58527.4756222427
+                },
+                {
+                    "ownerAddress": "0x245db945c485b68fdc429e4f7085a1761aa4d45d",
+                    "tokenName": "Ronin",
+                    "tokenSymbol": "RON",
+                    "tokenStandard": "NATIVE",
+                    "decimals": 18,
+                    "balance": "204100000000000000",
+                    "std_value": 0.2041
+                }
+            ]
+        },
+        "timestamp": "2024-09-01 00:09:45.897000"
     }
 ]
