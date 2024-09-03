@@ -6316,15 +6316,5 @@
         "axs_r&cMint": 141.7248783343124,
         "date": 1725246000,
         "weth_marketplace": 1.2379507777196108
-    },
-    {
-        "_id": "66d69c7d69b9da84940460ce",
-        "timestamp": "2024-09-03 00:00:00",
-        "axs_ascending": 92.12088901036654,
-        "axs_breeding": 61.0,
-        "axs_partsEvol": 100.80041615993345,
-        "axs_r&cMint": 32.496125192524936,
-        "date": 1725332400,
-        "weth_marketplace": 0.1910961206130646
     }
 ]
