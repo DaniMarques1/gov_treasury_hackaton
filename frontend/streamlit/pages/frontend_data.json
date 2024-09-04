@@ -6168,7 +6168,7 @@
         "weth_marketplace": 1.0385129347918172
     },
     {
-        "_id": "66d69c7d69b9da84940460b0",
+        "_id": "66d7a55469b9da849405f0b8",
         "timestamp": "2024-08-19 00:00:00",
         "axs_ascending": 341.27535868009824,
         "axs_breeding": 263.0,
@@ -6178,7 +6178,7 @@
         "weth_marketplace": 2.2707803419321975
     },
     {
-        "_id": "66d69c7d69b9da84940460b2",
+        "_id": "66d7a55469b9da849405f0ba",
         "timestamp": "2024-08-20 00:00:00",
         "axs_ascending": 321.54868699654844,
         "axs_breeding": 240.0,
@@ -6188,7 +6188,7 @@
         "weth_marketplace": 0.6427394469048736
     },
     {
-        "_id": "66d69c7d69b9da84940460b4",
+        "_id": "66d7a55469b9da849405f0bc",
         "timestamp": "2024-08-21 00:00:00",
         "axs_ascending": 362.27687131969265,
         "axs_breeding": 228.0,
@@ -6198,7 +6198,7 @@
         "weth_marketplace": 0.7928539635329371
     },
     {
-        "_id": "66d69c7d69b9da84940460b6",
+        "_id": "66d7a55469b9da849405f0be",
         "timestamp": "2024-08-22 00:00:00",
         "axs_ascending": 388.3234720150395,
         "axs_breeding": 317.0,
@@ -6208,7 +6208,7 @@
         "weth_marketplace": 0.7493073592453129
     },
     {
-        "_id": "66d69c7d69b9da84940460b8",
+        "_id": "66d7a55469b9da849405f0c0",
         "timestamp": "2024-08-23 00:00:00",
         "axs_ascending": 353.2317293889505,
         "axs_breeding": 239.0,
@@ -6218,7 +6218,7 @@
         "weth_marketplace": 1.17865026031249
     },
     {
-        "_id": "66d69c7d69b9da84940460ba",
+        "_id": "66d7a55469b9da849405f0c2",
         "timestamp": "2024-08-24 00:00:00",
         "axs_ascending": 299.36802558615756,
         "axs_breeding": 227.5,
@@ -6228,7 +6228,7 @@
         "weth_marketplace": 0.769249059526863
     },
     {
-        "_id": "66d69c7d69b9da84940460bc",
+        "_id": "66d7a55469b9da849405f0c4",
         "timestamp": "2024-08-25 00:00:00",
         "axs_ascending": 325.492424180875,
         "axs_breeding": 196.0,
@@ -6238,7 +6238,7 @@
         "weth_marketplace": 0.7677683531020861
     },
     {
-        "_id": "66d69c7d69b9da84940460be",
+        "_id": "66d7a55469b9da849405f0c6",
         "timestamp": "2024-08-26 00:00:00",
         "axs_ascending": 330.8618048672779,
         "axs_breeding": 249.0,
@@ -6248,7 +6248,7 @@
         "weth_marketplace": 0.8220142240216013
     },
     {
-        "_id": "66d69c7d69b9da84940460c0",
+        "_id": "66d7a55469b9da849405f0c8",
         "timestamp": "2024-08-27 00:00:00",
         "axs_ascending": 346.3158742543925,
         "axs_breeding": 265.5,
@@ -6258,7 +6258,7 @@
         "weth_marketplace": 0.8576095879822395
     },
     {
-        "_id": "66d69c7d69b9da84940460c2",
+        "_id": "66d7a55469b9da849405f0ca",
         "timestamp": "2024-08-28 00:00:00",
         "axs_ascending": 432.17840899588157,
         "axs_breeding": 367.5,
@@ -6268,7 +6268,7 @@
         "weth_marketplace": 1.2436718316502682
     },
     {
-        "_id": "66d69c7d69b9da84940460c4",
+        "_id": "66d7a55469b9da849405f0cc",
         "timestamp": "2024-08-29 00:00:00",
         "axs_ascending": 431.48642729934,
         "axs_breeding": 364.5,
@@ -6278,7 +6278,7 @@
         "weth_marketplace": 1.1813183898162607
     },
     {
-        "_id": "66d69c7d69b9da84940460c6",
+        "_id": "66d7a55469b9da849405f0ce",
         "timestamp": "2024-08-30 00:00:00",
         "axs_ascending": 403.94272891618715,
         "axs_breeding": 219.5,
@@ -6288,7 +6288,7 @@
         "weth_marketplace": 1.15677868848065
     },
     {
-        "_id": "66d69c7d69b9da84940460c8",
+        "_id": "66d7a55469b9da849405f0d0",
         "timestamp": "2024-08-31 00:00:00",
         "axs_ascending": 372.8173165009577,
         "axs_breeding": 271.0,
@@ -6298,7 +6298,7 @@
         "weth_marketplace": 1.0762848672466554
     },
     {
-        "_id": "66d69c7d69b9da84940460ca",
+        "_id": "66d7a55469b9da849405f0d2",
         "timestamp": "2024-09-01 00:00:00",
         "axs_ascending": 424.09672817473955,
         "axs_breeding": 251.0,
@@ -6308,7 +6308,7 @@
         "weth_marketplace": 0.8137222590412702
     },
     {
-        "_id": "66d69c7d69b9da84940460cc",
+        "_id": "66d7a55469b9da849405f0d4",
         "timestamp": "2024-09-02 00:00:00",
         "axs_ascending": 424.3011378551067,
         "axs_breeding": 327.0,
@@ -6316,5 +6316,25 @@
         "axs_r&cMint": 141.7248783343124,
         "date": 1725246000,
         "weth_marketplace": 1.2379507777196108
+    },
+    {
+        "_id": "66d7a55469b9da849405f0d6",
+        "timestamp": "2024-09-03 00:00:00",
+        "axs_ascending": 381.35086167128105,
+        "axs_breeding": 234.5,
+        "axs_partsEvol": 435.68830417016306,
+        "axs_r&cMint": 105.96767502343393,
+        "date": 1725332400,
+        "weth_marketplace": 1.1782171011403642
+    },
+    {
+        "_id": "66d7a55469b9da849405f0d8",
+        "timestamp": "2024-09-04 00:00:00",
+        "axs_ascending": 1.914282997017706,
+        "axs_breeding": 2.0,
+        "axs_partsEvol": 0.45386645006712983,
+        "axs_r&cMint": 0.7932173087392503,
+        "date": 1725418800,
+        "weth_marketplace": 0.00452746000658501
     }
 ]
