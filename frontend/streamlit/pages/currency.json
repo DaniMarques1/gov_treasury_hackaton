@@ -232,5 +232,11 @@
         "timestamp": "2024-09-04 00:09:53.752000",
         "axs_price": 4.47,
         "weth_price": 2434.59
+    },
+    {
+        "_id": "66d91a821baf5e0bd7bdb149",
+        "timestamp": "2024-09-05 02:42:10.012000",
+        "axs_price": 4.54,
+        "weth_price": 2447.49
     }
 ]
