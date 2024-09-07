@@ -70,7 +70,7 @@ category_map = {
 daily_df['Category'] = daily_df['Category'].map(category_map)
 
 # Add other daily values to the reshaped DataFrame for tooltips
-daily_df = daily_df.merge(df[['Date', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint']], on='Date', how='left')
+daily_df = daily_df.merge(df[['Date', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint','axs_atia']], on='Date', how='left')
 
 st.markdown(f"<h1 style='text-align: center;'>AXS Daily Inflows and Accumulation</h1>", unsafe_allow_html=True)
 
