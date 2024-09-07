@@ -39,32 +39,34 @@ df['Ascension'] = df['axs_ascending'].cumsum()
 df['Breeding'] = df['axs_breeding'].cumsum()
 df['Parts Evolution'] = df['axs_partsEvol'].cumsum()
 df['R&C Mint'] = df['axs_r&cMint'].cumsum()
-df['Daily AXS'] = df[['axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint']].sum(axis=1)
+df['Altar Restore'] = df['axs_atia'].cumsum()  # New field for Atia
+df['Daily AXS'] = df[['axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint', 'axs_atia']].sum(axis=1)  # Include axs_atia
 df['Cumulative Total AXS'] = df['Daily AXS'].cumsum()
 
 # Reshape data for cumulative chart
-cumulative_df = df[['Date', 'Ascension', 'Breeding', 'Parts Evolution', 'R&C Mint', 'Cumulative Total AXS', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint']].melt(
-    id_vars=['Date', 'Cumulative Total AXS', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint'],
+cumulative_df = df[['Date', 'Ascension', 'Breeding', 'Parts Evolution', 'R&C Mint', 'Altar Restore', 'Cumulative Total AXS', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint', 'axs_atia']].melt(
+    id_vars=['Date', 'Cumulative Total AXS', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint', 'axs_atia'],
     var_name='Category',
     value_name='AXS'
 )
 
-# Map the original column names to the desired category names
-category_map = {
-    'axs_ascending': 'Ascension',
-    'axs_breeding': 'Breeding',
-    'axs_partsEvol': 'Parts Evolution',
-    'axs_r&cMint': 'R&C Mint'
-}
-
 # Reshape data for daily chart
-daily_df = df[['Date', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint', 'Daily AXS']].melt(
+daily_df = df[['Date', 'axs_ascending', 'axs_breeding', 'axs_partsEvol', 'axs_r&cMint', 'axs_atia', 'Daily AXS']].melt(
     id_vars=['Date', 'Daily AXS'],
     var_name='Category',
     value_name='AXS'
 )
 
 # Map the original column names to the desired category names in the daily_df
+category_map = {
+    'axs_ascending': 'Ascension',
+    'axs_breeding': 'Breeding',
+    'axs_partsEvol': 'Parts Evolution',
+    'axs_r&cMint': 'R&C Mint',
+    'axs_atia': 'Altar Restore'  # Add the new category for Atia
+}
+
+# Apply the category map
 daily_df['Category'] = daily_df['Category'].map(category_map)
 
 # Add other daily values to the reshaped DataFrame for tooltips
@@ -89,6 +91,7 @@ accumulated_ascension = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.d
 accumulated_breeding = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['axs_breeding'].sum()
 accumulated_parts_evol = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['axs_partsEvol'].sum()
 accumulated_rc_mint = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['axs_r&cMint'].sum()
+accumulated_atia = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['axs_atia'].sum()
 accumulated_total_axs = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]['Daily AXS'].sum()
 
 # Function to get the latest AXS price and timestamp from the currency data
@@ -116,12 +119,21 @@ else:
     else:
         st.markdown(f"<p style='text-align: center; color: grey;'>Current AXS Price: N/A</p>", unsafe_allow_html=True)
 
-# Display the accumulated sums in metric boxes side by side
-col1, col2, col3, col4 = st.columns(4)
-col1.metric(label="Ascension", value=f"{accumulated_ascension:,.2f}")
-col2.metric(label="Breeding", value=f"{accumulated_breeding:,.2f}")
-col3.metric(label="Parts Evolution", value=f"{accumulated_parts_evol:,.2f}")
-col4.metric(label="R&C Mint", value=f"{accumulated_rc_mint:,.2f}")
+def format_large_number(num):
+    if abs(num) >= 1_000_000:
+        return f"{num / 1_000_000:.1f}M"
+    elif abs(num) >= 1_000:
+        return f"{num / 1_000:.1f}k"
+    else:
+        return f"{num:.2f}"
+
+col1, col2, col3, col4, col5 = st.columns(5)
+col1.metric(label="Ascension", value=format_large_number(accumulated_ascension))
+col2.metric(label="Breeding", value=format_large_number(accumulated_breeding))
+col3.metric(label="Parts Evolution", value=format_large_number(accumulated_parts_evol))
+col4.metric(label="R&C Mint", value=format_large_number(accumulated_rc_mint))
+col5.metric(label="Altar Restore", value=format_large_number(accumulated_atia))
+
 
 # Define tooltip for cumulative and daily charts
 tooltip_cumulative = [
@@ -131,6 +143,7 @@ tooltip_cumulative = [
     alt.Tooltip('axs_breeding:Q', title='Daily Breeding', format=",.2f"),
     alt.Tooltip('axs_partsEvol:Q', title='Daily Parts Evolution', format=",.2f"),
     alt.Tooltip('axs_r&cMint:Q', title='Daily R&C Mint', format=",.2f"),
+    alt.Tooltip('axs_atia:Q', title='Daily Altar Restore', format=",.2f")  # Add Atia tooltip
 ]
 
 tooltip_daily = [
@@ -139,7 +152,8 @@ tooltip_daily = [
     alt.Tooltip('axs_ascending:Q', title='Daily Ascension', format=",.2f"),
     alt.Tooltip('axs_breeding:Q', title='Daily Breeding', format=",.2f"),
     alt.Tooltip('axs_partsEvol:Q', title='Daily Parts Evolution', format=",.2f"),
-    alt.Tooltip('axs_r&cMint:Q', title='Daily R&C Mint', format=",.2f")
+    alt.Tooltip('axs_r&cMint:Q', title='Daily R&C Mint', format=",.2f"),
+    alt.Tooltip('axs_atia:Q', title='Daily Altar Restore', format=",.2f")  # Add Atia tooltip
 ]
 
 # Define tooltip for the Breeding chart
@@ -168,7 +182,9 @@ tooltip_ascension = [
 chart_cumulative = alt.Chart(filtered_cumulative_df).mark_bar().encode(
     x='Date:T',
     y=alt.Y('AXS:Q', title='Cumulative AXS'),
-    color='Category:N',
+    color=alt.Color('Category:N', scale=alt.Scale(domain=[
+        'Altar Restore', 'Ascension', 'Breeding', 'Parts Evolution', 'R&C Mint'],
+        range=['#8c7bf4', '#80c6fb', '#0068c8', '#ffabab', '#ff2b2b'])),
     tooltip=tooltip_cumulative
 ).properties(
     title='Cumulative Sum of AXS Values'
@@ -184,7 +200,9 @@ daily_axs_average = filtered_daily_df['Daily AXS'].mean()
 chart_daily_axs = alt.Chart(filtered_daily_df).mark_bar().encode(
     x='Date:T',
     y=alt.Y('AXS:Q', title='Daily AXS'),
-    color='Category:N',
+    color=alt.Color('Category:N', scale=alt.Scale(domain=[
+        'Altar Restore', 'Ascension', 'Breeding', 'Parts Evolution', 'R&C Mint'],
+        range=['#8c7bf4', '#80c6fb', '#0068c8', '#ffabab', '#ff2b2b'])),
     tooltip=tooltip_daily
 ).properties(
     title='Daily AXS Values by Category'
@@ -315,6 +333,54 @@ average_line_ascension = alt.Chart(ascension_df).mark_rule(color='orange', strok
 chart_ascension_with_average = chart_ascension + average_line_ascension
 
 st.altair_chart(chart_ascension_with_average, use_container_width=True)
+
+# Filter data to include only rows where 'Altar Restore' has non-zero values
+filtered_altar_restore_df = daily_df[(daily_df['Category'] == 'Altar Restore') & (daily_df['AXS'] > 0)]
+
+# Filter data based on selected date range
+filtered_daily_df = daily_df[(daily_df['Date'].dt.date >= start_date) & (daily_df['Date'].dt.date <= end_date)]
+
+# Filter data for Altar Restore, excluding zero or NaN values
+filtered_altar_restore_df = filtered_daily_df[(filtered_daily_df['Category'] == 'Altar Restore') & (filtered_daily_df['AXS'] > 0)]
+
+# Check if there are any records for Altar Restore after filtering
+if not filtered_altar_restore_df.empty:
+    # Chart 7: Daily Altar Restore Values (Line Chart)
+    # Calculate the average for Altar Restore based on the filtered data
+    altar_restore_average = filtered_altar_restore_df['AXS'].mean()
+
+    # Create the chart for Altar Restore, starting when there are non-zero records
+    chart_altar_restore = alt.Chart(filtered_altar_restore_df).mark_line().encode(
+        x='Date:T',
+        y=alt.Y('AXS:Q', title='Daily Altar Restore AXS'),
+        tooltip=[
+            alt.Tooltip('Date:T', title='Date'),
+            alt.Tooltip('AXS:Q', title='Daily Altar Restore AXS', format=",.2f")
+        ]
+    ).properties(
+        title='Daily Altar Restore AXS Values'
+    ).interactive()
+
+    # Average Line for Altar Restore
+    average_line_altar_restore = alt.Chart(filtered_altar_restore_df).mark_rule(color='purple', strokeDash=[4, 2]).encode(
+        y=alt.Y('mean(AXS):Q', title='Average AXS'),
+        size=alt.value(2),
+        tooltip=[alt.Tooltip('mean(AXS):Q', title='Average AXS', format=",.2f")]
+    ).transform_window(
+        mean='mean(AXS)',
+        frame=[None, None]
+    )
+
+    # Combine the charts
+    chart_altar_restore_with_average = chart_altar_restore + average_line_altar_restore
+
+    # Display the combined chart for Altar Restore
+    st.altair_chart(chart_altar_restore_with_average, use_container_width=True)
+else:
+    st.write("No data available for Altar Restore in the selected date range.")
+
+
+
 
 
 
