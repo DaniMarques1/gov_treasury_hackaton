@@ -13362,23 +13362,5 @@
         "weth_r&c": 0.0394993389325,
         "axs_totals": 1272.2307086239782,
         "weth_marketplace": 1.074911368100992
-    },
-    {
-        "_id": "66ece543f419e16642991c47",
-        "timestamp": "2024-09-20 00:00:00",
-        "axs_ascending": 34.846289877192326,
-        "axs_atia": 2.045208387692066,
-        "axs_breeding": 14.5,
-        "axs_partsEvol": 38.36167599563267,
-        "axs_r&cMint": 19.4154642431848,
-        "date": 1726801200,
-        "weth_accessory": 0.00023535,
-        "weth_axie": 0.0644921226122907,
-        "weth_cocochoco": 0.000924448155,
-        "weth_land": 0.06175,
-        "weth_material": 0.005105186402499931,
-        "weth_r&c": 0.003723462225,
-        "axs_totals": 109.16863850370186,
-        "weth_marketplace": 0.1362305693947906
     }
 ]
